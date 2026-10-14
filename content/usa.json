@@ -1,0 +1,391 @@
+{
+  "updated": "2026-10-14",
+  "slug": "usa",
+  "nav": "USA",
+  "navOrder": 6,
+  "title": "US Internet Providers & Cell Phone Plans Compared",
+  "description": "Compare US internet providers and cell phone carriers: Xfinity, Spectrum, AT&T, Verizon, T-Mobile, Starlink and prepaid brands, plus FCC labels and switching.",
+  "eyebrow": "United States",
+  "h1": "US internet and cell phone plans compared",
+  "intro": "In the US, home internet choice depends heavily on your address, with cable, fiber, fixed wireless and satellite competing street by street. Cell service is run by three national carriers and many prepaid brands.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1602940659805-770d1b3b9911",
+    "alt": "People crossing a street in Times Square, New York",
+    "credit": "Andreas Niendorf",
+    "creditUrl": "https://unsplash.com/@ndrf"
+  },
+  "blocks": [
+    {
+      "type": "specs",
+      "title": "Major US providers",
+      "intro": "Cable and fiber providers are regional, so always check your address. Prepaid brands use one of the three national networks.",
+      "items": [
+        {
+          "tag": "us",
+          "mono": "Xf",
+          "title": "Xfinity",
+          "kind": "Internet · TV · Mobile",
+          "text": "Comcast’s brand and one of the largest US home internet providers, mostly over cable.",
+          "specs": [
+            [
+              "Network",
+              "Own cable &amp; fiber"
+            ],
+            [
+              "Mobile",
+              "Xfinity Mobile (Verizon)"
+            ],
+            [
+              "Owner",
+              "Comcast"
+            ],
+            [
+              "Coverage",
+              "Regional"
+            ]
+          ],
+          "url": "https://www.xfinity.com/",
+          "badge": "Cable"
+        },
+        {
+          "tag": "us",
+          "mono": "Sp",
+          "title": "Spectrum",
+          "kind": "Internet · TV · Mobile",
+          "text": "Charter’s brand, selling cable internet across many states, with mobile on Verizon’s network.",
+          "specs": [
+            [
+              "Network",
+              "Own cable"
+            ],
+            [
+              "Mobile",
+              "Spectrum Mobile (Verizon)"
+            ],
+            [
+              "Owner",
+              "Charter"
+            ],
+            [
+              "Coverage",
+              "Regional"
+            ]
+          ],
+          "url": "https://www.spectrum.com/",
+          "badge": "Cable"
+        },
+        {
+          "tag": "us",
+          "mono": "AT",
+          "title": "AT&T",
+          "kind": "Fiber · Wireless",
+          "text": "Runs a national mobile network plus AT&amp;T Fiber and fixed wireless home internet in parts of the country.",
+          "specs": [
+            [
+              "Network",
+              "Own fiber &amp; wireless"
+            ],
+            [
+              "Home options",
+              "Fiber, Internet Air"
+            ],
+            [
+              "Prepaid brand",
+              "Cricket"
+            ],
+            [
+              "Coverage",
+              "National mobile"
+            ]
+          ],
+          "url": "https://www.att.com/",
+          "badge": "Carrier"
+        },
+        {
+          "tag": "us",
+          "mono": "Vz",
+          "title": "Verizon",
+          "kind": "Fios · 5G Home · Wireless",
+          "text": "A national mobile carrier that also sells Fios fiber in the Northeast and 5G Home Internet.",
+          "specs": [
+            [
+              "Network",
+              "Own fiber &amp; wireless"
+            ],
+            [
+              "Home options",
+              "Fios, 5G Home"
+            ],
+            [
+              "Prepaid brands",
+              "Visible, Total"
+            ],
+            [
+              "Coverage",
+              "National mobile"
+            ]
+          ],
+          "url": "https://www.verizon.com/",
+          "badge": "Carrier"
+        },
+        {
+          "tag": "us",
+          "mono": "TM",
+          "title": "T-Mobile",
+          "kind": "5G Home · Wireless",
+          "text": "A national mobile carrier whose 5G Home Internet is a popular alternative to cable.",
+          "specs": [
+            [
+              "Network",
+              "Own wireless"
+            ],
+            [
+              "Home options",
+              "5G Home Internet, fiber in some areas"
+            ],
+            [
+              "Brands",
+              "Metro, Mint Mobile"
+            ],
+            [
+              "Coverage",
+              "National mobile"
+            ]
+          ],
+          "url": "https://www.t-mobile.com/",
+          "badge": "Carrier"
+        },
+        {
+          "tag": "us",
+          "mono": "SL",
+          "title": "Starlink",
+          "kind": "Satellite internet",
+          "text": "SpaceX’s low-orbit satellite service, used where cable and fiber don’t reach.",
+          "specs": [
+            [
+              "Network",
+              "Low-orbit satellites"
+            ],
+            [
+              "Kit",
+              "Dish you set up"
+            ],
+            [
+              "Best for",
+              "Rural homes, RVs"
+            ],
+            [
+              "Coverage",
+              "Most of the US"
+            ]
+          ],
+          "url": "https://www.starlink.com/",
+          "badge": "Satellite"
+        },
+        {
+          "tag": "us",
+          "mono": "Mi",
+          "title": "Mint Mobile",
+          "kind": "Prepaid wireless",
+          "text": "Prepaid plans bought in multi-month blocks, running on T-Mobile’s network.",
+          "specs": [
+            [
+              "Uses network",
+              "T-Mobile"
+            ],
+            [
+              "Plans",
+              "Prepaid, multi-month"
+            ],
+            [
+              "Owner",
+              "T-Mobile"
+            ],
+            [
+              "Type",
+              "MVNO"
+            ]
+          ],
+          "url": "https://www.mintmobile.com/"
+        },
+        {
+          "tag": "us",
+          "mono": "Vi",
+          "title": "Visible",
+          "kind": "Prepaid wireless",
+          "text": "Verizon’s app-based, all-digital brand running on the Verizon network.",
+          "specs": [
+            [
+              "Uses network",
+              "Verizon"
+            ],
+            [
+              "Plans",
+              "Monthly, no contract"
+            ],
+            [
+              "Owner",
+              "Verizon"
+            ],
+            [
+              "Type",
+              "MVNO"
+            ]
+          ],
+          "url": "https://www.visible.com/"
+        },
+        {
+          "tag": "us",
+          "mono": "Cr",
+          "title": "Cricket Wireless",
+          "kind": "Prepaid wireless",
+          "text": "AT&amp;T’s prepaid brand, sold online and in stores.",
+          "specs": [
+            [
+              "Uses network",
+              "AT&amp;T"
+            ],
+            [
+              "Plans",
+              "Prepaid"
+            ],
+            [
+              "Owner",
+              "AT&amp;T"
+            ],
+            [
+              "Type",
+              "MVNO"
+            ]
+          ],
+          "url": "https://www.cricketwireless.com/"
+        },
+        {
+          "tag": "us",
+          "mono": "Fi",
+          "title": "Google Fi",
+          "kind": "Wireless",
+          "text": "Google’s phone service, running mainly on T-Mobile, popular with travelers for its international data.",
+          "specs": [
+            [
+              "Uses network",
+              "T-Mobile"
+            ],
+            [
+              "Plans",
+              "Monthly"
+            ],
+            [
+              "Owner",
+              "Google"
+            ],
+            [
+              "Type",
+              "MVNO"
+            ]
+          ],
+          "url": "https://fi.google.com/"
+        },
+        {
+          "tag": "us",
+          "mono": "Co",
+          "title": "Cox",
+          "kind": "Internet · TV",
+          "text": "A private cable provider serving parts of the South, Southwest and Midwest.",
+          "specs": [
+            [
+              "Network",
+              "Own cable &amp; fiber"
+            ],
+            [
+              "Also sells",
+              "TV, Cox Mobile"
+            ],
+            [
+              "Owner",
+              "Cox Enterprises"
+            ],
+            [
+              "Coverage",
+              "Regional"
+            ]
+          ],
+          "url": "https://www.cox.com/"
+        },
+        {
+          "tag": "us",
+          "mono": "Mt",
+          "title": "Metro by T-Mobile",
+          "kind": "Prepaid wireless",
+          "text": "T-Mobile’s prepaid brand with phone deals sold through stores.",
+          "specs": [
+            [
+              "Uses network",
+              "T-Mobile"
+            ],
+            [
+              "Plans",
+              "Prepaid"
+            ],
+            [
+              "Owner",
+              "T-Mobile"
+            ],
+            [
+              "Type",
+              "Sub-brand"
+            ]
+          ],
+          "url": "https://www.metrobyt-mobile.com/"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Home internet types in the US",
+      "html": "<ul><li><strong>Cable</strong> (Xfinity, Spectrum, Cox): widely available in cities and suburbs, with fast downloads.</li><li><strong>Fiber</strong> (AT&amp;T Fiber, Verizon Fios and others): the fastest option, with symmetrical speeds on many plans, where available.</li><li><strong>5G home internet</strong> (T-Mobile, Verizon, AT&amp;T Internet Air): simple setup, no line needed; performance depends on local signal.</li><li><strong>Satellite</strong> (Starlink and others): for rural areas where wired options don’t reach.</li></ul><p>Check the <a href=\"https://broadbandmap.fcc.gov/\" rel=\"noopener\" target=\"_blank\">FCC National Broadband Map</a> to see which providers report service at your address.</p>"
+    },
+    {
+      "h2": "Use the FCC broadband label",
+      "html": "<p>Since 2024, internet providers must show a standard “broadband facts” label at the point of sale, listing the monthly price, introductory periods, one-time and monthly fees, and typical speeds and latency. It’s the easiest way to compare like with like. <a href=\"/blog/fcc-broadband-labels/\">Read our guide</a>.</p>"
+    },
+    {
+      "h2": "Cell plans: postpaid vs prepaid",
+      "html": "<p><strong>Postpaid</strong> plans from AT&amp;T, Verizon and T-Mobile bundle perks and often device deals, billed after use. <strong>Prepaid</strong> brands (Cricket, Visible, Metro, Mint and others) are paid in advance and are often cheaper for the same network. Check whether a prepaid brand has lower data priority at busy times.</p>"
+    },
+    {
+      "h2": "Help with costs",
+      "html": "<p>The federal <strong>Lifeline</strong> program offers a monthly discount on phone or internet service for eligible low-income households. The Affordable Connectivity Program stopped taking new funding in 2024. Some providers also run their own low-income plans. Check eligibility at the <a href=\"https://www.lifelinesupport.org/\" rel=\"noopener\" target=\"_blank\">Lifeline Support</a> site.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What counts as broadband in the US?",
+      "a": "In 2024 the FCC raised its benchmark for fixed broadband to 100 Mbps download and 20 Mbps upload."
+    },
+    {
+      "q": "How do I keep my number when switching carrier?",
+      "a": "Ask the new carrier to port your number. You’ll need your account number and a number transfer PIN from your current carrier. Don’t cancel the old line first."
+    }
+  ],
+  "keywords": [
+    "internet providers",
+    "isp",
+    "cell phone plans",
+    "cellphone",
+    "xfinity",
+    "spectrum",
+    "verizon",
+    "at&t",
+    "t-mobile",
+    "starlink",
+    "prepaid"
+  ],
+  "cardText": "Cable, fiber, 5G home and satellite internet, plus carriers and prepaid brands.",
+  "related": [
+    "blog/fcc-broadband-labels",
+    "networks",
+    "rural-broadband"
+  ]
+}

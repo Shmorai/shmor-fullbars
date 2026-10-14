@@ -1,0 +1,57 @@
+{
+  "updated": "2026-10-14",
+  "slug": "networks",
+  "nav": "Which network?",
+  "title": "Which Network Does My Mobile Provider Use? (MVNOs)",
+  "description": "Find out which network your mobile provider really uses. UK, US and European MVNO brands mapped to their host networks, so you can compare coverage fairly.",
+  "eyebrow": "Mobile guide",
+  "h1": "Which network does my provider use?",
+  "intro": "Brands like giffgaff, Smarty, Mint Mobile and Visible don’t own masts. They’re MVNOs (mobile virtual network operators) renting space on a bigger network. Here’s who uses whom.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1511233744044-194342066754",
+    "alt": "Telecoms tower fitted with antennas and dishes",
+    "credit": "Tony Stoddard",
+    "creditUrl": "https://unsplash.com/@tonystoddard"
+  },
+  "sections": [
+    {
+      "h2": "United Kingdom",
+      "html": "<table><thead><tr><th>Network</th><th>Brands that use it</th></tr></thead><tbody><tr><td><strong>EE</strong></td><td>BT Mobile</td></tr><tr><td><strong>O2</strong></td><td>giffgaff, Tesco Mobile, Sky Mobile, Virgin Mobile</td></tr><tr><td><strong>Vodafone</strong></td><td>VOXI, Lebara, Asda Mobile, Talkmobile</td></tr><tr><td><strong>Three</strong></td><td>Smarty, iD Mobile</td></tr></tbody></table><p>Vodafone and Three merged in 2025 as VodafoneThree and are integrating their networks, so customers of both, and the brands that use them, should gradually see a combined network.</p>"
+    },
+    {
+      "h2": "United States",
+      "html": "<table><thead><tr><th>Network</th><th>Brands that use it</th></tr></thead><tbody><tr><td><strong>Verizon</strong></td><td>Visible, Total Wireless, Xfinity Mobile, Spectrum Mobile</td></tr><tr><td><strong>AT&amp;T</strong></td><td>Cricket Wireless</td></tr><tr><td><strong>T-Mobile</strong></td><td>Metro by T-Mobile, Mint Mobile, Google Fi</td></tr></tbody></table><p>Some US MVNOs use more than one network, or let you pick one when you sign up. Check before you buy.</p>"
+    },
+    {
+      "h2": "Europe",
+      "html": "<p>Most European countries have three or four network operators, with MVNOs on top. For example, Germany has Telekom, Vodafone, O2 Telefónica and newcomer 1&amp;1; France has Orange, SFR, Bouygues Telecom and Free; Spain has Movistar, MasOrange, Vodafone and DIGI. See our <a href=\"/europe/\">Europe guide</a>.</p>"
+    },
+    {
+      "h2": "Why it matters",
+      "html": "<ul><li><strong>Coverage</strong>: an MVNO’s coverage is its host network’s coverage, so compare postcode maps for the host.</li><li><strong>Price</strong>: MVNOs are often cheaper for the same masts.</li><li><strong>Priority and extras</strong>: some MVNOs get lower priority on busy masts, slower 5G or fewer roaming options.</li><li><strong>Changes</strong>: brands sometimes move networks. We check these regularly, but always confirm with the provider.</li></ul>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is an MVNO?",
+      "a": "A mobile virtual network operator: a brand that sells mobile plans using another company’s network instead of building its own masts."
+    },
+    {
+      "q": "Is giffgaff on O2?",
+      "a": "Yes. giffgaff is owned by Virgin Media O2 and runs on the O2 network."
+    }
+  ],
+  "keywords": [
+    "mvno",
+    "which network",
+    "what network does giffgaff use",
+    "host network",
+    "mobile network coverage"
+  ],
+  "cardText": "giffgaff, Smarty, Mint, Visible and more mapped to the masts they really use.",
+  "related": [
+    "mobile",
+    "sim-only-deals",
+    "usa"
+  ]
+}

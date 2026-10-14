@@ -1,0 +1,470 @@
+{
+  "updated": "2026-10-14",
+  "slug": "broadband",
+  "nav": "Broadband",
+  "navOrder": 1,
+  "title": "Compare Broadband Deals & Providers in the UK",
+  "description": "Compare UK broadband providers: BT, Sky, Virgin Media, TalkTalk, Vodafone and full fibre altnets. Networks, contracts and what to check before you sign.",
+  "eyebrow": "Compare broadband",
+  "h1": "Compare UK broadband providers",
+  "intro": "Most UK broadband runs over one of a handful of networks, then gets sold by dozens of brands. Here’s who sells what, how they differ, and the checks that matter more than the headline price.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1516044734145-07ca8eef8731",
+    "alt": "Home broadband router with its status lights on",
+    "credit": "Misha Feshchak",
+    "creditUrl": "https://unsplash.com/@extaf_ms"
+  },
+  "chips": [
+    {
+      "label": "Full fibre",
+      "slug": "full-fibre-broadband"
+    },
+    {
+      "label": "Speed guide",
+      "slug": "broadband-speed"
+    },
+    {
+      "label": "TV & broadband",
+      "slug": "tv-and-broadband"
+    },
+    {
+      "label": "Social tariffs",
+      "slug": "cheap-broadband"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "specs",
+      "title": "UK broadband providers compared",
+      "intro": "Each card shows the network a provider uses and what else it sells. Availability and prices depend on your address.",
+      "items": [
+        {
+          "tag": "uk",
+          "mono": "BT",
+          "title": "BT",
+          "kind": "Broadband · Landline · TV",
+          "text": "The UK’s former national phone company and one of its biggest broadband providers.",
+          "specs": [
+            [
+              "Network",
+              "Openreach"
+            ],
+            [
+              "Tech",
+              "Full fibre &amp; part fibre"
+            ],
+            [
+              "Also sells",
+              "TV, landline"
+            ],
+            [
+              "Owner",
+              "BT Group"
+            ]
+          ],
+          "url": "https://www.bt.com/",
+          "badge": "Big four"
+        },
+        {
+          "tag": "uk",
+          "mono": "Sk",
+          "title": "Sky",
+          "kind": "Broadband · TV · Mobile",
+          "text": "Best known for TV packages; broadband runs over the Openreach network.",
+          "specs": [
+            [
+              "Network",
+              "Openreach"
+            ],
+            [
+              "Tech",
+              "Full fibre &amp; part fibre"
+            ],
+            [
+              "Also sells",
+              "TV, Sky Mobile (O2)"
+            ],
+            [
+              "Owner",
+              "Comcast"
+            ]
+          ],
+          "url": "https://www.sky.com/",
+          "badge": "Big four"
+        },
+        {
+          "tag": "uk",
+          "mono": "VM",
+          "title": "Virgin Media",
+          "kind": "Broadband · TV · Mobile",
+          "text": "Runs its own cable and fibre network instead of Openreach, so availability is address by address.",
+          "specs": [
+            [
+              "Network",
+              "Own cable &amp; fibre"
+            ],
+            [
+              "Tech",
+              "Cable (DOCSIS) &amp; full fibre"
+            ],
+            [
+              "Also sells",
+              "TV, landline, mobile (O2)"
+            ],
+            [
+              "Owner",
+              "Virgin Media O2"
+            ]
+          ],
+          "url": "https://www.virginmedia.com/",
+          "badge": "Big four"
+        },
+        {
+          "tag": "uk",
+          "mono": "TT",
+          "title": "TalkTalk",
+          "kind": "Broadband · Landline",
+          "text": "A broadband-focused provider that rents lines from Openreach and some alternative full fibre networks.",
+          "specs": [
+            [
+              "Network",
+              "Openreach + altnets"
+            ],
+            [
+              "Tech",
+              "Full fibre &amp; part fibre"
+            ],
+            [
+              "Focus",
+              "Broadband value"
+            ],
+            [
+              "Owner",
+              "TalkTalk Group"
+            ]
+          ],
+          "url": "https://www.talktalk.co.uk/",
+          "badge": "Big four"
+        },
+        {
+          "tag": "uk",
+          "mono": "Vf",
+          "title": "Vodafone",
+          "kind": "Broadband · Mobile",
+          "text": "Sells home broadband over Openreach and CityFibre alongside its mobile network.",
+          "specs": [
+            [
+              "Network",
+              "Openreach &amp; CityFibre"
+            ],
+            [
+              "Tech",
+              "Full fibre &amp; part fibre"
+            ],
+            [
+              "Also sells",
+              "Mobile, SIM only"
+            ],
+            [
+              "Owner",
+              "VodafoneThree"
+            ]
+          ],
+          "url": "https://www.vodafone.co.uk/"
+        },
+        {
+          "tag": "uk",
+          "mono": "EE",
+          "title": "EE",
+          "kind": "Broadband · Mobile · TV",
+          "text": "BT Group’s consumer brand, often bundling home broadband with EE mobile plans.",
+          "specs": [
+            [
+              "Network",
+              "Openreach"
+            ],
+            [
+              "Tech",
+              "Full fibre &amp; part fibre"
+            ],
+            [
+              "Also sells",
+              "Mobile, EE TV"
+            ],
+            [
+              "Owner",
+              "BT Group"
+            ]
+          ],
+          "url": "https://ee.co.uk/"
+        },
+        {
+          "tag": "uk",
+          "mono": "Pn",
+          "title": "Plusnet",
+          "kind": "Broadband · Landline",
+          "text": "A no-frills broadband brand from BT Group, run over the Openreach network.",
+          "specs": [
+            [
+              "Network",
+              "Openreach"
+            ],
+            [
+              "Tech",
+              "Full fibre &amp; part fibre"
+            ],
+            [
+              "Focus",
+              "Broadband value"
+            ],
+            [
+              "Owner",
+              "BT Group"
+            ]
+          ],
+          "url": "https://www.plus.net/"
+        },
+        {
+          "tag": "uk",
+          "mono": "Hy",
+          "title": "Hyperoptic",
+          "kind": "Full fibre broadband",
+          "text": "An alternative network that builds full fibre mainly into apartment blocks and city homes.",
+          "specs": [
+            [
+              "Network",
+              "Own full fibre"
+            ],
+            [
+              "Tech",
+              "Full fibre (FTTP)"
+            ],
+            [
+              "Where",
+              "Mostly cities &amp; flats"
+            ],
+            [
+              "Type",
+              "Altnet"
+            ]
+          ],
+          "url": "https://www.hyperoptic.com/"
+        },
+        {
+          "tag": "uk",
+          "mono": "CF",
+          "title": "Community Fibre",
+          "kind": "Full fibre broadband",
+          "text": "A London-focused full fibre network selling broadband directly to homes it has connected.",
+          "specs": [
+            [
+              "Network",
+              "Own full fibre"
+            ],
+            [
+              "Tech",
+              "Full fibre (FTTP)"
+            ],
+            [
+              "Where",
+              "London"
+            ],
+            [
+              "Type",
+              "Altnet"
+            ]
+          ],
+          "url": "https://communityfibre.co.uk/"
+        },
+        {
+          "tag": "uk",
+          "mono": "Zn",
+          "title": "Zen Internet",
+          "kind": "Broadband · Landline",
+          "text": "An independent UK provider that sells broadband over Openreach and CityFibre lines.",
+          "specs": [
+            [
+              "Network",
+              "Openreach &amp; CityFibre"
+            ],
+            [
+              "Tech",
+              "Full fibre &amp; part fibre"
+            ],
+            [
+              "Focus",
+              "Service-led ISP"
+            ],
+            [
+              "Type",
+              "Independent"
+            ]
+          ],
+          "url": "https://www.zen.co.uk/"
+        },
+        {
+          "tag": "uk",
+          "mono": "NW",
+          "title": "NOW Broadband",
+          "kind": "Broadband · Streaming",
+          "text": "Sky’s no-contract streaming brand also sells broadband over the Openreach network.",
+          "specs": [
+            [
+              "Network",
+              "Openreach"
+            ],
+            [
+              "Tech",
+              "Full fibre &amp; part fibre"
+            ],
+            [
+              "Also sells",
+              "NOW streaming passes"
+            ],
+            [
+              "Owner",
+              "Sky"
+            ]
+          ],
+          "url": "https://www.nowtv.com/"
+        },
+        {
+          "tag": "uk",
+          "mono": "YF",
+          "title": "YouFibre",
+          "kind": "Full fibre broadband",
+          "text": "An alternative full fibre provider known for multi-gigabit home packages where its network reaches.",
+          "specs": [
+            [
+              "Network",
+              "Altnet full fibre"
+            ],
+            [
+              "Tech",
+              "Full fibre (FTTP)"
+            ],
+            [
+              "Where",
+              "Selected towns"
+            ],
+            [
+              "Type",
+              "Altnet"
+            ]
+          ],
+          "url": "https://www.youfibre.com/"
+        }
+      ],
+      "more": {
+        "title": "All providers",
+        "slug": "providers"
+      }
+    },
+    {
+      "type": "meters",
+      "title": "Broadband types, by top speed",
+      "intro": "The technology to your door sets the ceiling. Ask which one a deal uses before you compare prices.",
+      "items": [
+        {
+          "title": "ADSL (copper)",
+          "icon": "phone",
+          "value": 12,
+          "valueLabel": "up to ~24 Mbps",
+          "text": "The oldest broadband: phone-line copper all the way to your home. Speed falls the further you are from the exchange.",
+          "badge": "Being phased out"
+        },
+        {
+          "title": "Part fibre (FTTC / VDSL)",
+          "icon": "wifi",
+          "value": 30,
+          "valueLabel": "up to ~80 Mbps",
+          "text": "Fibre to the street cabinet, then copper to your home. Sold as “fibre broadband” in the UK, but it isn’t full fibre.",
+          "badge": "Common in the UK"
+        },
+        {
+          "title": "4G / 5G home broadband",
+          "icon": "signal",
+          "value": 50,
+          "valueLabel": "varies a lot",
+          "text": "A router with a SIM inside, using a mobile network. No line needed, but speed depends on local signal and busy times.",
+          "badge": "No engineer needed",
+          "slug": "rural-broadband"
+        },
+        {
+          "title": "Satellite (low orbit)",
+          "icon": "dish",
+          "value": 45,
+          "valueLabel": "tens to hundreds of Mbps",
+          "text": "Services like Starlink use low-orbit satellites. Useful where nothing else reaches; needs a clear view of the sky.",
+          "badge": "Rural option",
+          "slug": "rural-broadband"
+        },
+        {
+          "title": "Cable (DOCSIS)",
+          "icon": "tv",
+          "value": 78,
+          "valueLabel": "1 Gbps+ download",
+          "text": "Coaxial cable networks such as Virgin Media, Xfinity and Spectrum. Very fast downloads, slower uploads.",
+          "badge": "Big in the US"
+        },
+        {
+          "title": "Full fibre (FTTP / FTTH)",
+          "icon": "zap",
+          "value": 100,
+          "valueLabel": "1 Gbps to multi-gig",
+          "text": "Fibre optic cable all the way into your home. The fastest and most reliable option, with matching upload speeds on many plans.",
+          "badge": "Fastest",
+          "slug": "full-fibre-broadband"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "How UK broadband is built",
+      "html": "<p>Most UK homes are connected by <strong>Openreach</strong>, the BT Group company that runs the national phone and broadband network. BT, Sky, TalkTalk, Vodafone, EE, Plusnet, NOW and many smaller providers rent Openreach lines and sell their own packages on top. That’s why two providers on the same network can offer the same top speed at your address.</p><p><strong>Virgin Media</strong> runs its own separate cable and fibre network. And a growing group of <strong>altnets</strong> (alternative networks) such as CityFibre, Hyperoptic, Community Fibre and others are building new full fibre networks, either selling broadband themselves or letting providers like Vodafone, TalkTalk and Zen use them.</p>"
+    },
+    {
+      "h2": "What to compare (beyond price)",
+      "html": "<ul><li><strong>Technology</strong>: full fibre (FTTP), part fibre (FTTC), cable or mobile. This decides the speed ceiling.</li><li><strong>Minimum guaranteed speed</strong>: under Ofcom’s voluntary code, providers give you an estimated speed and a minimum. If speeds fall below it and can’t be fixed, you may be able to leave without a penalty.</li><li><strong>Contract length</strong>: 12, 18 or 24 months is common. Check the total cost over the whole term, not just the first month.</li><li><strong>Price rises</strong>: since January 2025, any mid-contract rises must be set out in pounds and pence at the point of sale. <a href=\"/blog/mid-contract-price-rises/\">Read our guide</a>.</li><li><strong>Upload speed</strong>: important for video calls, cloud backups and creators. Full fibre often offers far higher uploads than part fibre or cable.</li><li><strong>Router and wi-fi</strong>: mesh or wi-fi extenders can matter more than the line speed in a big home.</li><li><strong>Set-up costs and landline</strong>: some deals include a phone line, others are broadband-only.</li></ul>"
+    },
+    {
+      "h2": "How to check what you can get",
+      "html": "<p>Your exact address decides everything. Use the provider’s own availability checker and the independent <a href=\"https://checker.ofcom.org.uk/\" rel=\"noopener\" target=\"_blank\">Ofcom broadband and mobile checker</a> to see which technologies reach your home. If full fibre is available, compare a few providers on the same network as well as altnets.</p><p class=\"note\">Moving home? Order broadband as soon as you have a move date. New full fibre connections may need an engineer visit.</p>"
+    },
+    {
+      "h2": "Your rights as a UK broadband customer",
+      "html": "<ul><li><strong>End-of-contract notices</strong>: your provider must tell you when your minimum term is ending and what its best deals are.</li><li><strong>Easy switching</strong>: under <a href=\"/blog/one-touch-switch/\">One Touch Switch</a>, your new provider arranges the move, even between different networks.</li><li><strong>Automatic compensation</strong>: providers in Ofcom’s scheme pay set amounts if a repair or new line is late, or an engineer misses an appointment.</li><li><strong>Complaints</strong>: if a complaint isn’t resolved after eight weeks, you can take it to the provider’s ombudsman scheme for free.</li></ul>"
+    }
+  ],
+  "partnersTitle": "Check broadband deals at your address",
+  "faqs": [
+    {
+      "q": "Is “fibre broadband” the same as full fibre?",
+      "a": "Not always. In the UK “fibre” has often meant fibre to the street cabinet (FTTC), with copper for the last stretch. Full fibre (FTTP) runs fibre right into your home and is much faster. Look for “full fibre” or “FTTP”."
+    },
+    {
+      "q": "Which UK broadband provider is the fastest?",
+      "a": "Speed depends on the network at your address more than the brand. Full fibre providers on Openreach, Virgin Media’s network and altnets can all offer gigabit speeds where they reach. Check what technology serves your home first."
+    },
+    {
+      "q": "Do I need a landline for broadband?",
+      "a": "No. Many full fibre and cable deals are broadband-only, and the UK is moving landlines to digital calls over broadband anyway. See our <a href=\"/home-phone/\">home phone guide</a>."
+    }
+  ],
+  "keywords": [
+    "broadband deals",
+    "broadband providers uk",
+    "compare broadband",
+    "best broadband",
+    "cheap broadband",
+    "openreach"
+  ],
+  "cardText": "BT, Sky, Virgin Media, TalkTalk and full fibre altnets: who uses which network.",
+  "related": [
+    "full-fibre-broadband",
+    "broadband-speed",
+    "switching",
+    "tv-and-broadband"
+  ]
+}

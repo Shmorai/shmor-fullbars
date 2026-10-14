@@ -1,15 +1,725 @@
 {
+  "updated": "2026-10-14",
   "slug": "",
-  "title": "FullBars: Broadband, mobile, SIM-only and home phone provide",
-  "description": "Broadband, mobile, SIM-only and home phone providers compared side by side for the UK, USA and Europe, with plain-English switching guides. Free to use, part of the Shmor.ai network.",
-  "eyebrow": "Part of the Shmor.ai network",
-  "h1": "FullBars",
-  "intro": "Broadband, mobile, SIM-only and home phone providers compared side by side for the UK, USA and Europe, with plain-English switching guides.",
-  "related": [],
-  "sections": [
+  "title": "FullBars: Compare Broadband, Mobile & SIM Only Deals",
+  "description": "Compare broadband, mobile, SIM-only and home phone providers side by side. UK-focused, with US and European guides, switching help and plain English.",
+  "eyebrow": "Broadband · Mobile · Home phone",
+  "h1": "Every connection, compared at full strength",
+  "h1Html": "Every connection, compared at <span class=\"hl\">full strength</span>",
+  "intro": "Broadband, mobile networks, SIM-only plans, home phone and TV providers side by side, for the UK, the USA and Europe. Know what you’re buying, which network it really uses, and how to switch without the hassle.",
+  "heroHtml": "<div class=\"svc-pick\"><a href=\"/broadband/\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M12 20h.01\"/><path d=\"M2 8.82a15 15 0 0 1 20 0\"/><path d=\"M5 12.859a10 10 0 0 1 14 0\"/><path d=\"M8.5 16.429a5 5 0 0 1 7 0\"/></svg>Broadband</a><a href=\"/mobile/\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M7 2h10a2 2 0 0 1 2 2v16a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2z\"/><path d=\"M12 18h.01\"/></svg>Mobile</a><a href=\"/sim-only-deals/\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M6 2h9l5 5v13a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2z\"/><path d=\"M8 11h8v7H8z\"/><path d=\"M12 11v7\"/></svg>SIM only</a><a href=\"/home-phone/\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z\"/></svg>Home phone</a><a href=\"/tv-and-broadband/\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M4 7h16a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V9a2 2 0 0 1 2-2z\"/><path d=\"m17 2-5 5-5-5\"/></svg>TV &amp; broadband</a></div><p class=\"region-row\">Comparing in: <a href=\"/broadband/\">United Kingdom</a><a href=\"/usa/\">United States</a><a href=\"/europe/\">Europe</a></p>",
+  "searchPlaceholder": "Try “full fibre”, “SIM only” or “switch broadband”",
+  "search": true,
+  "blocks": [
     {
-      "h2": "Why use FullBars?",
-      "html": "<p>Broadband, mobile, SIM-only and home phone providers compared side by side for the UK, USA and Europe, with plain-English switching guides.</p>"
+      "type": "strip",
+      "position": "top",
+      "items": [
+        {
+          "icon": "check",
+          "title": "Free to use",
+          "text": "no sign-up"
+        },
+        {
+          "icon": "globe",
+          "title": "UK, USA & Europe",
+          "text": "in one place"
+        },
+        {
+          "icon": "signal",
+          "title": "Network-aware",
+          "text": "see whose masts you’re on"
+        },
+        {
+          "icon": "shield",
+          "title": "Official sources",
+          "text": "Ofcom, FCC & EU rules"
+        }
+      ]
+    },
+    {
+      "type": "deals",
+      "title": "What are you comparing?",
+      "intro": "Pick a service to see how it works, who sells it and what to check before you sign.",
+      "items": [
+        {
+          "slug": "broadband",
+          "icon": "wifi",
+          "title": "Broadband",
+          "text": "Openreach, cable or altnet? Contract length, speed promises and router extras explained.",
+          "badge": "Most searched",
+          "cta": "Compare broadband"
+        },
+        {
+          "slug": "full-fibre-broadband",
+          "icon": "zap",
+          "title": "Full fibre",
+          "text": "Fibre all the way into your home: why it beats “fibre to the cabinet” and how to check if you can get it.",
+          "cta": "See full fibre"
+        },
+        {
+          "slug": "mobile",
+          "icon": "smartphone",
+          "title": "Mobile networks",
+          "text": "The four UK networks, the brands that piggyback on them and how to choose on coverage, not adverts.",
+          "cta": "Compare networks"
+        },
+        {
+          "slug": "sim-only-deals",
+          "icon": "tag",
+          "title": "SIM only",
+          "text": "Keep your phone, cut your bill. 30-day vs 12-month plans, data needs and the small print.",
+          "badge": "Big savings",
+          "cta": "Go SIM only"
+        },
+        {
+          "slug": "home-phone",
+          "icon": "phone",
+          "title": "Home phone",
+          "text": "Landlines are going digital. What the switchover means for your phone, alarm or telecare device.",
+          "cta": "Landline guide"
+        },
+        {
+          "slug": "tv-and-broadband",
+          "icon": "tv",
+          "title": "TV & broadband",
+          "text": "Bundles vs streaming: when a TV package makes sense and when apps on fast broadband are enough.",
+          "cta": "TV bundles"
+        },
+        {
+          "slug": "rural-broadband",
+          "icon": "dish",
+          "title": "Rural & 5G home",
+          "text": "Slow line? 4G/5G home broadband and satellite compared, plus your right to request a decent connection.",
+          "cta": "Rural options"
+        },
+        {
+          "slug": "cheap-broadband",
+          "icon": "wallet",
+          "title": "Social tariffs",
+          "text": "Cheaper broadband and mobile plans for people on Universal Credit and other benefits.",
+          "cta": "Check if you qualify"
+        }
+      ]
+    },
+    {
+      "type": "specs",
+      "class": "alt",
+      "title": "Who’s who: providers at a glance",
+      "intro": "Our SIM-style cards show the facts that matter: whose network a brand really uses, what else it sells and who owns it. Switch between the UK, the USA and Europe.",
+      "tabs": [
+        {
+          "id": "uk",
+          "label": "UK"
+        },
+        {
+          "id": "us",
+          "label": "USA"
+        },
+        {
+          "id": "eu",
+          "label": "Europe"
+        }
+      ],
+      "more": {
+        "title": "All providers",
+        "slug": "providers"
+      },
+      "items": [
+        {
+          "tag": "uk",
+          "mono": "BT",
+          "title": "BT",
+          "kind": "Broadband · Landline · TV",
+          "text": "The UK’s former national phone company and one of its biggest broadband providers.",
+          "specs": [
+            [
+              "Network",
+              "Openreach"
+            ],
+            [
+              "Tech",
+              "Full fibre &amp; part fibre"
+            ],
+            [
+              "Also sells",
+              "TV, landline"
+            ],
+            [
+              "Owner",
+              "BT Group"
+            ]
+          ],
+          "url": "https://www.bt.com/",
+          "badge": "Big four"
+        },
+        {
+          "tag": "uk",
+          "mono": "Sk",
+          "title": "Sky",
+          "kind": "Broadband · TV · Mobile",
+          "text": "Best known for TV packages; broadband runs over the Openreach network.",
+          "specs": [
+            [
+              "Network",
+              "Openreach"
+            ],
+            [
+              "Tech",
+              "Full fibre &amp; part fibre"
+            ],
+            [
+              "Also sells",
+              "TV, Sky Mobile (O2)"
+            ],
+            [
+              "Owner",
+              "Comcast"
+            ]
+          ],
+          "url": "https://www.sky.com/",
+          "badge": "Big four"
+        },
+        {
+          "tag": "uk",
+          "mono": "VM",
+          "title": "Virgin Media",
+          "kind": "Broadband · TV · Mobile",
+          "text": "Runs its own cable and fibre network instead of Openreach, so availability is address by address.",
+          "specs": [
+            [
+              "Network",
+              "Own cable &amp; fibre"
+            ],
+            [
+              "Tech",
+              "Cable (DOCSIS) &amp; full fibre"
+            ],
+            [
+              "Also sells",
+              "TV, landline, mobile (O2)"
+            ],
+            [
+              "Owner",
+              "Virgin Media O2"
+            ]
+          ],
+          "url": "https://www.virginmedia.com/",
+          "badge": "Big four"
+        },
+        {
+          "tag": "uk",
+          "mono": "O2",
+          "title": "O2",
+          "kind": "Mobile network",
+          "text": "A UK network operator whose masts also carry giffgaff, Tesco Mobile, Sky Mobile and Virgin Mobile.",
+          "specs": [
+            [
+              "Type",
+              "Network operator"
+            ],
+            [
+              "Owner",
+              "Virgin Media O2"
+            ],
+            [
+              "Brands on it",
+              "giffgaff, Tesco Mobile, Sky Mobile"
+            ],
+            [
+              "eSIM",
+              "Yes"
+            ]
+          ],
+          "url": "https://www.o2.co.uk/",
+          "badge": "Network"
+        },
+        {
+          "tag": "uk",
+          "mono": "gg",
+          "title": "giffgaff",
+          "kind": "SIM only · Monthly rolling",
+          "text": "A SIM-only brand with monthly “goodybags” and no long contract, running on O2.",
+          "specs": [
+            [
+              "Uses network",
+              "O2"
+            ],
+            [
+              "Contracts",
+              "Mainly 30-day rolling"
+            ],
+            [
+              "Owner",
+              "Virgin Media O2"
+            ],
+            [
+              "Type",
+              "MVNO"
+            ]
+          ],
+          "url": "https://www.giffgaff.com/"
+        },
+        {
+          "tag": "uk",
+          "mono": "Sm",
+          "title": "Smarty",
+          "kind": "SIM only",
+          "text": "A SIM-only brand from Three with straightforward data plans, running on the Three network.",
+          "specs": [
+            [
+              "Uses network",
+              "Three"
+            ],
+            [
+              "Contracts",
+              "1-month &amp; longer"
+            ],
+            [
+              "Owner",
+              "VodafoneThree"
+            ],
+            [
+              "Type",
+              "MVNO"
+            ]
+          ],
+          "url": "https://smarty.co.uk/"
+        },
+        {
+          "tag": "us",
+          "mono": "Xf",
+          "title": "Xfinity",
+          "kind": "Internet · TV · Mobile",
+          "text": "Comcast’s brand and one of the largest US home internet providers, mostly over cable.",
+          "specs": [
+            [
+              "Network",
+              "Own cable &amp; fiber"
+            ],
+            [
+              "Mobile",
+              "Xfinity Mobile (Verizon)"
+            ],
+            [
+              "Owner",
+              "Comcast"
+            ],
+            [
+              "Coverage",
+              "Regional"
+            ]
+          ],
+          "url": "https://www.xfinity.com/",
+          "badge": "Cable"
+        },
+        {
+          "tag": "us",
+          "mono": "AT",
+          "title": "AT&T",
+          "kind": "Fiber · Wireless",
+          "text": "Runs a national mobile network plus AT&amp;T Fiber and fixed wireless home internet in parts of the country.",
+          "specs": [
+            [
+              "Network",
+              "Own fiber &amp; wireless"
+            ],
+            [
+              "Home options",
+              "Fiber, Internet Air"
+            ],
+            [
+              "Prepaid brand",
+              "Cricket"
+            ],
+            [
+              "Coverage",
+              "National mobile"
+            ]
+          ],
+          "url": "https://www.att.com/",
+          "badge": "Carrier"
+        },
+        {
+          "tag": "us",
+          "mono": "Vz",
+          "title": "Verizon",
+          "kind": "Fios · 5G Home · Wireless",
+          "text": "A national mobile carrier that also sells Fios fiber in the Northeast and 5G Home Internet.",
+          "specs": [
+            [
+              "Network",
+              "Own fiber &amp; wireless"
+            ],
+            [
+              "Home options",
+              "Fios, 5G Home"
+            ],
+            [
+              "Prepaid brands",
+              "Visible, Total"
+            ],
+            [
+              "Coverage",
+              "National mobile"
+            ]
+          ],
+          "url": "https://www.verizon.com/",
+          "badge": "Carrier"
+        },
+        {
+          "tag": "us",
+          "mono": "TM",
+          "title": "T-Mobile",
+          "kind": "5G Home · Wireless",
+          "text": "A national mobile carrier whose 5G Home Internet is a popular alternative to cable.",
+          "specs": [
+            [
+              "Network",
+              "Own wireless"
+            ],
+            [
+              "Home options",
+              "5G Home Internet, fiber in some areas"
+            ],
+            [
+              "Brands",
+              "Metro, Mint Mobile"
+            ],
+            [
+              "Coverage",
+              "National mobile"
+            ]
+          ],
+          "url": "https://www.t-mobile.com/",
+          "badge": "Carrier"
+        },
+        {
+          "tag": "us",
+          "mono": "Mi",
+          "title": "Mint Mobile",
+          "kind": "Prepaid wireless",
+          "text": "Prepaid plans bought in multi-month blocks, running on T-Mobile’s network.",
+          "specs": [
+            [
+              "Uses network",
+              "T-Mobile"
+            ],
+            [
+              "Plans",
+              "Prepaid, multi-month"
+            ],
+            [
+              "Owner",
+              "T-Mobile"
+            ],
+            [
+              "Type",
+              "MVNO"
+            ]
+          ],
+          "url": "https://www.mintmobile.com/"
+        },
+        {
+          "tag": "us",
+          "mono": "SL",
+          "title": "Starlink",
+          "kind": "Satellite internet",
+          "text": "SpaceX’s low-orbit satellite service, used where cable and fiber don’t reach.",
+          "specs": [
+            [
+              "Network",
+              "Low-orbit satellites"
+            ],
+            [
+              "Kit",
+              "Dish you set up"
+            ],
+            [
+              "Best for",
+              "Rural homes, RVs"
+            ],
+            [
+              "Coverage",
+              "Most of the US"
+            ]
+          ],
+          "url": "https://www.starlink.com/",
+          "badge": "Satellite"
+        },
+        {
+          "tag": "eu",
+          "mono": "DT",
+          "title": "Deutsche Telekom",
+          "kind": "Germany · Fixed & mobile",
+          "text": "Germany’s largest operator, selling DSL, fibre, MagentaTV and mobile under the Telekom brand.",
+          "specs": [
+            [
+              "Country",
+              "Germany"
+            ],
+            [
+              "Network",
+              "Own fixed &amp; mobile"
+            ],
+            [
+              "Brand",
+              "Telekom / Magenta"
+            ],
+            [
+              "Type",
+              "Incumbent"
+            ]
+          ],
+          "url": "https://www.telekom.de/",
+          "badge": "DE"
+        },
+        {
+          "tag": "eu",
+          "mono": "Or",
+          "title": "Orange",
+          "kind": "France · Fixed & mobile",
+          "text": "France’s largest operator, selling fibre with the Livebox router plus mobile plans.",
+          "specs": [
+            [
+              "Country",
+              "France (and more)"
+            ],
+            [
+              "Network",
+              "Own fibre &amp; mobile"
+            ],
+            [
+              "Router",
+              "Livebox"
+            ],
+            [
+              "Type",
+              "Incumbent"
+            ]
+          ],
+          "url": "https://www.orange.fr/",
+          "badge": "FR"
+        },
+        {
+          "tag": "eu",
+          "mono": "Fr",
+          "title": "Free",
+          "kind": "France · Fixed & mobile",
+          "text": "Iliad’s French brand, known for Freebox packages and low-cost mobile plans.",
+          "specs": [
+            [
+              "Country",
+              "France"
+            ],
+            [
+              "Network",
+              "Own fibre &amp; mobile"
+            ],
+            [
+              "Router",
+              "Freebox"
+            ],
+            [
+              "Owner",
+              "Iliad"
+            ]
+          ],
+          "url": "https://www.free.fr/",
+          "badge": "FR"
+        },
+        {
+          "tag": "eu",
+          "mono": "Mv",
+          "title": "Movistar",
+          "kind": "Spain · Fixed & mobile",
+          "text": "Telefónica’s Spanish brand, with one of Europe’s largest fibre networks.",
+          "specs": [
+            [
+              "Country",
+              "Spain"
+            ],
+            [
+              "Network",
+              "Own fibre &amp; mobile"
+            ],
+            [
+              "Also sells",
+              "Movistar Plus+ TV"
+            ],
+            [
+              "Owner",
+              "Telefónica"
+            ]
+          ],
+          "url": "https://www.movistar.es/",
+          "badge": "ES"
+        },
+        {
+          "tag": "eu",
+          "mono": "TI",
+          "title": "TIM",
+          "kind": "Italy · Fixed & mobile",
+          "text": "Italy’s former national telecom operator, selling fibre and mobile.",
+          "specs": [
+            [
+              "Country",
+              "Italy"
+            ],
+            [
+              "Network",
+              "Own mobile"
+            ],
+            [
+              "Also sells",
+              "TIMVISION"
+            ],
+            [
+              "Type",
+              "Incumbent"
+            ]
+          ],
+          "url": "https://www.tim.it/",
+          "badge": "IT"
+        },
+        {
+          "tag": "eu",
+          "mono": "KP",
+          "title": "KPN",
+          "kind": "Netherlands · Fixed & mobile",
+          "text": "The Dutch incumbent, with a large fibre roll-out and a mobile network.",
+          "specs": [
+            [
+              "Country",
+              "Netherlands"
+            ],
+            [
+              "Network",
+              "Own fibre &amp; mobile"
+            ],
+            [
+              "Also sells",
+              "TV"
+            ],
+            [
+              "Type",
+              "Incumbent"
+            ]
+          ],
+          "url": "https://www.kpn.com/",
+          "badge": "NL"
+        }
+      ]
+    },
+    {
+      "type": "meters",
+      "title": "How fast can each connection go?",
+      "intro": "Every broadband deal sits on one of these technologies. The bars show the typical ceiling of each one, so you can spot a “fibre” deal that isn’t really fibre.",
+      "items": [
+        {
+          "title": "ADSL (copper)",
+          "icon": "phone",
+          "value": 12,
+          "valueLabel": "up to ~24 Mbps",
+          "text": "The oldest broadband: phone-line copper all the way to your home. Speed falls the further you are from the exchange.",
+          "badge": "Being phased out"
+        },
+        {
+          "title": "Part fibre (FTTC / VDSL)",
+          "icon": "wifi",
+          "value": 30,
+          "valueLabel": "up to ~80 Mbps",
+          "text": "Fibre to the street cabinet, then copper to your home. Sold as “fibre broadband” in the UK, but it isn’t full fibre.",
+          "badge": "Common in the UK"
+        },
+        {
+          "title": "4G / 5G home broadband",
+          "icon": "signal",
+          "value": 50,
+          "valueLabel": "varies a lot",
+          "text": "A router with a SIM inside, using a mobile network. No line needed, but speed depends on local signal and busy times.",
+          "badge": "No engineer needed",
+          "slug": "rural-broadband"
+        },
+        {
+          "title": "Satellite (low orbit)",
+          "icon": "dish",
+          "value": 45,
+          "valueLabel": "tens to hundreds of Mbps",
+          "text": "Services like Starlink use low-orbit satellites. Useful where nothing else reaches; needs a clear view of the sky.",
+          "badge": "Rural option",
+          "slug": "rural-broadband"
+        },
+        {
+          "title": "Cable (DOCSIS)",
+          "icon": "tv",
+          "value": 78,
+          "valueLabel": "1 Gbps+ download",
+          "text": "Coaxial cable networks such as Virgin Media, Xfinity and Spectrum. Very fast downloads, slower uploads.",
+          "badge": "Big in the US"
+        },
+        {
+          "title": "Full fibre (FTTP / FTTH)",
+          "icon": "zap",
+          "value": 100,
+          "valueLabel": "1 Gbps to multi-gig",
+          "text": "Fibre optic cable all the way into your home. The fastest and most reliable option, with matching upload speeds on many plans.",
+          "badge": "Fastest",
+          "slug": "full-fibre-broadband"
+        }
+      ]
+    },
+    {
+      "type": "steps",
+      "title": "Switch in four steps",
+      "intro": "In the UK, most broadband and mobile switches are now led by your new provider.",
+      "items": [
+        {
+          "icon": "calendar",
+          "title": "Check your end date",
+          "text": "Your provider must tell you before your contract ends. Leaving early can mean exit fees."
+        },
+        {
+          "icon": "search",
+          "title": "Check your address",
+          "text": "Use the provider’s checker and the <a href=\"https://checker.ofcom.org.uk/\" rel=\"noopener\" target=\"_blank\">Ofcom checker</a> for speeds and coverage."
+        },
+        {
+          "icon": "file",
+          "title": "Read the contract summary",
+          "text": "Price, length, any price rises in pounds and pence, and the minimum speed promised."
+        },
+        {
+          "icon": "repeat",
+          "title": "Let the new provider switch you",
+          "text": "One Touch Switch for broadband, or text “PAC” to 65075 to keep your mobile number."
+        }
+      ],
+      "more": {
+        "title": "Full switching guide",
+        "slug": "switching"
+      }
     }
-  ]
+  ],
+  "latestPosts": 3,
+  "latestTitle": "Latest telecom news & guides",
+  "faqs": [
+    {
+      "q": "Is FullBars a broadband or mobile provider?",
+      "a": "No. FullBars is a free comparison and guide site. You sign up directly with the provider you choose, under their terms. Some links may be affiliate links, which never changes what we write."
+    },
+    {
+      "q": "Which countries does FullBars cover?",
+      "a": "We focus on the UK and also cover the USA and Europe, with region guides for <a href=\"/usa/\">US internet and cell plans</a> and <a href=\"/europe/\">European broadband and mobile</a>."
+    },
+    {
+      "q": "Why don’t you show prices on every card?",
+      "a": "Broadband and mobile prices change weekly and vary by address, so a price on a card would quickly be wrong. We show the facts that stay true (network, technology, owner, contract types) and send you to the provider to check today’s price for your address."
+    },
+    {
+      "q": "What does “FullBars” mean?",
+      "a": "Full signal bars: the connection you want. Our job is to help you find a provider that gives you full bars where you live, at a price that makes sense."
+    }
+  ],
+  "related": []
 }

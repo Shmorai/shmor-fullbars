@@ -1,0 +1,101 @@
+{
+  "updated": "2026-10-14",
+  "slug": "rural-broadband",
+  "nav": "Rural & 5G home",
+  "title": "Rural Broadband: 4G/5G Home, Satellite & Starlink",
+  "description": "Slow broadband in the countryside? Compare 4G and 5G home broadband, satellite internet such as Starlink, and your UK right to request a decent connection.",
+  "eyebrow": "Broadband guide",
+  "h1": "Broadband options for rural homes",
+  "intro": "If your phone line can only manage a few megabits, you’re not stuck. Mobile home broadband, satellite and community fibre schemes can all transform a slow rural connection.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1775404393580-eb08ee4ee5bd",
+    "alt": "A lone telephone pole in a green field",
+    "credit": "Benjamin Hibbert-Hingston",
+    "creditUrl": "https://unsplash.com/@hibnoptix"
+  },
+  "blocks": [
+    {
+      "type": "meters",
+      "title": "Rural options compared",
+      "items": [
+        {
+          "title": "Part fibre (FTTC / VDSL)",
+          "icon": "wifi",
+          "value": 30,
+          "valueLabel": "up to ~80 Mbps",
+          "text": "Fibre to the street cabinet, then copper to your home. Sold as “fibre broadband” in the UK, but it isn’t full fibre.",
+          "badge": "Common in the UK"
+        },
+        {
+          "title": "4G / 5G home broadband",
+          "icon": "signal",
+          "value": 50,
+          "valueLabel": "varies a lot",
+          "text": "A router with a SIM inside, using a mobile network. No line needed, but speed depends on local signal and busy times.",
+          "badge": "No engineer needed",
+          "slug": "rural-broadband"
+        },
+        {
+          "title": "Satellite (low orbit)",
+          "icon": "dish",
+          "value": 45,
+          "valueLabel": "tens to hundreds of Mbps",
+          "text": "Services like Starlink use low-orbit satellites. Useful where nothing else reaches; needs a clear view of the sky.",
+          "badge": "Rural option",
+          "slug": "rural-broadband"
+        },
+        {
+          "title": "Full fibre (FTTP / FTTH)",
+          "icon": "zap",
+          "value": 100,
+          "valueLabel": "1 Gbps to multi-gig",
+          "text": "Fibre optic cable all the way into your home. The fastest and most reliable option, with matching upload speeds on many plans.",
+          "badge": "Fastest",
+          "slug": "full-fibre-broadband"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "4G and 5G home broadband",
+      "html": "<p>A plug-in router with a SIM card connects to the nearest mobile mast. It’s quick to set up and no line is needed. Speeds depend on signal strength and how busy the mast is. An external antenna can help. Check coverage for your exact address and look for plans with a short contract or a trial period.</p>"
+    },
+    {
+      "h2": "Satellite internet",
+      "html": "<p>Low-orbit satellite services such as <strong>Starlink</strong> deliver much faster speeds and lower latency than older satellite broadband, and work almost anywhere with a clear view of the sky. You buy or rent a dish and router. Weather and obstructions like trees can affect performance.</p>"
+    },
+    {
+      "h2": "Your right to request decent broadband (UK)",
+      "html": "<p>Under the UK’s broadband Universal Service Obligation, you can request a connection of at least 10 Mbps download and 1 Mbps upload if you can’t get one, subject to a cost limit. Requests go to BT (or KCOM in the Hull area). Government schemes such as Project Gigabit and gigabit vouchers are also extending full fibre to rural areas.</p>"
+    },
+    {
+      "h2": "In the US",
+      "html": "<p>Rural Americans can compare fixed wireless, 5G home internet and satellite. Check the <a href=\"https://broadbandmap.fcc.gov/\" rel=\"noopener\" target=\"_blank\">FCC National Broadband Map</a> for providers at your address, and ask your state broadband office about local build-out programs.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is 5G home broadband as good as fibre?",
+      "a": "It can be fast where 5G signal is strong, but it’s less consistent than fibre, especially at busy times. It’s a strong option where fibre isn’t available."
+    },
+    {
+      "q": "Does Starlink work in the UK?",
+      "a": "Yes. Starlink sells residential service in the UK, the US and much of Europe. Check availability for your address on its website."
+    }
+  ],
+  "keywords": [
+    "rural broadband",
+    "5g home broadband",
+    "4g broadband",
+    "starlink",
+    "satellite internet",
+    "universal service obligation"
+  ],
+  "cardText": "4G/5G home broadband, Starlink satellite and your right to decent broadband.",
+  "related": [
+    "broadband-speed",
+    "full-fibre-broadband",
+    "usa"
+  ]
+}

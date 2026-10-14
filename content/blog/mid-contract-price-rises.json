@@ -1,0 +1,56 @@
+{
+  "updated": "2026-10-12",
+  "type": "post",
+  "slug": "blog/mid-contract-price-rises",
+  "date": "2026-10-12",
+  "short": "Mid-contract price rises",
+  "title": "Mid-Contract Price Rises: Your Rights in the UK",
+  "description": "Since January 2025, UK phone and broadband providers must show mid-contract price rises in pounds and pence. What the Ofcom rule means and when you can leave.",
+  "h1": "Mid-contract price rises: the pounds-and-pence rule",
+  "intro": "For years, UK broadband and mobile bills rose every April by inflation plus a few per cent. Ofcom changed the rules, so you can now see exactly how much your bill will rise before you sign.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1606904825846-647eb07f5be2",
+    "alt": "White wi-fi router on a white table",
+    "credit": "Compare Fibre",
+    "creditUrl": "https://unsplash.com/@comparefibre"
+  },
+  "sections": [
+    {
+      "h2": "The rule in short",
+      "html": "<p>Since <strong>17 January 2025</strong>, Ofcom has banned UK phone, broadband and pay-TV providers from including inflation-linked or percentage-based price rise terms in new contracts. Any price rises written into a contract must be set out clearly in <strong>pounds and pence</strong> at the point of sale, so you know the cost in advance.</p>"
+    },
+    {
+      "h2": "What it means when you compare deals",
+      "html": "<ul><li>Look in the contract summary for the scheduled rise, usually each April.</li><li>Add up the total cost over the whole minimum term, including those rises.</li><li>Two deals with the same starting price can cost different amounts over 24 months.</li></ul>"
+    },
+    {
+      "h2": "Can I leave if my price goes up?",
+      "html": "<p>If a price rise was clearly set out in your contract, you generally can’t leave penalty-free because of it. But if your provider raises prices in a way that wasn’t clearly set out, or changes terms to your detriment, you may have the right to leave without paying exit fees. You must normally be given at least one month’s notice of such a change.</p>"
+    },
+    {
+      "h2": "Older contracts",
+      "html": "<p>The rule applies to contracts taken out from January 2025. If you signed earlier, your contract may still include inflation-linked or percentage rises. Providers that signed the government’s Telecoms Consumer Charter agreed that April 2026 would be the last time they apply inflation-linked increases. When your contract ends, compare a new deal.</p><p>Note that the rule makes rises clear, but doesn’t cap them: providers still set their own prices.</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Ofcom: Telecoms price rises, what are your rights?",
+      "url": "https://www.ofcom.org.uk/phones-and-broadband/saving-money/telecoms-price-rises-what-are-your-rights"
+    },
+    {
+      "title": "Ofcom: Ofcom bans mid-contract price rises linked to inflation",
+      "url": "https://www.ofcom.org.uk/phones-and-broadband/bills-and-charges/ofcom-bans-mid-contract-price-rises-linked-to-inflation"
+    }
+  ],
+  "keywords": [
+    "price rise",
+    "mid contract price rise",
+    "ofcom price rules",
+    "cpi plus",
+    "broadband price increase"
+  ],
+  "related": [
+    "broadband",
+    "switching"
+  ]
+}

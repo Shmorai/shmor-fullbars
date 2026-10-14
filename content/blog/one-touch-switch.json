@@ -1,0 +1,47 @@
+{
+  "updated": "2026-10-09",
+  "type": "post",
+  "slug": "blog/one-touch-switch",
+  "date": "2026-10-09",
+  "short": "One Touch Switch",
+  "title": "One Touch Switch: Changing Broadband Made Easy",
+  "description": "One Touch Switch lets your new UK broadband provider handle the whole switch, even between networks like Openreach, Virgin Media and altnets. How it works.",
+  "h1": "One Touch Switch: how switching broadband works now",
+  "intro": "Switching broadband between different networks used to mean calling your old provider and juggling dates. With One Touch Switch, your new provider does it for you.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1512428559087-560fa5ceab42",
+    "alt": "Person holding a smartphone while working at a desk",
+    "credit": "NordWood Themes",
+    "creditUrl": "https://unsplash.com/@nordwood"
+  },
+  "sections": [
+    {
+      "h2": "What changed",
+      "html": "<p>Ofcom required broadband and landline providers to support a “gaining provider-led” switching process across all fixed networks. It went live in <strong>September 2024</strong>, so you can now switch between, say, an Openreach-based provider, Virgin Media and a full fibre altnet without contacting your old provider first.</p>"
+    },
+    {
+      "h2": "How it works",
+      "html": "<ol><li>Choose your new provider and order.</li><li>Give your name, address and current provider (some may ask for an account number).</li><li>Your new provider contacts the old one and sends you details of any exit fees or effects on other services.</li><li>The switch happens on the agreed date; your old contract ends automatically.</li></ol>"
+    },
+    {
+      "h2": "Your protections",
+      "html": "<ul><li>You shouldn’t pay notice period charges after your switch date.</li><li>You get clear information on any early exit fees before you commit.</li><li>Providers in Ofcom’s automatic compensation scheme pay out if a switch is delayed or an engineer misses an appointment.</li></ul>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Ofcom: Switching broadband and landline provider",
+      "url": "https://www.ofcom.org.uk/phones-and-broadband/switching-provider"
+    }
+  ],
+  "keywords": [
+    "one touch switch",
+    "switch broadband",
+    "change broadband provider",
+    "ofcom switching"
+  ],
+  "related": [
+    "switching",
+    "broadband"
+  ]
+}

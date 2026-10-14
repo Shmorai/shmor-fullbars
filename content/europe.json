@@ -1,0 +1,527 @@
+{
+  "updated": "2026-10-14",
+  "slug": "europe",
+  "nav": "Europe",
+  "navOrder": 7,
+  "title": "Broadband & Mobile in Europe: Operators Compared",
+  "description": "Compare broadband and mobile operators across Europe: Germany, France, Spain, Italy, the Netherlands and Ireland, plus EU roaming and contract rules.",
+  "eyebrow": "Europe",
+  "h1": "Broadband and mobile across Europe",
+  "intro": "Each European country has its own mix of operators, but EU rules give every customer the same core rights: roaming like at home, contracts capped at 24 months and fast number porting.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1757435755336-f715ff8896d8",
+    "alt": "Eiffel Tower seen from a Paris street café",
+    "credit": "Lens by Benji",
+    "creditUrl": "https://unsplash.com/@lens_by_benji"
+  },
+  "blocks": [
+    {
+      "type": "specs",
+      "title": "Leading European operators",
+      "intro": "Filter by country. Many operators sell fibre, mobile and TV bundles together.",
+      "tabs": [
+        {
+          "id": "DE",
+          "label": "Germany"
+        },
+        {
+          "id": "FR",
+          "label": "France"
+        },
+        {
+          "id": "ES",
+          "label": "Spain"
+        },
+        {
+          "id": "IT",
+          "label": "Italy"
+        },
+        {
+          "id": "NL",
+          "label": "NL"
+        },
+        {
+          "id": "IE",
+          "label": "Ireland"
+        }
+      ],
+      "items": [
+        {
+          "tag": "DE",
+          "mono": "DT",
+          "title": "Deutsche Telekom",
+          "kind": "Germany · Fixed & mobile",
+          "text": "Germany’s largest operator, selling DSL, fibre, MagentaTV and mobile under the Telekom brand.",
+          "specs": [
+            [
+              "Country",
+              "Germany"
+            ],
+            [
+              "Network",
+              "Own fixed &amp; mobile"
+            ],
+            [
+              "Brand",
+              "Telekom / Magenta"
+            ],
+            [
+              "Type",
+              "Incumbent"
+            ]
+          ],
+          "url": "https://www.telekom.de/",
+          "badge": "DE"
+        },
+        {
+          "tag": "DE",
+          "mono": "Vf",
+          "title": "Vodafone Germany",
+          "kind": "Germany · Cable & mobile",
+          "text": "Runs a large cable broadband network as well as a mobile network.",
+          "specs": [
+            [
+              "Country",
+              "Germany"
+            ],
+            [
+              "Network",
+              "Own cable &amp; mobile"
+            ],
+            [
+              "Tech",
+              "Cable, DSL, fibre"
+            ],
+            [
+              "Type",
+              "Operator"
+            ]
+          ],
+          "url": "https://www.vodafone.de/",
+          "badge": "DE"
+        },
+        {
+          "tag": "DE",
+          "mono": "O2",
+          "title": "O2 Telefónica",
+          "kind": "Germany · Mobile & DSL",
+          "text": "Telefónica’s German mobile network, also selling home internet.",
+          "specs": [
+            [
+              "Country",
+              "Germany"
+            ],
+            [
+              "Network",
+              "Own mobile"
+            ],
+            [
+              "Also sells",
+              "Home internet"
+            ],
+            [
+              "Owner",
+              "Telefónica"
+            ]
+          ],
+          "url": "https://www.o2online.de/",
+          "badge": "DE"
+        },
+        {
+          "tag": "DE",
+          "mono": "11",
+          "title": "1&1",
+          "kind": "Germany · Mobile & DSL",
+          "text": "Germany’s newest network operator, building its own 5G network alongside broadband sales.",
+          "specs": [
+            [
+              "Country",
+              "Germany"
+            ],
+            [
+              "Network",
+              "Own 5G + roaming partner"
+            ],
+            [
+              "Also sells",
+              "DSL &amp; fibre"
+            ],
+            [
+              "Type",
+              "Challenger"
+            ]
+          ],
+          "url": "https://www.1und1.de/",
+          "badge": "DE"
+        },
+        {
+          "tag": "FR",
+          "mono": "Or",
+          "title": "Orange",
+          "kind": "France · Fixed & mobile",
+          "text": "France’s largest operator, selling fibre with the Livebox router plus mobile plans.",
+          "specs": [
+            [
+              "Country",
+              "France (and more)"
+            ],
+            [
+              "Network",
+              "Own fibre &amp; mobile"
+            ],
+            [
+              "Router",
+              "Livebox"
+            ],
+            [
+              "Type",
+              "Incumbent"
+            ]
+          ],
+          "url": "https://www.orange.fr/",
+          "badge": "FR"
+        },
+        {
+          "tag": "FR",
+          "mono": "Fr",
+          "title": "Free",
+          "kind": "France · Fixed & mobile",
+          "text": "Iliad’s French brand, known for Freebox packages and low-cost mobile plans.",
+          "specs": [
+            [
+              "Country",
+              "France"
+            ],
+            [
+              "Network",
+              "Own fibre &amp; mobile"
+            ],
+            [
+              "Router",
+              "Freebox"
+            ],
+            [
+              "Owner",
+              "Iliad"
+            ]
+          ],
+          "url": "https://www.free.fr/",
+          "badge": "FR"
+        },
+        {
+          "tag": "FR",
+          "mono": "SF",
+          "title": "SFR",
+          "kind": "France · Fixed & mobile",
+          "text": "One of France’s four mobile operators, with fibre and cable broadband.",
+          "specs": [
+            [
+              "Country",
+              "France"
+            ],
+            [
+              "Network",
+              "Own fibre &amp; mobile"
+            ],
+            [
+              "Router",
+              "SFR Box"
+            ],
+            [
+              "Owner",
+              "Altice France"
+            ]
+          ],
+          "url": "https://www.sfr.fr/",
+          "badge": "FR"
+        },
+        {
+          "tag": "FR",
+          "mono": "BY",
+          "title": "Bouygues Telecom",
+          "kind": "France · Fixed & mobile",
+          "text": "A French operator selling Bbox fibre broadband and mobile plans.",
+          "specs": [
+            [
+              "Country",
+              "France"
+            ],
+            [
+              "Network",
+              "Own mobile, fibre"
+            ],
+            [
+              "Router",
+              "Bbox"
+            ],
+            [
+              "Owner",
+              "Bouygues"
+            ]
+          ],
+          "url": "https://www.bouyguestelecom.fr/",
+          "badge": "FR"
+        },
+        {
+          "tag": "ES",
+          "mono": "Mv",
+          "title": "Movistar",
+          "kind": "Spain · Fixed & mobile",
+          "text": "Telefónica’s Spanish brand, with one of Europe’s largest fibre networks.",
+          "specs": [
+            [
+              "Country",
+              "Spain"
+            ],
+            [
+              "Network",
+              "Own fibre &amp; mobile"
+            ],
+            [
+              "Also sells",
+              "Movistar Plus+ TV"
+            ],
+            [
+              "Owner",
+              "Telefónica"
+            ]
+          ],
+          "url": "https://www.movistar.es/",
+          "badge": "ES"
+        },
+        {
+          "tag": "ES",
+          "mono": "MO",
+          "title": "MasOrange",
+          "kind": "Spain · Fixed & mobile",
+          "text": "Formed in 2024 by merging Orange Spain and MásMóvil; sells under Orange, Yoigo and other brands.",
+          "specs": [
+            [
+              "Country",
+              "Spain"
+            ],
+            [
+              "Network",
+              "Own fibre &amp; mobile"
+            ],
+            [
+              "Brands",
+              "Orange, Yoigo, MásMóvil"
+            ],
+            [
+              "Type",
+              "Operator"
+            ]
+          ],
+          "url": "https://www.orange.es/",
+          "badge": "ES"
+        },
+        {
+          "tag": "ES",
+          "mono": "DG",
+          "title": "DIGI",
+          "kind": "Spain · Low cost",
+          "text": "A low-cost operator that has grown fast in Spain with its own fibre and mobile offers.",
+          "specs": [
+            [
+              "Country",
+              "Spain (and Romania)"
+            ],
+            [
+              "Network",
+              "Own fibre, growing mobile"
+            ],
+            [
+              "Focus",
+              "Low cost"
+            ],
+            [
+              "Type",
+              "Challenger"
+            ]
+          ],
+          "url": "https://www.digimobil.es/",
+          "badge": "ES"
+        },
+        {
+          "tag": "IT",
+          "mono": "TI",
+          "title": "TIM",
+          "kind": "Italy · Fixed & mobile",
+          "text": "Italy’s former national telecom operator, selling fibre and mobile.",
+          "specs": [
+            [
+              "Country",
+              "Italy"
+            ],
+            [
+              "Network",
+              "Own mobile"
+            ],
+            [
+              "Also sells",
+              "TIMVISION"
+            ],
+            [
+              "Type",
+              "Incumbent"
+            ]
+          ],
+          "url": "https://www.tim.it/",
+          "badge": "IT"
+        },
+        {
+          "tag": "IT",
+          "mono": "il",
+          "title": "Iliad",
+          "kind": "Italy · Mobile & fibre",
+          "text": "The French group’s Italian brand, known for simple mobile plans since 2018.",
+          "specs": [
+            [
+              "Country",
+              "Italy"
+            ],
+            [
+              "Network",
+              "Own mobile"
+            ],
+            [
+              "Also sells",
+              "Fibre"
+            ],
+            [
+              "Type",
+              "Challenger"
+            ]
+          ],
+          "url": "https://www.iliad.it/",
+          "badge": "IT"
+        },
+        {
+          "tag": "NL",
+          "mono": "KP",
+          "title": "KPN",
+          "kind": "Netherlands · Fixed & mobile",
+          "text": "The Dutch incumbent, with a large fibre roll-out and a mobile network.",
+          "specs": [
+            [
+              "Country",
+              "Netherlands"
+            ],
+            [
+              "Network",
+              "Own fibre &amp; mobile"
+            ],
+            [
+              "Also sells",
+              "TV"
+            ],
+            [
+              "Type",
+              "Incumbent"
+            ]
+          ],
+          "url": "https://www.kpn.com/",
+          "badge": "NL"
+        },
+        {
+          "tag": "NL",
+          "mono": "Od",
+          "title": "Odido",
+          "kind": "Netherlands · Mobile & home",
+          "text": "The Dutch operator formerly called T-Mobile Netherlands, renamed Odido in 2023.",
+          "specs": [
+            [
+              "Country",
+              "Netherlands"
+            ],
+            [
+              "Network",
+              "Own mobile"
+            ],
+            [
+              "Also sells",
+              "Home internet"
+            ],
+            [
+              "Type",
+              "Operator"
+            ]
+          ],
+          "url": "https://www.odido.nl/",
+          "badge": "NL"
+        },
+        {
+          "tag": "IE",
+          "mono": "ei",
+          "title": "eir",
+          "kind": "Ireland · Fixed & mobile",
+          "text": "Ireland’s largest telecoms company, owning much of the country’s fixed network.",
+          "specs": [
+            [
+              "Country",
+              "Ireland"
+            ],
+            [
+              "Network",
+              "Own fixed &amp; mobile"
+            ],
+            [
+              "Also sells",
+              "TV"
+            ],
+            [
+              "Type",
+              "Incumbent"
+            ]
+          ],
+          "url": "https://www.eir.ie/",
+          "badge": "IE"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Your rights under EU rules",
+      "html": "<ul><li><strong>Roam like at home</strong>: use your EU mobile plan in other EU/EEA countries at no extra charge, subject to fair use. The rules run until 2032.</li><li><strong>Contract length</strong>: the initial commitment of a consumer contract can’t exceed 24 months.</li><li><strong>Contract summary</strong>: providers must give you a short summary of the main terms before you sign.</li><li><strong>Number porting</strong>: your number should move within one working day of the agreed date.</li></ul>"
+    },
+    {
+      "h2": "Country snapshots",
+      "html": "<p><strong>Germany</strong>: Telekom, Vodafone, O2 Telefónica and 1&amp;1, with cable, DSL and expanding fibre. <strong>France</strong>: Orange, SFR, Bouygues Telecom and Free compete hard on fibre “box” bundles. <strong>Spain</strong>: one of Europe’s most fibre-rich countries, with Movistar, MasOrange, Vodafone and DIGI. <strong>Italy</strong>: TIM, Iliad, WindTre and Fastweb + Vodafone. <strong>Netherlands</strong>: KPN, VodafoneZiggo and Odido. <strong>Ireland</strong>: eir, Vodafone, Three and Virgin Media.</p>"
+    },
+    {
+      "h2": "Moving to or within Europe",
+      "html": "<ul><li>You may need a local address, ID and bank account to sign a contract; prepaid SIMs are simpler but may need ID registration.</li><li>Fibre installs can take weeks in some countries. Order early.</li><li>Each country has a telecoms regulator that publishes coverage maps and complaint routes.</li></ul>"
+    },
+    {
+      "h2": "Visiting from the UK",
+      "html": "<p>Since Brexit, UK mobile plans aren’t covered by EU roaming rules. Many UK networks charge a daily fee in Europe or include roaming only on certain plans. Check before you travel. See our <a href=\"/roaming/\">roaming guide</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do EU roaming rules apply to UK SIMs?",
+      "a": "No. The UK left the EU roaming scheme. Some UK plans still include EU roaming, but many charge a daily fee."
+    },
+    {
+      "q": "Can I use an EU SIM permanently in another EU country?",
+      "a": "Roam like at home is designed for periodic travel. Operators can apply fair use limits if you mainly use your SIM abroad for a long period."
+    }
+  ],
+  "keywords": [
+    "europe broadband",
+    "eu mobile",
+    "roam like at home",
+    "germany internet",
+    "france box internet",
+    "spain fibre",
+    "italy sim"
+  ],
+  "cardText": "Operators in Germany, France, Spain, Italy, the Netherlands and Ireland, plus EU rules.",
+  "related": [
+    "roaming",
+    "networks",
+    "providers"
+  ]
+}

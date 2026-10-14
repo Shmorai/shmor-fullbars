@@ -1,0 +1,76 @@
+{
+  "updated": "2026-10-14",
+  "slug": "tv-and-broadband",
+  "nav": "TV & broadband",
+  "title": "TV and Broadband Bundles vs Streaming Compared",
+  "description": "Should you bundle TV and broadband? Compare Sky, Virgin Media, BT and EE TV packages with streaming apps over broadband, and what to check before signing up.",
+  "eyebrow": "TV guide",
+  "h1": "TV and broadband: bundle or stream?",
+  "intro": "TV bundles bring sport, films and channels together with your broadband, often on long contracts. Streaming apps are flexible but add up. Here’s how to decide.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1529408632839-a54952c491e5",
+    "alt": "Woman on a sofa watching a large TV",
+    "credit": "Grant",
+    "creditUrl": "https://unsplash.com/@grtshw"
+  },
+  "highlights": [
+    {
+      "icon": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M4 7h16a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V9a2 2 0 0 1 2-2z\"/><path d=\"m17 2-5 5-5-5\"/></svg>",
+      "title": "Bundles",
+      "text": "One bill, one box, often with sport and premium channels. Usually tied to an 18–24 month contract."
+    },
+    {
+      "icon": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M6 3v18l15-9z\"/></svg>",
+      "title": "Streaming",
+      "text": "Apps on a smart TV or stick. Monthly, cancel any time, but subscriptions can stack up."
+    },
+    {
+      "icon": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M3 10.5 12 3l9 7.5V20a1 1 0 0 1-1 1h-5v-6H9v6H4a1 1 0 0 1-1-1z\"/></svg>",
+      "title": "Free-to-air",
+      "text": "Freeview (UK) or an antenna (US) for live channels without a subscription."
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Who sells TV bundles in the UK?",
+      "html": "<ul><li><strong>Sky</strong>: Sky Stream (over broadband or a dish-free puck) and Sky Glass TVs, plus Sky Sports and Sky Cinema add-ons.</li><li><strong>Virgin Media</strong>: TV over its own cable network with broadband bundles.</li><li><strong>BT and EE</strong>: TV services that combine Freeview channels with apps and add-on packs.</li><li><strong>TalkTalk and others</strong>: lighter TV options with app add-ons.</li></ul><p>Details and channel packs change often, so check the current line-up with each provider.</p>"
+    },
+    {
+      "h2": "When a bundle makes sense",
+      "html": "<ul><li>You want live sport across several services in one place.</li><li>You prefer one remote, one bill and recordings.</li><li>The bundle price beats the total of the separate subscriptions you’d actually keep.</li></ul>"
+    },
+    {
+      "h2": "When streaming is better",
+      "html": "<ul><li>You watch one or two services at a time and rotate them.</li><li>You don’t want to be tied into a long contract.</li><li>You already have a fast broadband connection. Count roughly 15 Mbps or more per 4K stream.</li></ul>"
+    },
+    {
+      "h2": "In the US",
+      "html": "<p>Cable TV from providers like Xfinity and Spectrum is often bundled with internet, but many households now “cut the cord” and use live TV streaming services, plus an antenna for local channels. Check equipment fees and regional sports fees in the small print.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I need a TV licence for streaming?",
+      "a": "In the UK, you need a TV licence to watch or record live TV on any channel or service, or to use BBC iPlayer. Check the rules at tvlicensing.co.uk."
+    },
+    {
+      "q": "Can I get Sky without a dish?",
+      "a": "Yes. Sky Stream and Sky Glass deliver Sky TV over broadband, so no satellite dish is needed."
+    }
+  ],
+  "keywords": [
+    "tv and broadband",
+    "broadband and tv",
+    "tv bundle",
+    "sky tv",
+    "virgin media tv",
+    "streaming",
+    "cord cutting"
+  ],
+  "cardText": "Sky, Virgin Media and BT TV bundles vs streaming apps over broadband.",
+  "related": [
+    "broadband",
+    "broadband-speed",
+    "usa"
+  ]
+}

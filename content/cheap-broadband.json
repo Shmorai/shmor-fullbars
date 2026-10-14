@@ -1,0 +1,70 @@
+{
+  "updated": "2026-10-14",
+  "slug": "cheap-broadband",
+  "nav": "Social tariffs",
+  "title": "Cheap Broadband: Social Tariffs & Low-Cost Plans",
+  "description": "Social tariffs are cheaper broadband and mobile plans for people on Universal Credit and other benefits: who qualifies and how to apply.",
+  "eyebrow": "Save money",
+  "h1": "Cheaper broadband and social tariffs",
+  "intro": "If you get Universal Credit, Pension Credit or certain other benefits, you may be able to get a much cheaper broadband or mobile plan, called a social tariff, from your current provider or a new one.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1648171457827-8289db7d0ff4",
+    "alt": "Woman and child on a sofa looking at a phone together",
+    "credit": "Helena Lopes",
+    "creditUrl": "https://unsplash.com/@helenalopesph"
+  },
+  "highlights": [
+    {
+      "icon": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M20 6 9 17l-5-5\"/></svg>",
+      "title": "Who qualifies",
+      "text": "Usually people on Universal Credit, Pension Credit and some other means-tested benefits. Each provider sets its own criteria."
+    },
+    {
+      "icon": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"m17 2 4 4-4 4\"/><path d=\"M3 11v-1a4 4 0 0 1 4-4h14\"/><path d=\"m7 22-4-4 4-4\"/><path d=\"M21 13v1a4 4 0 0 1-4 4H3\"/></svg>",
+      "title": "No exit fees",
+      "text": "Social tariffs are typically short contracts, and moving to one from your provider shouldn’t cost an exit fee. Ask."
+    },
+    {
+      "icon": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M19 7V4a1 1 0 0 0-1-1H5a2 2 0 0 0 0 4h15a1 1 0 0 1 1 1v4h-3a2 2 0 0 0 0 4h3a1 1 0 0 0 1-1v-2a1 1 0 0 0-1-1\"/><path d=\"M3 5v14a2 2 0 0 0 2 2h15a1 1 0 0 0 1-1v-4\"/></svg>",
+      "title": "How to apply",
+      "text": "Contact the provider. They usually check eligibility with the DWP or ask for proof of benefits."
+    }
+  ],
+  "sections": [
+    {
+      "h2": "What are social tariffs?",
+      "html": "<p>Social tariffs are discounted broadband or mobile plans for households on low incomes. In the UK, many providers offer them, and Ofcom keeps an up-to-date list of who offers what. Find it on the <a href=\"https://www.ofcom.org.uk/phones-and-broadband/saving-money/social-tariffs\" rel=\"noopener\" target=\"_blank\">Ofcom social tariffs page</a>.</p>"
+    },
+    {
+      "h2": "Other ways to cut your bill",
+      "html": "<ul><li><strong>Haggle at the end of your contract</strong>: your provider must tell you its best deals when your term ends.</li><li><strong>Drop the landline</strong> if you don’t use it.</li><li><strong>Go SIM only</strong> once your phone is paid off. See <a href=\"/sim-only-deals/\">SIM only</a>.</li><li><strong>Pick the speed you need</strong>, not the fastest. Use our <a href=\"/broadband-speed/\">speed guide</a>.</li></ul>"
+    },
+    {
+      "h2": "In the US and Europe",
+      "html": "<p>In the US, the federal <strong>Lifeline</strong> program offers discounts for eligible households, and many providers run low-income plans. In Europe, several countries have social tariffs or affordability measures. Ask your provider or national regulator.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Are social tariffs slower?",
+      "a": "Not necessarily. Many offer decent speeds suitable for streaming and video calls. Check the speed of the plan offered."
+    },
+    {
+      "q": "Can I get a social tariff if I’m in contract?",
+      "a": "Often yes. Ask your provider. Some will move you to their social tariff without an exit fee."
+    }
+  ],
+  "keywords": [
+    "social tariff",
+    "cheap broadband",
+    "low income broadband",
+    "universal credit broadband",
+    "lifeline"
+  ],
+  "cardText": "Discounted broadband and mobile for people on Universal Credit and other benefits.",
+  "related": [
+    "broadband",
+    "sim-only-deals",
+    "switching"
+  ]
+}

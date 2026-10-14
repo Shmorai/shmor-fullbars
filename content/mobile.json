@@ -1,0 +1,415 @@
+{
+  "updated": "2026-10-14",
+  "slug": "mobile",
+  "nav": "Mobile",
+  "navOrder": 2,
+  "title": "Compare UK Mobile Networks & Phone Contracts",
+  "description": "Compare UK mobile networks EE, O2, Vodafone and Three, plus the brands that use them. Coverage, contracts, 5G and how to pick the right phone plan.",
+  "eyebrow": "Compare mobile",
+  "h1": "Compare UK mobile networks and brands",
+  "intro": "The UK has four mobile networks, but dozens of brands. Knowing whose masts a brand uses is the quickest way to compare coverage, and often to find the same signal for less.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1592890288564-76628a30a657",
+    "alt": "Person holding an Android smartphone",
+    "credit": "Jonas Leupe",
+    "creditUrl": "https://unsplash.com/@jonasleupe"
+  },
+  "chips": [
+    {
+      "label": "SIM only",
+      "slug": "sim-only-deals"
+    },
+    {
+      "label": "Which network?",
+      "slug": "networks"
+    },
+    {
+      "label": "Keep my number",
+      "slug": "switching"
+    },
+    {
+      "label": "eSIM",
+      "slug": "blog/esim-explained"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "specs",
+      "title": "Networks and mobile brands",
+      "intro": "The first four cards are the networks that own masts. The rest are brands (MVNOs) that use one of them.",
+      "items": [
+        {
+          "tag": "uk",
+          "mono": "EE",
+          "title": "EE",
+          "kind": "Mobile network",
+          "text": "One of the UK’s four networks that own their masts; other brands such as BT Mobile run on it.",
+          "specs": [
+            [
+              "Type",
+              "Network operator"
+            ],
+            [
+              "Owner",
+              "BT Group"
+            ],
+            [
+              "Brands on it",
+              "BT Mobile"
+            ],
+            [
+              "eSIM",
+              "Yes"
+            ]
+          ],
+          "url": "https://ee.co.uk/",
+          "badge": "Network"
+        },
+        {
+          "tag": "uk",
+          "mono": "O2",
+          "title": "O2",
+          "kind": "Mobile network",
+          "text": "A UK network operator whose masts also carry giffgaff, Tesco Mobile, Sky Mobile and Virgin Mobile.",
+          "specs": [
+            [
+              "Type",
+              "Network operator"
+            ],
+            [
+              "Owner",
+              "Virgin Media O2"
+            ],
+            [
+              "Brands on it",
+              "giffgaff, Tesco Mobile, Sky Mobile"
+            ],
+            [
+              "eSIM",
+              "Yes"
+            ]
+          ],
+          "url": "https://www.o2.co.uk/",
+          "badge": "Network"
+        },
+        {
+          "tag": "uk",
+          "mono": "Vf",
+          "title": "Vodafone",
+          "kind": "Mobile network",
+          "text": "Merged with Three in 2025 to form VodafoneThree; both brands are still sold separately.",
+          "specs": [
+            [
+              "Type",
+              "Network operator"
+            ],
+            [
+              "Owner",
+              "VodafoneThree"
+            ],
+            [
+              "Brands on it",
+              "VOXI, Lebara, Asda Mobile, Talkmobile"
+            ],
+            [
+              "eSIM",
+              "Yes"
+            ]
+          ],
+          "url": "https://www.vodafone.co.uk/",
+          "badge": "Network"
+        },
+        {
+          "tag": "uk",
+          "mono": "3",
+          "title": "Three",
+          "kind": "Mobile network",
+          "text": "Now part of VodafoneThree; its network also carries Smarty and iD Mobile.",
+          "specs": [
+            [
+              "Type",
+              "Network operator"
+            ],
+            [
+              "Owner",
+              "VodafoneThree"
+            ],
+            [
+              "Brands on it",
+              "Smarty, iD Mobile"
+            ],
+            [
+              "eSIM",
+              "Yes"
+            ]
+          ],
+          "url": "https://www.three.co.uk/",
+          "badge": "Network"
+        },
+        {
+          "tag": "uk",
+          "mono": "gg",
+          "title": "giffgaff",
+          "kind": "SIM only · Monthly rolling",
+          "text": "A SIM-only brand with monthly “goodybags” and no long contract, running on O2.",
+          "specs": [
+            [
+              "Uses network",
+              "O2"
+            ],
+            [
+              "Contracts",
+              "Mainly 30-day rolling"
+            ],
+            [
+              "Owner",
+              "Virgin Media O2"
+            ],
+            [
+              "Type",
+              "MVNO"
+            ]
+          ],
+          "url": "https://www.giffgaff.com/"
+        },
+        {
+          "tag": "uk",
+          "mono": "Sm",
+          "title": "Smarty",
+          "kind": "SIM only",
+          "text": "A SIM-only brand from Three with straightforward data plans, running on the Three network.",
+          "specs": [
+            [
+              "Uses network",
+              "Three"
+            ],
+            [
+              "Contracts",
+              "1-month &amp; longer"
+            ],
+            [
+              "Owner",
+              "VodafoneThree"
+            ],
+            [
+              "Type",
+              "MVNO"
+            ]
+          ],
+          "url": "https://smarty.co.uk/"
+        },
+        {
+          "tag": "uk",
+          "mono": "Te",
+          "title": "Tesco Mobile",
+          "kind": "Phones · SIM only",
+          "text": "A joint venture between Tesco and Virgin Media O2, running on the O2 network.",
+          "specs": [
+            [
+              "Uses network",
+              "O2"
+            ],
+            [
+              "Sells",
+              "Phones &amp; SIM only"
+            ],
+            [
+              "Owner",
+              "Tesco / VMO2"
+            ],
+            [
+              "Type",
+              "MVNO"
+            ]
+          ],
+          "url": "https://www.tescomobile.com/"
+        },
+        {
+          "tag": "uk",
+          "mono": "VX",
+          "title": "VOXI",
+          "kind": "SIM only",
+          "text": "Vodafone’s SIM-only brand aimed at younger users, running on the Vodafone network.",
+          "specs": [
+            [
+              "Uses network",
+              "Vodafone"
+            ],
+            [
+              "Contracts",
+              "30-day rolling"
+            ],
+            [
+              "Owner",
+              "VodafoneThree"
+            ],
+            [
+              "Type",
+              "MVNO"
+            ]
+          ],
+          "url": "https://www.voxi.co.uk/"
+        },
+        {
+          "tag": "uk",
+          "mono": "iD",
+          "title": "iD Mobile",
+          "kind": "Phones · SIM only",
+          "text": "The Currys-owned mobile brand, running on the Three network.",
+          "specs": [
+            [
+              "Uses network",
+              "Three"
+            ],
+            [
+              "Sells",
+              "Phones &amp; SIM only"
+            ],
+            [
+              "Owner",
+              "Currys"
+            ],
+            [
+              "Type",
+              "MVNO"
+            ]
+          ],
+          "url": "https://www.idmobile.co.uk/"
+        },
+        {
+          "tag": "uk",
+          "mono": "Lb",
+          "title": "Lebara",
+          "kind": "SIM only · International",
+          "text": "A SIM-only brand known for international calling bundles, running on Vodafone.",
+          "specs": [
+            [
+              "Uses network",
+              "Vodafone"
+            ],
+            [
+              "Focus",
+              "Calls abroad"
+            ],
+            [
+              "Contracts",
+              "30-day rolling"
+            ],
+            [
+              "Type",
+              "MVNO"
+            ]
+          ],
+          "url": "https://www.lebara.co.uk/"
+        },
+        {
+          "tag": "uk",
+          "mono": "SM",
+          "title": "Sky Mobile",
+          "kind": "Phones · SIM only",
+          "text": "Sky’s mobile brand, which runs on O2 and can roll unused data into a savings pot.",
+          "specs": [
+            [
+              "Uses network",
+              "O2"
+            ],
+            [
+              "Sells",
+              "Phones &amp; SIM only"
+            ],
+            [
+              "Owner",
+              "Sky"
+            ],
+            [
+              "Type",
+              "MVNO"
+            ]
+          ],
+          "url": "https://www.sky.com/mobile"
+        },
+        {
+          "tag": "uk",
+          "mono": "BT",
+          "title": "BT Mobile",
+          "kind": "Phones · SIM only",
+          "text": "BT’s mobile plans run on the EE network, also owned by BT Group.",
+          "specs": [
+            [
+              "Uses network",
+              "EE"
+            ],
+            [
+              "Sells",
+              "Phones &amp; SIM only"
+            ],
+            [
+              "Owner",
+              "BT Group"
+            ],
+            [
+              "Type",
+              "MVNO"
+            ]
+          ],
+          "url": "https://www.bt.com/mobile"
+        }
+      ],
+      "more": {
+        "title": "Which network does my provider use?",
+        "slug": "networks"
+      }
+    }
+  ],
+  "sections": [
+    {
+      "h2": "The four UK networks",
+      "html": "<p><strong>EE</strong> (BT Group), <strong>O2</strong> (Virgin Media O2), <strong>Vodafone</strong> and <strong>Three</strong> own and run the UK’s mobile masts. Vodafone and Three merged in 2025 to form VodafoneThree and are combining their networks, while still selling under both brands for now. Every other mobile brand rents capacity on one of these networks.</p>"
+    },
+    {
+      "h2": "Contract, SIM only or pay as you go?",
+      "html": "<table><thead><tr><th>Type</th><th>Best for</th><th>Watch out for</th></tr></thead><tbody><tr><td>Phone contract</td><td>Spreading the cost of a new phone</td><td>Total cost over 24–36 months; device plan and airtime may be split</td></tr><tr><td>SIM only</td><td>Keeping your current phone</td><td>12-month vs 30-day flexibility</td></tr><tr><td>Pay as you go</td><td>Light or occasional users</td><td>Credit expiry and bundle rules</td></tr></tbody></table><p>Buying the phone outright and pairing it with <a href=\"/sim-only-deals/\">SIM only</a> is often cheaper over two years. Work out both totals.</p>"
+    },
+    {
+      "h2": "Check coverage where you actually are",
+      "html": "<p>Coverage claims are national; you care about your home, work and commute. Use each network’s postcode checker and the independent <a href=\"https://checker.ofcom.org.uk/\" rel=\"noopener\" target=\"_blank\">Ofcom checker</a>. Ask neighbours which network works indoors. And remember: a brand gives you its host network’s coverage.</p>"
+    },
+    {
+      "h2": "Your rights when you change",
+      "html": "<ul><li>Text <strong>PAC to 65075</strong> to get a code to keep your number, or <strong>STAC to 75075</strong> to leave without it. Codes arrive free, by text, within a minute.</li><li>Your new provider must switch you within one working day of your request.</li><li>You can’t be charged for notice periods running after your switch date.</li><li>UK providers can no longer sell locked phones.</li></ul>"
+    }
+  ],
+  "partnersTitle": "Compare mobile deals",
+  "faqs": [
+    {
+      "q": "Which UK mobile network has the best coverage?",
+      "a": "It depends on where you live and travel. Independent reports and Ofcom’s checker show coverage by area. Check your postcode rather than relying on national claims."
+    },
+    {
+      "q": "Is a cheaper brand worse than the network itself?",
+      "a": "You get the same masts, but some brands have lower priority on busy masts, fewer extras (like roaming or wi-fi calling) or slower 5G. Check what the plan includes."
+    },
+    {
+      "q": "Do I need 5G?",
+      "a": "Not necessarily. 5G can be faster where it’s strong, but good 4G is fine for most tasks. Many SIM-only and contract plans now include 5G at no extra cost."
+    }
+  ],
+  "keywords": [
+    "mobile networks",
+    "phone contract",
+    "mobile phone deals",
+    "ee",
+    "o2",
+    "vodafone",
+    "three",
+    "5g",
+    "cell phone plan"
+  ],
+  "cardText": "EE, O2, Vodafone and Three plus the brands that use them, side by side.",
+  "related": [
+    "sim-only-deals",
+    "networks",
+    "switching",
+    "roaming"
+  ]
+}

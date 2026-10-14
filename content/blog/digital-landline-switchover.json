@@ -1,0 +1,66 @@
+{
+  "updated": "2026-10-14",
+  "type": "post",
+  "slug": "blog/digital-landline-switchover",
+  "date": "2026-10-14",
+  "short": "Digital landline switchover",
+  "title": "Digital Landline Switchover 2027: What You Need to Do",
+  "description": "The UK’s copper phone network closes by 31 January 2027. What digital voice means for your landline, telecare alarms and power cuts, and how to stay safe.",
+  "h1": "The digital landline switchover: what you need to know",
+  "intro": "UK landlines are moving from the old copper network to digital calls over broadband. Here’s what changes, who needs extra help, and the deadline to know.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1523966211575-eb4a01e7dd51",
+    "alt": "Black corded landline telephone",
+    "credit": "Alexander Andrews",
+    "creditUrl": "https://unsplash.com/@alex_andrews"
+  },
+  "sections": [
+    {
+      "h2": "What’s happening",
+      "html": "<p>The UK’s Public Switched Telephone Network (PSTN), the analogue system landlines have used for decades, is being switched off. Phone providers are moving customers to <strong>digital voice</strong> (sometimes called VoIP), where calls travel over a broadband connection. The industry has committed to completing the move by <strong>31 January 2027</strong>.</p>"
+    },
+    {
+      "h2": "What it means for you",
+      "html": "<ul><li>You keep your number.</li><li>Your handset plugs into your router, or into an adaptor, instead of the wall socket.</li><li>Calls need power: Ofcom expects providers to offer at least one hour of back-up power so you can call emergency services in a power cut, for example with a battery unit.</li><li>Devices that use the phone line, such as telecare alarms, some burglar alarms and fax machines, may need checking or replacing.</li></ul>"
+    },
+    {
+      "h2": "Telecare users: get protected",
+      "html": "<p>Under an industry charter and the government’s Telecare National Action Plan, no telecare user should be moved to a digital line until it’s confirmed they have a working, compatible telecare solution. Ofcom says providers can pause the change until a safe solution is in place. If you or a relative use a personal alarm, tell your phone provider and your telecare provider.</p>"
+    },
+    {
+      "h2": "What you should do now",
+      "html": "<ol><li>Wait for your provider to contact you. You don’t usually need to do anything until then.</li><li>Tell your provider about any telecare, alarms or devices connected to your line.</li><li>Ask about a battery back-up if you don’t have a reliable mobile signal at home.</li><li>Be wary of cold callers asking for payment to “keep” your landline.</li></ol>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I have to get broadband?",
+      "a": "You need a digital connection, but providers offer landline-only digital packages for people who don’t want to use the internet."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Ofcom: Your landline is going digital",
+      "url": "https://www.ofcom.org.uk/phones-and-broadband/landline-phones/future-of-landline-calls"
+    },
+    {
+      "title": "Ofcom: Protecting customers during the migration to digital landlines",
+      "url": "https://www.ofcom.org.uk/phones-and-broadband/landline-phones/protecting-customers-during-the-migration-to-digital-landlines"
+    },
+    {
+      "title": "GOV.UK: Telecare National Action Plan",
+      "url": "https://www.gov.uk/government/publications/telecare-national-action-plan-protecting-telecare-users-throughout-the-digital-phone-switchover/telecare-national-action-plan-protecting-telecare-users-through-the-digital-phone-switchover"
+    }
+  ],
+  "keywords": [
+    "digital voice",
+    "pstn switch off",
+    "landline switch off 2027",
+    "telecare",
+    "digital landline"
+  ],
+  "related": [
+    "home-phone",
+    "broadband"
+  ]
+}

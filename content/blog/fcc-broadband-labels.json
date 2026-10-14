@@ -1,0 +1,47 @@
+{
+  "updated": "2026-10-02",
+  "type": "post",
+  "slug": "blog/fcc-broadband-labels",
+  "date": "2026-10-02",
+  "short": "FCC broadband labels",
+  "title": "FCC Broadband Labels: How to Read Them (US Guide)",
+  "description": "US internet providers must show an FCC “broadband facts” label. How to read the price, fees, speed and latency details and use them to compare plans fairly.",
+  "h1": "How to read an FCC broadband label",
+  "intro": "Like a nutrition label for internet plans, the FCC’s broadband facts label puts the true price and typical performance in one standard box. Here’s what each part means.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1602940659805-770d1b3b9911",
+    "alt": "People crossing a street in Times Square, New York",
+    "credit": "Andreas Niendorf",
+    "creditUrl": "https://unsplash.com/@ndrf"
+  },
+  "sections": [
+    {
+      "h2": "Who has to show one",
+      "html": "<p>The FCC requires internet providers to display a broadband label wherever a home or mobile broadband plan is sold. Larger providers had to comply from <strong>April 2024</strong> and smaller providers from <strong>October 2024</strong>.</p>"
+    },
+    {
+      "h2": "What’s on the label",
+      "html": "<ul><li><strong>Monthly price</strong>, and whether it’s an introductory rate, how long it lasts and what it rises to.</li><li><strong>Contract length</strong>, if any.</li><li><strong>One-time fees</strong> (activation, installation) and <strong>monthly fees</strong> such as equipment rental.</li><li><strong>Typical download and upload speeds</strong> and <strong>typical latency</strong>.</li><li>Data allowance and any charges for extra data.</li><li>Links to network management and privacy policies.</li></ul>"
+    },
+    {
+      "h2": "How to use it",
+      "html": "<p>Compare labels side by side for plans available at your address. Focus on the total monthly cost after any promotion ends, plus fees, and the typical speeds rather than the “up to” headline. Keep a copy of the label when you sign up.</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "FCC: Broadband Consumer Labels",
+      "url": "https://www.fcc.gov/broadbandlabels"
+    }
+  ],
+  "keywords": [
+    "fcc broadband label",
+    "broadband facts",
+    "internet plan fees",
+    "us internet"
+  ],
+  "related": [
+    "usa",
+    "broadband-speed"
+  ]
+}

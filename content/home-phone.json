@@ -1,0 +1,81 @@
+{
+  "updated": "2026-10-14",
+  "slug": "home-phone",
+  "nav": "Home phone",
+  "navOrder": 4,
+  "title": "Home Phone & Landline Deals: The Digital Switch",
+  "description": "UK landlines are moving to digital voice by January 2027. What it means for your home phone, alarms and telecare, plus how to compare landline-only deals.",
+  "eyebrow": "Home phone guide",
+  "h1": "Home phone and landline deals",
+  "intro": "The UK’s old copper phone network is being switched off. Most home phones will soon make calls over broadband instead. Here’s what changes, what doesn’t, and how to protect vulnerable relatives.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1587560699334-bea93391dcef",
+    "alt": "Digital desk phone on a dark table",
+    "credit": "Julian Hochgesang",
+    "creditUrl": "https://unsplash.com/@julianhochgesang"
+  },
+  "highlightsTitle": "The digital switchover in brief",
+  "highlights": [
+    {
+      "icon": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z\"/></svg>",
+      "title": "Same number",
+      "text": "You keep your phone number. Most people just plug their handset into the router."
+    },
+    {
+      "icon": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M4 14a1 1 0 0 1-.78-1.63l9.9-10.2a.5.5 0 0 1 .86.46l-1.92 6.02A1 1 0 0 0 13 10h7a1 1 0 0 1 .78 1.63l-9.9 10.2a.5.5 0 0 1-.86-.46l1.92-6.02A1 1 0 0 0 11 14z\"/></svg>",
+      "title": "Power cuts",
+      "text": "Digital phones need power. Ask your provider about a battery back-up if you rely on your landline."
+    },
+    {
+      "icon": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.3 1.5 4.05 3 5.5l7 7Z\"/></svg>",
+      "title": "Telecare & alarms",
+      "text": "Tell your provider about telecare alarms, security alarms and similar devices before you switch."
+    }
+  ],
+  "sections": [
+    {
+      "h2": "What is the digital landline switchover?",
+      "html": "<p>The traditional phone network (PSTN) is being retired. Providers are moving customers to <strong>digital voice</strong>, where calls travel over a broadband connection. The industry deadline for completing the switchover is <strong>31 January 2027</strong>. Your provider will contact you before you’re moved. Read our <a href=\"/blog/digital-landline-switchover/\">full switchover guide</a>.</p>"
+    },
+    {
+      "h2": "Who needs to take extra care",
+      "html": "<ul><li>People who use <strong>telecare</strong> or personal alarms. Under the industry’s telecare charter, providers should identify these users and check devices work before and after switching.</li><li>Homes with <strong>security or fire alarms</strong>, lift lines or other devices that dial out over the phone line.</li><li>People who rely on the landline in a <strong>power cut</strong> or have no mobile signal at home.</li></ul><p class=\"note\">Tell your provider if you or someone you care for depends on the landline. They should offer support such as a battery back-up unit.</p>"
+    },
+    {
+      "h2": "Landline-only and phone-and-broadband deals",
+      "html": "<p>If you only want a phone line, ask providers about landline-only digital voice packages, which some offer for customers who don’t use the internet. If you have broadband, compare whether a phone line adds anything you need: many people now use a mobile for calls instead.</p>"
+    },
+    {
+      "h2": "Avoid switchover scams",
+      "html": "<p>Scammers have phoned people claiming they must pay to “keep” their landline. Your provider won’t pressure you into paying on a cold call. If in doubt, hang up and call your provider on the number on your bill.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Will my old phone still work?",
+      "a": "Most corded and cordless phones work when plugged into the router or an adaptor. Your provider will tell you what you need."
+    },
+    {
+      "q": "Do I need broadband for a digital landline?",
+      "a": "Digital voice runs over a broadband-type connection, but providers offer landline-only options that don’t require you to use the internet."
+    },
+    {
+      "q": "What about the US and Europe?",
+      "a": "Copper phone networks are being retired in many countries. In the US, carriers are moving customers off copper with FCC approval; across Europe, incumbents have similar plans. Check with your provider."
+    }
+  ],
+  "keywords": [
+    "home phone",
+    "landline",
+    "landline deals",
+    "digital voice",
+    "pstn switch off",
+    "digital landline"
+  ],
+  "cardText": "Landlines are going digital by 2027: what changes for phones, alarms and telecare.",
+  "related": [
+    "blog/digital-landline-switchover",
+    "broadband",
+    "cheap-broadband"
+  ]
+}

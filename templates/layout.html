@@ -3,13 +3,25 @@
 <head>
 {{head}}
 </head>
-<!-- This site's own design. tools/build.js fills each double-brace placeholder: head, nav, main, footer_nav, site_name, year, body_class. -->
+<!-- FullBars design. tools/build.js fills each double-brace placeholder: head, nav, main, footer_nav, site_name, year, body_class. -->
 <body class="{{body_class}}">
 <a class="skip" href="#main">Skip to content</a>
+<div class="topline"><div class="wrap"><span>Broadband, mobile &amp; home phone compared for the <b>UK</b>, <b>USA</b> and <b>Europe</b></span><a href="https://shmor.ai/">Part of the Shmor.ai network</a></div></div>
 <header class="site-header">
   <div class="wrap bar">
-    <a class="brand" href="/">{{site_name}}</a>
+    <a class="brand" href="/" aria-label="FullBars home">
+      <svg class="fb-mark" viewBox="0 0 40 40" aria-hidden="true">
+        <defs><linearGradient id="fbg" x1="0" y1="1" x2="1" y2="0"><stop offset="0" stop-color="#19C3E6"/><stop offset="1" stop-color="#FF3EA5"/></linearGradient></defs>
+        <rect width="40" height="40" rx="11" fill="#0D0B24"/>
+        <rect x="8" y="24" width="4.6" height="8" rx="1.6" fill="url(#fbg)"/>
+        <rect x="14.5" y="19" width="4.6" height="13" rx="1.6" fill="url(#fbg)"/>
+        <rect x="21" y="13.5" width="4.6" height="18.5" rx="1.6" fill="url(#fbg)"/>
+        <rect x="27.5" y="8" width="4.6" height="24" rx="1.6" fill="#FF3EA5"/>
+      </svg>
+      <span class="fb-word">Full<b>Bars</b></span>
+    </a>
     <nav class="nav" data-nav aria-label="Main">{{nav}}</nav>
+    <a class="head-cta" href="/providers/"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" aria-hidden="true"><path d="M2 20h.01M7 20v-4M12 20v-8M17 20V8M22 4v16"/></svg>Compare providers</a>
     <button class="menu" data-menu aria-label="Menu" aria-expanded="false"><span></span><span></span><span></span></button>
   </div>
 </header>
@@ -17,23 +29,31 @@
 {{main}}
 </main>
 <footer class="site-footer">
+  <div class="foot-signal" aria-hidden="true"><span></span><span></span><span></span><span></span><span></span></div>
   <div class="wrap">
     <div class="foot-cols">
-      <div><a class="brand" href="/">{{site_name}}</a><p>Part of the <a href="https://shmor.ai/">Shmor.ai</a> network. Search more. Do less.</p></div>
-      <div><h4>Guides</h4><ul>{{footer_nav}}</ul></div>
+      <div>
+        <a class="brand" href="/"><span class="fb-word">Full<b>Bars</b></span></a>
+        <p class="foot-tag">Every connection, compared at full strength.</p>
+        <p>Plain-English comparisons of broadband, mobile, SIM-only, home phone and TV providers for readers in the UK, the USA and Europe. Part of the <a href="https://shmor.ai/">Shmor.ai</a> network: search more, do less.</p>
+      </div>
+      <div><h4>Compare &amp; guides</h4><ul>{{footer_nav}}</ul></div>
       <div><h4>Shmor.ai</h4><ul>
         <li><a href="https://shmor.ai/">All Shmor marketplaces</a></li>
-        <li><a href="https://shmor.ai/about/">About</a></li>
+        <li><a href="https://bestvpns.shmor.ai/">BestVPNs: VPNs compared</a></li>
+        <li><a href="https://traveldeals.shmor.ai/">TravelDeals: holidays &amp; flights</a></li>
+        <li><a href="https://shmor.ai/about/">About Shmor</a></li>
         <li><a href="https://shmor.ai/contact/">Contact</a></li>
+        <li><a href="https://shmor.ai/partners/">Advertise with us</a></li>
       </ul></div>
       <div><h4>Legal</h4><ul>
-        <li><a href="https://shmor.ai/privacy/">Privacy</a></li>
-        <li><a href="https://shmor.ai/cookies/">Cookies</a></li>
-        <li><a href="https://shmor.ai/terms/">Terms</a></li>
+        <li><a href="https://shmor.ai/privacy/">Privacy policy</a></li>
+        <li><a href="https://shmor.ai/cookies/">Cookie policy</a></li>
+        <li><a href="https://shmor.ai/terms/">Terms of use</a></li>
         <li><a href="https://shmor.ai/affiliate-disclosure/">How we make money</a></li>
       </ul></div>
     </div>
-    <p class="disclosure">{{site_name}} is free to use. Some links are affiliate links: if you book or buy through them we may earn a commission, at no extra cost to you. Prices and availability are set by providers and can change. © {{year}} Shmor.ai</p>
+    <p class="disclosure">FullBars is a free, independent comparison and guide service, not a broadband, mobile or phone provider: you sign up directly with the provider, under their terms. Some links are affiliate links, so we may earn a commission at no extra cost to you; this never changes what we write. Prices, speeds, coverage and availability are set by providers, vary by address and change often, so always check the provider's own checker and contract summary before you sign. Brand names belong to their owners. © {{year}} Shmor.ai</p>
   </div>
 </footer>
 <script src="/assets/site.js" defer></script>

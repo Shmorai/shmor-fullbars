@@ -1,0 +1,122 @@
+{
+  "updated": "2026-10-14",
+  "slug": "full-fibre-broadband",
+  "nav": "Full fibre",
+  "title": "Full Fibre Broadband Explained: FTTP vs FTTC",
+  "description": "What full fibre (FTTP) broadband is, how it differs from FTTC “fibre”, cable and 5G, who sells it in the UK and how to check if your home can get it.",
+  "eyebrow": "Broadband guide",
+  "h1": "Full fibre broadband, explained",
+  "intro": "Full fibre carries your connection on light, from the exchange right into your home. It’s the fastest, most reliable broadband you can buy, and it’s now available to most UK homes.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1594915440248-1e419eba6611",
+    "alt": "Fibre optic cables plugged into a network switch",
+    "credit": "Kirill Sh",
+    "creditUrl": "https://unsplash.com/@kirill2020"
+  },
+  "blocks": [
+    {
+      "type": "meters",
+      "title": "Full fibre vs the alternatives",
+      "items": [
+        {
+          "title": "ADSL (copper)",
+          "icon": "phone",
+          "value": 12,
+          "valueLabel": "up to ~24 Mbps",
+          "text": "The oldest broadband: phone-line copper all the way to your home. Speed falls the further you are from the exchange.",
+          "badge": "Being phased out"
+        },
+        {
+          "title": "Part fibre (FTTC / VDSL)",
+          "icon": "wifi",
+          "value": 30,
+          "valueLabel": "up to ~80 Mbps",
+          "text": "Fibre to the street cabinet, then copper to your home. Sold as “fibre broadband” in the UK, but it isn’t full fibre.",
+          "badge": "Common in the UK"
+        },
+        {
+          "title": "4G / 5G home broadband",
+          "icon": "signal",
+          "value": 50,
+          "valueLabel": "varies a lot",
+          "text": "A router with a SIM inside, using a mobile network. No line needed, but speed depends on local signal and busy times.",
+          "badge": "No engineer needed",
+          "slug": "rural-broadband"
+        },
+        {
+          "title": "Satellite (low orbit)",
+          "icon": "dish",
+          "value": 45,
+          "valueLabel": "tens to hundreds of Mbps",
+          "text": "Services like Starlink use low-orbit satellites. Useful where nothing else reaches; needs a clear view of the sky.",
+          "badge": "Rural option",
+          "slug": "rural-broadband"
+        },
+        {
+          "title": "Cable (DOCSIS)",
+          "icon": "tv",
+          "value": 78,
+          "valueLabel": "1 Gbps+ download",
+          "text": "Coaxial cable networks such as Virgin Media, Xfinity and Spectrum. Very fast downloads, slower uploads.",
+          "badge": "Big in the US"
+        },
+        {
+          "title": "Full fibre (FTTP / FTTH)",
+          "icon": "zap",
+          "value": 100,
+          "valueLabel": "1 Gbps to multi-gig",
+          "text": "Fibre optic cable all the way into your home. The fastest and most reliable option, with matching upload speeds on many plans.",
+          "badge": "Fastest",
+          "slug": "full-fibre-broadband"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "FTTP, FTTC and FTTH: the jargon",
+      "html": "<table><thead><tr><th>Term</th><th>What it means</th><th>Typical ceiling</th></tr></thead><tbody><tr><td>FTTP / FTTH</td><td>Fibre to the premises / home: full fibre</td><td>1 Gbps or more</td></tr><tr><td>FTTC</td><td>Fibre to the cabinet, copper to your home</td><td>up to ~80 Mbps</td></tr><tr><td>ADSL</td><td>Copper all the way</td><td>up to ~24 Mbps</td></tr><tr><td>Cable</td><td>Fibre to the street, coaxial cable to your home</td><td>1 Gbps+ download</td></tr></tbody></table><p>Real-world speeds depend on the package you buy and your home wi-fi.</p>"
+    },
+    {
+      "h2": "Why full fibre is better",
+      "html": "<ul><li><strong>Speed</strong>: gigabit packages are common, and some providers sell multi-gigabit plans.</li><li><strong>Uploads</strong>: many full fibre plans have much faster uploads than FTTC or cable, which helps video calls and backups.</li><li><strong>Reliability</strong>: no copper to corrode or pick up interference, and speed doesn’t drop with distance from the cabinet.</li><li><strong>Future-proof</strong>: the UK’s copper network is being retired, and full fibre is what replaces it.</li></ul>"
+    },
+    {
+      "h2": "Who sells full fibre in the UK?",
+      "html": "<p>Most big brands (BT, Sky, TalkTalk, Vodafone, EE, Plusnet, NOW) sell full fibre over Openreach. Virgin Media is upgrading its own network to full fibre. Alternative networks such as CityFibre, Hyperoptic, Community Fibre, YouFibre and many regional builders sell it directly or through partner brands. Compare them on our <a href=\"/providers/\">providers page</a>.</p>"
+    },
+    {
+      "h2": "Getting full fibre installed",
+      "html": "<ol><li>Check availability for your exact address with providers and the <a href=\"https://checker.ofcom.org.uk/\" rel=\"noopener\" target=\"_blank\">Ofcom checker</a>.</li><li>Order, and book an engineer visit if a new line is needed.</li><li>The engineer runs a fibre cable to a small box inside your home, usually near where your phone line comes in, and fits an optical network terminal (ONT).</li><li>Your router plugs into the ONT. Think about where it goes: central placement gives better wi-fi.</li></ol><p class=\"note\">Renting? You’ll usually need your landlord’s permission for any drilling. Ask early.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I need full fibre?",
+      "a": "If your household streams in 4K, games online, works from home or has many connected devices, full fibre removes most bottlenecks. If you mainly browse and stream on one screen, a slower plan may be fine. See <a href=\"/broadband-speed/\">what speed you need</a>."
+    },
+    {
+      "q": "Is full fibre more expensive?",
+      "a": "Not necessarily. Entry-level full fibre plans are often priced close to part-fibre plans. Compare the total cost across the whole contract."
+    },
+    {
+      "q": "Will my landline work on full fibre?",
+      "a": "Home phone calls on full fibre use digital voice, with your handset plugged into the router. Your provider will explain what you need. See our <a href=\"/home-phone/\">home phone guide</a>."
+    }
+  ],
+  "keywords": [
+    "full fibre",
+    "fttp",
+    "ftth",
+    "fttc",
+    "gigabit broadband",
+    "fiber internet",
+    "fibre broadband"
+  ],
+  "cardText": "FTTP vs FTTC vs cable: why full fibre is faster and how to get it installed.",
+  "related": [
+    "broadband",
+    "broadband-speed",
+    "providers"
+  ]
+}

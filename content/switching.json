@@ -1,0 +1,110 @@
+{
+  "updated": "2026-10-14",
+  "slug": "switching",
+  "nav": "Switching guide",
+  "title": "How to Switch Broadband or Mobile Provider (UK)",
+  "description": "Step-by-step UK guide to switching broadband, landline and mobile providers: One Touch Switch, PAC and STAC codes, exit fees and your rights when you switch.",
+  "eyebrow": "Switching guide",
+  "h1": "How to switch provider, step by step",
+  "intro": "Switching is easier than ever in the UK. For both broadband and mobile, your new provider now does most of the work. Here’s how to do it without gaps in service or surprise fees.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1512428559087-560fa5ceab42",
+    "alt": "Person holding a smartphone while working at a desk",
+    "credit": "NordWood Themes",
+    "creditUrl": "https://unsplash.com/@nordwood"
+  },
+  "blocks": [
+    {
+      "type": "steps",
+      "title": "Switching broadband",
+      "items": [
+        {
+          "icon": "calendar",
+          "title": "Check your contract",
+          "text": "Find your minimum term end date. Leaving early usually means an early exit charge."
+        },
+        {
+          "icon": "search",
+          "title": "Choose a new deal",
+          "text": "Check availability and the minimum guaranteed speed at your address."
+        },
+        {
+          "icon": "repeat",
+          "title": "Order from the new provider",
+          "text": "Under One Touch Switch, the new provider contacts your old one and arranges the switch, even across networks."
+        },
+        {
+          "icon": "check",
+          "title": "Get switched",
+          "text": "Your old service ends on switch day. You shouldn’t pay notice charges after that date."
+        }
+      ]
+    },
+    {
+      "type": "steps",
+      "class": "alt",
+      "title": "Switching mobile",
+      "items": [
+        {
+          "icon": "message",
+          "title": "Text for a code",
+          "text": "Text PAC to 65075 to keep your number, or STAC to 75075 to get a new one."
+        },
+        {
+          "icon": "file",
+          "title": "Check what you owe",
+          "text": "The reply text shows any early exit fees or outstanding phone balance."
+        },
+        {
+          "icon": "smartphone",
+          "title": "Order your new plan",
+          "text": "Give your code to the new provider. Codes are valid for 30 days."
+        },
+        {
+          "icon": "check",
+          "title": "Switch in one working day",
+          "text": "Your number moves over and your old contract ends automatically."
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Before you switch",
+      "html": "<ul><li><strong>Exit fees</strong>: if you’re still in your minimum term, check what you’ll pay. Sometimes a new deal still works out cheaper overall.</li><li><strong>Email addresses</strong>: if you use your provider’s email address, check whether you can keep it (sometimes for a fee) and update your accounts.</li><li><strong>Bundles</strong>: leaving one part of a bundle can change the price of the rest.</li><li><strong>Equipment</strong>: you may need to return the old router or TV box.</li></ul>"
+    },
+    {
+      "h2": "Switching in the US",
+      "html": "<p>In the US, you keep your mobile number by asking your new carrier to port it. You’ll usually need your account number and a number transfer PIN from your current carrier. For home internet, you normally cancel the old service yourself once the new one works, and return any rented equipment to avoid fees. See our <a href=\"/usa/\">US guide</a>.</p>"
+    },
+    {
+      "h2": "Switching in the EU",
+      "html": "<p>EU rules give you the right to keep your number, with porting completed within one working day of the agreed date, and limit consumer contracts to an initial commitment of no more than 24 months. Your new provider leads the switch. See our <a href=\"/europe/\">Europe guide</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Will I lose my internet during a broadband switch?",
+      "a": "There may be a short break on switch day while the new service connects, but providers aim to keep this brief. Changes between networks may need an engineer visit."
+    },
+    {
+      "q": "Can I switch mid-contract?",
+      "a": "Yes, but you will usually pay early termination charges. You may be able to leave penalty-free if your provider raises prices beyond what your contract allows, or if speeds fall below the guaranteed minimum and can’t be fixed."
+    }
+  ],
+  "keywords": [
+    "switch broadband",
+    "switch provider",
+    "pac code",
+    "stac code",
+    "one touch switch",
+    "keep my number",
+    "port number"
+  ],
+  "cardText": "One Touch Switch, PAC and STAC codes, exit fees and your rights.",
+  "related": [
+    "blog/one-touch-switch",
+    "mobile",
+    "broadband"
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "updated": "2026-10-14",
+  "slug": "sim-only-deals",
+  "nav": "SIM only",
+  "navOrder": 3,
+  "title": "SIM Only Deals Explained: Save Without a New Phone",
+  "description": "How SIM only plans work in the UK: 30-day vs 12-month deals, how much data you need, which network each brand uses and how to switch and keep your number.",
+  "eyebrow": "Mobile guide",
+  "h1": "SIM only: keep your phone, cut your bill",
+  "intro": "If your phone still works well, a SIM-only plan is usually the cheapest way to stay connected. You just pay for calls, texts and data, with no phone cost baked in.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1562774555-079298a31cbe",
+    "alt": "Close-up of a mobile phone SIM card",
+    "credit": "Brett Jordan",
+    "creditUrl": "https://unsplash.com/@brett_jordan"
+  },
+  "blocks": [
+    {
+      "type": "specs",
+      "title": "Popular SIM-only brands",
+      "intro": "Check the network each one uses, then check coverage for that network at your postcode.",
+      "items": [
+        {
+          "tag": "uk",
+          "mono": "gg",
+          "title": "giffgaff",
+          "kind": "SIM only · Monthly rolling",
+          "text": "A SIM-only brand with monthly “goodybags” and no long contract, running on O2.",
+          "specs": [
+            [
+              "Uses network",
+              "O2"
+            ],
+            [
+              "Contracts",
+              "Mainly 30-day rolling"
+            ],
+            [
+              "Owner",
+              "Virgin Media O2"
+            ],
+            [
+              "Type",
+              "MVNO"
+            ]
+          ],
+          "url": "https://www.giffgaff.com/"
+        },
+        {
+          "tag": "uk",
+          "mono": "Sm",
+          "title": "Smarty",
+          "kind": "SIM only",
+          "text": "A SIM-only brand from Three with straightforward data plans, running on the Three network.",
+          "specs": [
+            [
+              "Uses network",
+              "Three"
+            ],
+            [
+              "Contracts",
+              "1-month &amp; longer"
+            ],
+            [
+              "Owner",
+              "VodafoneThree"
+            ],
+            [
+              "Type",
+              "MVNO"
+            ]
+          ],
+          "url": "https://smarty.co.uk/"
+        },
+        {
+          "tag": "uk",
+          "mono": "Te",
+          "title": "Tesco Mobile",
+          "kind": "Phones · SIM only",
+          "text": "A joint venture between Tesco and Virgin Media O2, running on the O2 network.",
+          "specs": [
+            [
+              "Uses network",
+              "O2"
+            ],
+            [
+              "Sells",
+              "Phones &amp; SIM only"
+            ],
+            [
+              "Owner",
+              "Tesco / VMO2"
+            ],
+            [
+              "Type",
+              "MVNO"
+            ]
+          ],
+          "url": "https://www.tescomobile.com/"
+        },
+        {
+          "tag": "uk",
+          "mono": "VX",
+          "title": "VOXI",
+          "kind": "SIM only",
+          "text": "Vodafone’s SIM-only brand aimed at younger users, running on the Vodafone network.",
+          "specs": [
+            [
+              "Uses network",
+              "Vodafone"
+            ],
+            [
+              "Contracts",
+              "30-day rolling"
+            ],
+            [
+              "Owner",
+              "VodafoneThree"
+            ],
+            [
+              "Type",
+              "MVNO"
+            ]
+          ],
+          "url": "https://www.voxi.co.uk/"
+        },
+        {
+          "tag": "uk",
+          "mono": "iD",
+          "title": "iD Mobile",
+          "kind": "Phones · SIM only",
+          "text": "The Currys-owned mobile brand, running on the Three network.",
+          "specs": [
+            [
+              "Uses network",
+              "Three"
+            ],
+            [
+              "Sells",
+              "Phones &amp; SIM only"
+            ],
+            [
+              "Owner",
+              "Currys"
+            ],
+            [
+              "Type",
+              "MVNO"
+            ]
+          ],
+          "url": "https://www.idmobile.co.uk/"
+        },
+        {
+          "tag": "uk",
+          "mono": "Lb",
+          "title": "Lebara",
+          "kind": "SIM only · International",
+          "text": "A SIM-only brand known for international calling bundles, running on Vodafone.",
+          "specs": [
+            [
+              "Uses network",
+              "Vodafone"
+            ],
+            [
+              "Focus",
+              "Calls abroad"
+            ],
+            [
+              "Contracts",
+              "30-day rolling"
+            ],
+            [
+              "Type",
+              "MVNO"
+            ]
+          ],
+          "url": "https://www.lebara.co.uk/"
+        }
+      ]
+    },
+    {
+      "type": "steps",
+      "class": "alt",
+      "title": "Going SIM only in four steps",
+      "items": [
+        {
+          "icon": "calendar",
+          "title": "Check your contract",
+          "text": "Has your phone been paid off? If your contract has ended, you may be paying for a phone you already own."
+        },
+        {
+          "icon": "lock",
+          "title": "Check your phone is unlocked",
+          "text": "Phones sold in the UK since December 2021 are sold unlocked. Older phones may need unlocking by your network."
+        },
+        {
+          "icon": "signal",
+          "title": "Pick a network, then a plan",
+          "text": "Choose coverage first, then the brand and data amount that suit you."
+        },
+        {
+          "icon": "repeat",
+          "title": "Keep your number",
+          "text": "Text PAC to 65075 and give the code to your new provider. The switch happens within one working day."
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "30-day rolling vs 12-month plans",
+      "html": "<p><strong>30-day plans</strong> let you leave or change with a month’s notice: great for flexibility and for trying a network. <strong>12-month plans</strong> can be cheaper per month but tie you in, and some include price rises during the term. Always read the contract summary.</p>"
+    },
+    {
+      "h2": "How much data do you need?",
+      "html": "<ul><li><strong>Light</strong>: messaging, maps and email, mostly on wi-fi. A small allowance is often enough.</li><li><strong>Medium</strong>: social media, music streaming and some video away from wi-fi.</li><li><strong>Heavy</strong>: video streaming, hotspotting a laptop or working on the go. Consider a large or unlimited plan.</li></ul><p>Check your phone’s settings for your average monthly use over the last few months. That’s your best guide.</p>"
+    },
+    {
+      "h2": "Extras worth checking",
+      "html": "<ul><li><strong>EU roaming</strong>: many plans now charge daily fees abroad. See our <a href=\"/roaming/\">roaming guide</a>.</li><li><strong>5G and speed caps</strong>: some cheap plans cap speeds or exclude 5G.</li><li><strong>Wi-fi calling and eSIM</strong>: useful if indoor signal is weak, or for dual-SIM phones.</li><li><strong>Data rollover</strong>: some brands let unused data carry over.</li></ul>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Will a SIM-only deal work in my phone?",
+      "a": "Yes, if your phone is unlocked and supports the network’s bands (almost all modern phones do). Check whether you need a physical SIM or can use an <a href=\"/blog/esim-explained/\">eSIM</a>."
+    },
+    {
+      "q": "Can I keep my number on a SIM-only plan?",
+      "a": "Yes. Text PAC to 65075 from your current phone, then give the code to your new provider when you order."
+    }
+  ],
+  "keywords": [
+    "sim only",
+    "sim only deals",
+    "sim-only",
+    "cheap sim",
+    "unlimited data sim",
+    "30 day sim",
+    "esim"
+  ],
+  "cardText": "30-day vs 12-month plans, how much data you need, and keeping your number.",
+  "related": [
+    "mobile",
+    "networks",
+    "switching",
+    "blog/esim-explained"
+  ]
+}

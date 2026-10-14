@@ -1,0 +1,20 @@
+{
+  "updated": "2026-10-14",
+  "slug": "blog",
+  "type": "blog",
+  "nav": "Guides",
+  "navOrder": 8,
+  "title": "Broadband & Mobile News and Guides | FullBars",
+  "description": "Plain-English guides and news on broadband, mobile, landlines and switching in the UK, USA and Europe, checked against Ofcom, FCC and EU sources.",
+  "eyebrow": "Guides & news",
+  "h1": "Telecom guides and news",
+  "intro": "Rule changes, switchover deadlines and how-tos, explained without the jargon and checked against official sources.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9",
+    "alt": "Smartphone beside a laptop keyboard on a white desk",
+    "credit": "Rahul Chakraborty",
+    "creditUrl": "https://unsplash.com/@hckmstrrahul"
+  },
+  "search": false,
+  "listTitle": "All guides"
+}

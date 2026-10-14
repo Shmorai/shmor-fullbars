@@ -1,0 +1,62 @@
+{
+  "updated": "2026-10-14",
+  "slug": "roaming",
+  "nav": "Roaming",
+  "title": "Mobile Roaming Charges in Europe & Abroad Explained",
+  "description": "How mobile roaming works for UK, US and EU travellers: daily roaming fees, EU roam like at home, travel eSIMs and tips to avoid a surprise bill on holiday.",
+  "eyebrow": "Travel guide",
+  "h1": "Roaming: use your phone abroad without bill shock",
+  "intro": "Your phone plan’s rules change the moment you cross a border. Whether you’re a UK holidaymaker in Spain, an American in Paris or an EU resident travelling home, here’s what to check.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1772751320776-fb98dfba127a",
+    "alt": "Man on a phone call in an airport waiting area",
+    "credit": "David Geneugelijk",
+    "creditUrl": "https://unsplash.com/@davidgeneugelijk"
+  },
+  "sections": [
+    {
+      "h2": "UK customers travelling in Europe",
+      "html": "<p>Many UK networks now charge a <strong>daily roaming fee</strong> in the EU, while some plans or brands include European roaming at no extra cost. Fair-use limits often apply. Check your plan before you go; you can usually add a roaming pass in your network’s app.</p>"
+    },
+    {
+      "h2": "EU customers",
+      "html": "<p><strong>Roam like at home</strong> means your EU plan works in other EU and EEA countries (including Norway, Iceland and Liechtenstein) at domestic prices, subject to fair use. It doesn’t cover non-EU countries like the UK or Switzerland unless your operator includes them.</p>"
+    },
+    {
+      "h2": "US customers travelling abroad",
+      "html": "<p>US carriers offer international day passes or plans with some international data included. Some prepaid brands don’t include roaming at all. Check before you travel and consider a travel eSIM.</p>"
+    },
+    {
+      "h2": "Travel eSIMs and local SIMs",
+      "html": "<p>A travel eSIM gives you a data plan for your destination without swapping your physical SIM. Your phone must be unlocked and support eSIM. For longer stays, a local prepaid SIM may be cheaper. See <a href=\"/blog/esim-explained/\">eSIM explained</a>.</p>"
+    },
+    {
+      "h2": "Avoid a surprise bill",
+      "html": "<ul><li>Check roaming terms and fees before you leave.</li><li>Turn off data roaming if you don’t need it, and use wi-fi.</li><li>Watch for cruise ships and flights: onboard networks are not covered by roaming rules and can be very expensive.</li><li>Set a spending cap in your network’s app.</li></ul>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is roaming free in Europe for UK phones?",
+      "a": "Not automatically any more. It depends on your network and plan. Some include it; many charge a daily fee."
+    },
+    {
+      "q": "Do cruise ships count as roaming?",
+      "a": "At sea, phones often connect to a ship’s satellite network, which is not covered by normal roaming deals and can be costly. Use airplane mode and ship wi-fi if available."
+    }
+  ],
+  "keywords": [
+    "roaming",
+    "data roaming",
+    "roaming charges",
+    "eu roaming",
+    "travel esim",
+    "phone abroad"
+  ],
+  "cardText": "Daily fees, roam like at home, travel eSIMs and avoiding bill shock.",
+  "related": [
+    "europe",
+    "blog/esim-explained",
+    "mobile"
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "updated": "2026-10-14",
+  "slug": "broadband-speed",
+  "nav": "Speed guide",
+  "title": "What Broadband Speed Do I Need? A Simple Guide",
+  "description": "How much broadband speed you really need for streaming, gaming, video calls and working from home, with simple household examples and upload advice.",
+  "eyebrow": "Broadband guide",
+  "h1": "What broadband speed do you need?",
+  "intro": "Faster isn’t always better value. Work out what your household actually does online, add some headroom, and you’ll avoid paying for speed you never use.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1616531770192-6eaea74c2456",
+    "alt": "Laptop showing a video call next to a houseplant",
+    "credit": "Compagnons",
+    "creditUrl": "https://unsplash.com/@sigmund"
+  },
+  "highlightsTitle": "Quick guide by household",
+  "highlights": [
+    {
+      "icon": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M7 2h10a2 2 0 0 1 2 2v16a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2z\"/><path d=\"M12 18h.01\"/></svg>",
+      "title": "1–2 people, light use",
+      "text": "Browsing, email, HD streaming on one screen. A basic part-fibre or entry full fibre plan is usually enough."
+    },
+    {
+      "icon": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2\"/><circle cx=\"9\" cy=\"7\" r=\"4\"/><path d=\"M22 21v-2a4 4 0 0 0-3-3.87\"/><path d=\"M16 3.13a4 4 0 0 1 0 7.75\"/></svg>",
+      "title": "Family, several screens",
+      "text": "Two or three streams at once, video calls, gaming. Look at mid-range full fibre or cable plans."
+    },
+    {
+      "icon": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M4 14a1 1 0 0 1-.78-1.63l9.9-10.2a.5.5 0 0 1 .86.46l-1.92 6.02A1 1 0 0 0 13 10h7a1 1 0 0 1 .78 1.63l-9.9 10.2a.5.5 0 0 1-.86-.46l1.92-6.02A1 1 0 0 0 11 14z\"/></svg>",
+      "title": "Heavy users & home workers",
+      "text": "Large game downloads, 4K on several TVs, big uploads. Gigabit full fibre gives you headroom."
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Speeds for everyday tasks",
+      "html": "<p>Streaming services publish their own recommendations. Netflix, for example, suggests around 5 Mbps for HD and 15 Mbps for 4K Ultra HD per stream. Add these up for everything your household does at the same time.</p><table><thead><tr><th>Activity</th><th>What matters</th></tr></thead><tbody><tr><td>Browsing &amp; email</td><td>Very little bandwidth</td></tr><tr><td>HD streaming</td><td>A few Mbps per stream</td></tr><tr><td>4K streaming</td><td>Around 15 Mbps or more per stream</td></tr><tr><td>Video calls</td><td>Steady upload speed and low latency</td></tr><tr><td>Online gaming</td><td>Low latency (ping) more than raw speed</td></tr><tr><td>Game &amp; file downloads</td><td>Download speed: faster saves real time</td></tr><tr><td>Cloud backup, streaming, creators</td><td>Upload speed</td></tr></tbody></table>"
+    },
+    {
+      "h2": "Don’t forget upload speed",
+      "html": "<p>Most deals advertise download speed. But video calls, sending large files, cloud photo backups and live streaming all use <strong>upload</strong>. Part fibre (FTTC) and many cable plans have much slower uploads than downloads. Many full fibre plans offer much higher upload speeds.</p>"
+    },
+    {
+      "h2": "Your wi-fi may be the real bottleneck",
+      "html": "<ul><li>Put the router somewhere central and high, not in a cupboard.</li><li>Use a wired connection for TVs, consoles and desks near the router.</li><li>In bigger homes, a mesh wi-fi system often fixes “slow broadband”.</li><li>Older devices may not support the latest wi-fi standards.</li></ul>"
+    },
+    {
+      "h2": "Check the speed you’re promised",
+      "html": "<p>In the UK, providers signed up to Ofcom’s broadband speeds code must give you a personalised speed estimate and a minimum guaranteed speed before you buy. If your speed falls below the minimum and the provider can’t fix it, you may be able to leave without penalty. In the US, check the provider’s <a href=\"/blog/fcc-broadband-labels/\">FCC broadband label</a> for typical speeds.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is 100 Mbps fast enough?",
+      "a": "For most households, yes: it handles several HD or 4K streams plus calls. Very busy homes or people moving large files may want more."
+    },
+    {
+      "q": "Why is my broadband slower than advertised?",
+      "a": "Advertised speeds are often “average” or “up to” figures. Wi-fi, older devices, busy evening times and the distance to the cabinet (on part fibre) all affect speed. Test on a wired connection first."
+    }
+  ],
+  "keywords": [
+    "broadband speed",
+    "what speed do i need",
+    "mbps",
+    "internet speed",
+    "upload speed",
+    "latency"
+  ],
+  "cardText": "Streaming, gaming, home working: how much speed your household really needs.",
+  "related": [
+    "full-fibre-broadband",
+    "broadband",
+    "rural-broadband"
+  ]
+}

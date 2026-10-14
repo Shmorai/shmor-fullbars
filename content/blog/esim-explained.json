@@ -1,0 +1,52 @@
+{
+  "updated": "2026-09-28",
+  "type": "post",
+  "slug": "blog/esim-explained",
+  "date": "2026-09-28",
+  "short": "eSIM explained",
+  "title": "eSIM Explained: How Digital SIMs Work and Who Uses Them",
+  "description": "What an eSIM is, which phones support it, how to switch networks or add a travel eSIM, and the pros and cons compared with a physical SIM card.",
+  "h1": "eSIM explained",
+  "intro": "An eSIM is a SIM built into your phone and downloaded over the air. It makes switching networks and adding travel data quicker, and some newer phones no longer have a physical SIM slot.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1753385158278-387d4dda60c4",
+    "alt": "SIM cards and SIM adaptors laid out on a table",
+    "credit": "User_Pascal",
+    "creditUrl": "https://unsplash.com/@user_pascal"
+  },
+  "sections": [
+    {
+      "h2": "How an eSIM works",
+      "html": "<p>Instead of inserting a plastic card, you scan a QR code or use your network’s app to download a profile to your phone. Most eSIM phones can store several profiles and use one or two at a time.</p>"
+    },
+    {
+      "h2": "Which phones support it",
+      "html": "<p>Recent iPhones, Google Pixels, Samsung Galaxy phones and many other models support eSIM, as do some smartwatches and tablets. Some US iPhone models are eSIM-only. Check your phone’s settings or the manufacturer’s site.</p>"
+    },
+    {
+      "h2": "Pros and cons",
+      "html": "<ul><li><strong>Pros</strong>: instant activation, easy dual-SIM, no waiting for post, handy travel eSIMs.</li><li><strong>Cons</strong>: moving to a new phone means transferring or re-downloading the profile; not every provider supports eSIM on every plan.</li></ul>"
+    },
+    {
+      "h2": "Switching to an eSIM provider",
+      "html": "<p>Your number-keeping rights are the same. In the UK, text PAC to 65075 and give the code to your new provider. In the US, ask the new carrier to port your number.</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "GSMA: eSIM",
+      "url": "https://www.gsma.com/solutions-and-impact/technologies/esim/"
+    }
+  ],
+  "keywords": [
+    "esim",
+    "e-sim",
+    "digital sim",
+    "travel esim",
+    "dual sim"
+  ],
+  "related": [
+    "sim-only-deals",
+    "roaming"
+  ]
+}

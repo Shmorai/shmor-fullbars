@@ -1,0 +1,1488 @@
+{
+  "updated": "2026-10-14",
+  "slug": "providers",
+  "nav": "Providers",
+  "navOrder": 5,
+  "title": "Broadband & Mobile Providers: UK, USA & Europe",
+  "description": "Every major broadband, mobile and SIM-only provider in the UK, USA and Europe on one page: networks, owners, services and official websites, side by side.",
+  "eyebrow": "Provider directory",
+  "h1": "Providers at a glance",
+  "intro": "Our SIM-style cards cut through the branding. Filter by region to see who sells broadband and mobile, which network each one uses, who owns it and where to find the official site.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1557174360-3f4f7c724501",
+    "alt": "Mobile phone mast with antennas against the sky",
+    "credit": "Dušan veverkolog",
+    "creditUrl": "https://unsplash.com/@veverkolog"
+  },
+  "search": false,
+  "blocks": [
+    {
+      "type": "specs",
+      "title": "UK broadband providers",
+      "intro": "Openreach-based brands, Virgin Media’s own network, and full fibre altnets.",
+      "items": [
+        {
+          "tag": "uk",
+          "mono": "BT",
+          "title": "BT",
+          "kind": "Broadband · Landline · TV",
+          "text": "The UK’s former national phone company and one of its biggest broadband providers.",
+          "specs": [
+            [
+              "Network",
+              "Openreach"
+            ],
+            [
+              "Tech",
+              "Full fibre &amp; part fibre"
+            ],
+            [
+              "Also sells",
+              "TV, landline"
+            ],
+            [
+              "Owner",
+              "BT Group"
+            ]
+          ],
+          "url": "https://www.bt.com/",
+          "badge": "Big four"
+        },
+        {
+          "tag": "uk",
+          "mono": "Sk",
+          "title": "Sky",
+          "kind": "Broadband · TV · Mobile",
+          "text": "Best known for TV packages; broadband runs over the Openreach network.",
+          "specs": [
+            [
+              "Network",
+              "Openreach"
+            ],
+            [
+              "Tech",
+              "Full fibre &amp; part fibre"
+            ],
+            [
+              "Also sells",
+              "TV, Sky Mobile (O2)"
+            ],
+            [
+              "Owner",
+              "Comcast"
+            ]
+          ],
+          "url": "https://www.sky.com/",
+          "badge": "Big four"
+        },
+        {
+          "tag": "uk",
+          "mono": "VM",
+          "title": "Virgin Media",
+          "kind": "Broadband · TV · Mobile",
+          "text": "Runs its own cable and fibre network instead of Openreach, so availability is address by address.",
+          "specs": [
+            [
+              "Network",
+              "Own cable &amp; fibre"
+            ],
+            [
+              "Tech",
+              "Cable (DOCSIS) &amp; full fibre"
+            ],
+            [
+              "Also sells",
+              "TV, landline, mobile (O2)"
+            ],
+            [
+              "Owner",
+              "Virgin Media O2"
+            ]
+          ],
+          "url": "https://www.virginmedia.com/",
+          "badge": "Big four"
+        },
+        {
+          "tag": "uk",
+          "mono": "TT",
+          "title": "TalkTalk",
+          "kind": "Broadband · Landline",
+          "text": "A broadband-focused provider that rents lines from Openreach and some alternative full fibre networks.",
+          "specs": [
+            [
+              "Network",
+              "Openreach + altnets"
+            ],
+            [
+              "Tech",
+              "Full fibre &amp; part fibre"
+            ],
+            [
+              "Focus",
+              "Broadband value"
+            ],
+            [
+              "Owner",
+              "TalkTalk Group"
+            ]
+          ],
+          "url": "https://www.talktalk.co.uk/",
+          "badge": "Big four"
+        },
+        {
+          "tag": "uk",
+          "mono": "Vf",
+          "title": "Vodafone",
+          "kind": "Broadband · Mobile",
+          "text": "Sells home broadband over Openreach and CityFibre alongside its mobile network.",
+          "specs": [
+            [
+              "Network",
+              "Openreach &amp; CityFibre"
+            ],
+            [
+              "Tech",
+              "Full fibre &amp; part fibre"
+            ],
+            [
+              "Also sells",
+              "Mobile, SIM only"
+            ],
+            [
+              "Owner",
+              "VodafoneThree"
+            ]
+          ],
+          "url": "https://www.vodafone.co.uk/"
+        },
+        {
+          "tag": "uk",
+          "mono": "EE",
+          "title": "EE",
+          "kind": "Broadband · Mobile · TV",
+          "text": "BT Group’s consumer brand, often bundling home broadband with EE mobile plans.",
+          "specs": [
+            [
+              "Network",
+              "Openreach"
+            ],
+            [
+              "Tech",
+              "Full fibre &amp; part fibre"
+            ],
+            [
+              "Also sells",
+              "Mobile, EE TV"
+            ],
+            [
+              "Owner",
+              "BT Group"
+            ]
+          ],
+          "url": "https://ee.co.uk/"
+        },
+        {
+          "tag": "uk",
+          "mono": "Pn",
+          "title": "Plusnet",
+          "kind": "Broadband · Landline",
+          "text": "A no-frills broadband brand from BT Group, run over the Openreach network.",
+          "specs": [
+            [
+              "Network",
+              "Openreach"
+            ],
+            [
+              "Tech",
+              "Full fibre &amp; part fibre"
+            ],
+            [
+              "Focus",
+              "Broadband value"
+            ],
+            [
+              "Owner",
+              "BT Group"
+            ]
+          ],
+          "url": "https://www.plus.net/"
+        },
+        {
+          "tag": "uk",
+          "mono": "Hy",
+          "title": "Hyperoptic",
+          "kind": "Full fibre broadband",
+          "text": "An alternative network that builds full fibre mainly into apartment blocks and city homes.",
+          "specs": [
+            [
+              "Network",
+              "Own full fibre"
+            ],
+            [
+              "Tech",
+              "Full fibre (FTTP)"
+            ],
+            [
+              "Where",
+              "Mostly cities &amp; flats"
+            ],
+            [
+              "Type",
+              "Altnet"
+            ]
+          ],
+          "url": "https://www.hyperoptic.com/"
+        },
+        {
+          "tag": "uk",
+          "mono": "CF",
+          "title": "Community Fibre",
+          "kind": "Full fibre broadband",
+          "text": "A London-focused full fibre network selling broadband directly to homes it has connected.",
+          "specs": [
+            [
+              "Network",
+              "Own full fibre"
+            ],
+            [
+              "Tech",
+              "Full fibre (FTTP)"
+            ],
+            [
+              "Where",
+              "London"
+            ],
+            [
+              "Type",
+              "Altnet"
+            ]
+          ],
+          "url": "https://communityfibre.co.uk/"
+        },
+        {
+          "tag": "uk",
+          "mono": "Zn",
+          "title": "Zen Internet",
+          "kind": "Broadband · Landline",
+          "text": "An independent UK provider that sells broadband over Openreach and CityFibre lines.",
+          "specs": [
+            [
+              "Network",
+              "Openreach &amp; CityFibre"
+            ],
+            [
+              "Tech",
+              "Full fibre &amp; part fibre"
+            ],
+            [
+              "Focus",
+              "Service-led ISP"
+            ],
+            [
+              "Type",
+              "Independent"
+            ]
+          ],
+          "url": "https://www.zen.co.uk/"
+        },
+        {
+          "tag": "uk",
+          "mono": "NW",
+          "title": "NOW Broadband",
+          "kind": "Broadband · Streaming",
+          "text": "Sky’s no-contract streaming brand also sells broadband over the Openreach network.",
+          "specs": [
+            [
+              "Network",
+              "Openreach"
+            ],
+            [
+              "Tech",
+              "Full fibre &amp; part fibre"
+            ],
+            [
+              "Also sells",
+              "NOW streaming passes"
+            ],
+            [
+              "Owner",
+              "Sky"
+            ]
+          ],
+          "url": "https://www.nowtv.com/"
+        },
+        {
+          "tag": "uk",
+          "mono": "YF",
+          "title": "YouFibre",
+          "kind": "Full fibre broadband",
+          "text": "An alternative full fibre provider known for multi-gigabit home packages where its network reaches.",
+          "specs": [
+            [
+              "Network",
+              "Altnet full fibre"
+            ],
+            [
+              "Tech",
+              "Full fibre (FTTP)"
+            ],
+            [
+              "Where",
+              "Selected towns"
+            ],
+            [
+              "Type",
+              "Altnet"
+            ]
+          ],
+          "url": "https://www.youfibre.com/"
+        }
+      ]
+    },
+    {
+      "type": "specs",
+      "class": "alt",
+      "title": "UK mobile networks and brands",
+      "intro": "Four networks own the masts; MVNO brands rent space on them.",
+      "items": [
+        {
+          "tag": "uk",
+          "mono": "EE",
+          "title": "EE",
+          "kind": "Mobile network",
+          "text": "One of the UK’s four networks that own their masts; other brands such as BT Mobile run on it.",
+          "specs": [
+            [
+              "Type",
+              "Network operator"
+            ],
+            [
+              "Owner",
+              "BT Group"
+            ],
+            [
+              "Brands on it",
+              "BT Mobile"
+            ],
+            [
+              "eSIM",
+              "Yes"
+            ]
+          ],
+          "url": "https://ee.co.uk/",
+          "badge": "Network"
+        },
+        {
+          "tag": "uk",
+          "mono": "O2",
+          "title": "O2",
+          "kind": "Mobile network",
+          "text": "A UK network operator whose masts also carry giffgaff, Tesco Mobile, Sky Mobile and Virgin Mobile.",
+          "specs": [
+            [
+              "Type",
+              "Network operator"
+            ],
+            [
+              "Owner",
+              "Virgin Media O2"
+            ],
+            [
+              "Brands on it",
+              "giffgaff, Tesco Mobile, Sky Mobile"
+            ],
+            [
+              "eSIM",
+              "Yes"
+            ]
+          ],
+          "url": "https://www.o2.co.uk/",
+          "badge": "Network"
+        },
+        {
+          "tag": "uk",
+          "mono": "Vf",
+          "title": "Vodafone",
+          "kind": "Mobile network",
+          "text": "Merged with Three in 2025 to form VodafoneThree; both brands are still sold separately.",
+          "specs": [
+            [
+              "Type",
+              "Network operator"
+            ],
+            [
+              "Owner",
+              "VodafoneThree"
+            ],
+            [
+              "Brands on it",
+              "VOXI, Lebara, Asda Mobile, Talkmobile"
+            ],
+            [
+              "eSIM",
+              "Yes"
+            ]
+          ],
+          "url": "https://www.vodafone.co.uk/",
+          "badge": "Network"
+        },
+        {
+          "tag": "uk",
+          "mono": "3",
+          "title": "Three",
+          "kind": "Mobile network",
+          "text": "Now part of VodafoneThree; its network also carries Smarty and iD Mobile.",
+          "specs": [
+            [
+              "Type",
+              "Network operator"
+            ],
+            [
+              "Owner",
+              "VodafoneThree"
+            ],
+            [
+              "Brands on it",
+              "Smarty, iD Mobile"
+            ],
+            [
+              "eSIM",
+              "Yes"
+            ]
+          ],
+          "url": "https://www.three.co.uk/",
+          "badge": "Network"
+        },
+        {
+          "tag": "uk",
+          "mono": "gg",
+          "title": "giffgaff",
+          "kind": "SIM only · Monthly rolling",
+          "text": "A SIM-only brand with monthly “goodybags” and no long contract, running on O2.",
+          "specs": [
+            [
+              "Uses network",
+              "O2"
+            ],
+            [
+              "Contracts",
+              "Mainly 30-day rolling"
+            ],
+            [
+              "Owner",
+              "Virgin Media O2"
+            ],
+            [
+              "Type",
+              "MVNO"
+            ]
+          ],
+          "url": "https://www.giffgaff.com/"
+        },
+        {
+          "tag": "uk",
+          "mono": "Sm",
+          "title": "Smarty",
+          "kind": "SIM only",
+          "text": "A SIM-only brand from Three with straightforward data plans, running on the Three network.",
+          "specs": [
+            [
+              "Uses network",
+              "Three"
+            ],
+            [
+              "Contracts",
+              "1-month &amp; longer"
+            ],
+            [
+              "Owner",
+              "VodafoneThree"
+            ],
+            [
+              "Type",
+              "MVNO"
+            ]
+          ],
+          "url": "https://smarty.co.uk/"
+        },
+        {
+          "tag": "uk",
+          "mono": "Te",
+          "title": "Tesco Mobile",
+          "kind": "Phones · SIM only",
+          "text": "A joint venture between Tesco and Virgin Media O2, running on the O2 network.",
+          "specs": [
+            [
+              "Uses network",
+              "O2"
+            ],
+            [
+              "Sells",
+              "Phones &amp; SIM only"
+            ],
+            [
+              "Owner",
+              "Tesco / VMO2"
+            ],
+            [
+              "Type",
+              "MVNO"
+            ]
+          ],
+          "url": "https://www.tescomobile.com/"
+        },
+        {
+          "tag": "uk",
+          "mono": "VX",
+          "title": "VOXI",
+          "kind": "SIM only",
+          "text": "Vodafone’s SIM-only brand aimed at younger users, running on the Vodafone network.",
+          "specs": [
+            [
+              "Uses network",
+              "Vodafone"
+            ],
+            [
+              "Contracts",
+              "30-day rolling"
+            ],
+            [
+              "Owner",
+              "VodafoneThree"
+            ],
+            [
+              "Type",
+              "MVNO"
+            ]
+          ],
+          "url": "https://www.voxi.co.uk/"
+        },
+        {
+          "tag": "uk",
+          "mono": "iD",
+          "title": "iD Mobile",
+          "kind": "Phones · SIM only",
+          "text": "The Currys-owned mobile brand, running on the Three network.",
+          "specs": [
+            [
+              "Uses network",
+              "Three"
+            ],
+            [
+              "Sells",
+              "Phones &amp; SIM only"
+            ],
+            [
+              "Owner",
+              "Currys"
+            ],
+            [
+              "Type",
+              "MVNO"
+            ]
+          ],
+          "url": "https://www.idmobile.co.uk/"
+        },
+        {
+          "tag": "uk",
+          "mono": "Lb",
+          "title": "Lebara",
+          "kind": "SIM only · International",
+          "text": "A SIM-only brand known for international calling bundles, running on Vodafone.",
+          "specs": [
+            [
+              "Uses network",
+              "Vodafone"
+            ],
+            [
+              "Focus",
+              "Calls abroad"
+            ],
+            [
+              "Contracts",
+              "30-day rolling"
+            ],
+            [
+              "Type",
+              "MVNO"
+            ]
+          ],
+          "url": "https://www.lebara.co.uk/"
+        },
+        {
+          "tag": "uk",
+          "mono": "SM",
+          "title": "Sky Mobile",
+          "kind": "Phones · SIM only",
+          "text": "Sky’s mobile brand, which runs on O2 and can roll unused data into a savings pot.",
+          "specs": [
+            [
+              "Uses network",
+              "O2"
+            ],
+            [
+              "Sells",
+              "Phones &amp; SIM only"
+            ],
+            [
+              "Owner",
+              "Sky"
+            ],
+            [
+              "Type",
+              "MVNO"
+            ]
+          ],
+          "url": "https://www.sky.com/mobile"
+        },
+        {
+          "tag": "uk",
+          "mono": "BT",
+          "title": "BT Mobile",
+          "kind": "Phones · SIM only",
+          "text": "BT’s mobile plans run on the EE network, also owned by BT Group.",
+          "specs": [
+            [
+              "Uses network",
+              "EE"
+            ],
+            [
+              "Sells",
+              "Phones &amp; SIM only"
+            ],
+            [
+              "Owner",
+              "BT Group"
+            ],
+            [
+              "Type",
+              "MVNO"
+            ]
+          ],
+          "url": "https://www.bt.com/mobile"
+        }
+      ]
+    },
+    {
+      "type": "specs",
+      "title": "USA: internet and wireless",
+      "intro": "Cable and fiber internet is regional in the US, while the three national carriers run the mobile networks. <a href=\"/usa/\">Read the US guide</a>.",
+      "items": [
+        {
+          "tag": "us",
+          "mono": "Xf",
+          "title": "Xfinity",
+          "kind": "Internet · TV · Mobile",
+          "text": "Comcast’s brand and one of the largest US home internet providers, mostly over cable.",
+          "specs": [
+            [
+              "Network",
+              "Own cable &amp; fiber"
+            ],
+            [
+              "Mobile",
+              "Xfinity Mobile (Verizon)"
+            ],
+            [
+              "Owner",
+              "Comcast"
+            ],
+            [
+              "Coverage",
+              "Regional"
+            ]
+          ],
+          "url": "https://www.xfinity.com/",
+          "badge": "Cable"
+        },
+        {
+          "tag": "us",
+          "mono": "Sp",
+          "title": "Spectrum",
+          "kind": "Internet · TV · Mobile",
+          "text": "Charter’s brand, selling cable internet across many states, with mobile on Verizon’s network.",
+          "specs": [
+            [
+              "Network",
+              "Own cable"
+            ],
+            [
+              "Mobile",
+              "Spectrum Mobile (Verizon)"
+            ],
+            [
+              "Owner",
+              "Charter"
+            ],
+            [
+              "Coverage",
+              "Regional"
+            ]
+          ],
+          "url": "https://www.spectrum.com/",
+          "badge": "Cable"
+        },
+        {
+          "tag": "us",
+          "mono": "AT",
+          "title": "AT&T",
+          "kind": "Fiber · Wireless",
+          "text": "Runs a national mobile network plus AT&amp;T Fiber and fixed wireless home internet in parts of the country.",
+          "specs": [
+            [
+              "Network",
+              "Own fiber &amp; wireless"
+            ],
+            [
+              "Home options",
+              "Fiber, Internet Air"
+            ],
+            [
+              "Prepaid brand",
+              "Cricket"
+            ],
+            [
+              "Coverage",
+              "National mobile"
+            ]
+          ],
+          "url": "https://www.att.com/",
+          "badge": "Carrier"
+        },
+        {
+          "tag": "us",
+          "mono": "Vz",
+          "title": "Verizon",
+          "kind": "Fios · 5G Home · Wireless",
+          "text": "A national mobile carrier that also sells Fios fiber in the Northeast and 5G Home Internet.",
+          "specs": [
+            [
+              "Network",
+              "Own fiber &amp; wireless"
+            ],
+            [
+              "Home options",
+              "Fios, 5G Home"
+            ],
+            [
+              "Prepaid brands",
+              "Visible, Total"
+            ],
+            [
+              "Coverage",
+              "National mobile"
+            ]
+          ],
+          "url": "https://www.verizon.com/",
+          "badge": "Carrier"
+        },
+        {
+          "tag": "us",
+          "mono": "TM",
+          "title": "T-Mobile",
+          "kind": "5G Home · Wireless",
+          "text": "A national mobile carrier whose 5G Home Internet is a popular alternative to cable.",
+          "specs": [
+            [
+              "Network",
+              "Own wireless"
+            ],
+            [
+              "Home options",
+              "5G Home Internet, fiber in some areas"
+            ],
+            [
+              "Brands",
+              "Metro, Mint Mobile"
+            ],
+            [
+              "Coverage",
+              "National mobile"
+            ]
+          ],
+          "url": "https://www.t-mobile.com/",
+          "badge": "Carrier"
+        },
+        {
+          "tag": "us",
+          "mono": "SL",
+          "title": "Starlink",
+          "kind": "Satellite internet",
+          "text": "SpaceX’s low-orbit satellite service, used where cable and fiber don’t reach.",
+          "specs": [
+            [
+              "Network",
+              "Low-orbit satellites"
+            ],
+            [
+              "Kit",
+              "Dish you set up"
+            ],
+            [
+              "Best for",
+              "Rural homes, RVs"
+            ],
+            [
+              "Coverage",
+              "Most of the US"
+            ]
+          ],
+          "url": "https://www.starlink.com/",
+          "badge": "Satellite"
+        },
+        {
+          "tag": "us",
+          "mono": "Mi",
+          "title": "Mint Mobile",
+          "kind": "Prepaid wireless",
+          "text": "Prepaid plans bought in multi-month blocks, running on T-Mobile’s network.",
+          "specs": [
+            [
+              "Uses network",
+              "T-Mobile"
+            ],
+            [
+              "Plans",
+              "Prepaid, multi-month"
+            ],
+            [
+              "Owner",
+              "T-Mobile"
+            ],
+            [
+              "Type",
+              "MVNO"
+            ]
+          ],
+          "url": "https://www.mintmobile.com/"
+        },
+        {
+          "tag": "us",
+          "mono": "Vi",
+          "title": "Visible",
+          "kind": "Prepaid wireless",
+          "text": "Verizon’s app-based, all-digital brand running on the Verizon network.",
+          "specs": [
+            [
+              "Uses network",
+              "Verizon"
+            ],
+            [
+              "Plans",
+              "Monthly, no contract"
+            ],
+            [
+              "Owner",
+              "Verizon"
+            ],
+            [
+              "Type",
+              "MVNO"
+            ]
+          ],
+          "url": "https://www.visible.com/"
+        },
+        {
+          "tag": "us",
+          "mono": "Cr",
+          "title": "Cricket Wireless",
+          "kind": "Prepaid wireless",
+          "text": "AT&amp;T’s prepaid brand, sold online and in stores.",
+          "specs": [
+            [
+              "Uses network",
+              "AT&amp;T"
+            ],
+            [
+              "Plans",
+              "Prepaid"
+            ],
+            [
+              "Owner",
+              "AT&amp;T"
+            ],
+            [
+              "Type",
+              "MVNO"
+            ]
+          ],
+          "url": "https://www.cricketwireless.com/"
+        },
+        {
+          "tag": "us",
+          "mono": "Fi",
+          "title": "Google Fi",
+          "kind": "Wireless",
+          "text": "Google’s phone service, running mainly on T-Mobile, popular with travelers for its international data.",
+          "specs": [
+            [
+              "Uses network",
+              "T-Mobile"
+            ],
+            [
+              "Plans",
+              "Monthly"
+            ],
+            [
+              "Owner",
+              "Google"
+            ],
+            [
+              "Type",
+              "MVNO"
+            ]
+          ],
+          "url": "https://fi.google.com/"
+        },
+        {
+          "tag": "us",
+          "mono": "Co",
+          "title": "Cox",
+          "kind": "Internet · TV",
+          "text": "A private cable provider serving parts of the South, Southwest and Midwest.",
+          "specs": [
+            [
+              "Network",
+              "Own cable &amp; fiber"
+            ],
+            [
+              "Also sells",
+              "TV, Cox Mobile"
+            ],
+            [
+              "Owner",
+              "Cox Enterprises"
+            ],
+            [
+              "Coverage",
+              "Regional"
+            ]
+          ],
+          "url": "https://www.cox.com/"
+        },
+        {
+          "tag": "us",
+          "mono": "Mt",
+          "title": "Metro by T-Mobile",
+          "kind": "Prepaid wireless",
+          "text": "T-Mobile’s prepaid brand with phone deals sold through stores.",
+          "specs": [
+            [
+              "Uses network",
+              "T-Mobile"
+            ],
+            [
+              "Plans",
+              "Prepaid"
+            ],
+            [
+              "Owner",
+              "T-Mobile"
+            ],
+            [
+              "Type",
+              "Sub-brand"
+            ]
+          ],
+          "url": "https://www.metrobyt-mobile.com/"
+        }
+      ]
+    },
+    {
+      "type": "specs",
+      "class": "alt",
+      "title": "Europe: major operators",
+      "intro": "Leading operators in Germany, France, Spain, Italy, the Netherlands and Ireland. <a href=\"/europe/\">Read the Europe guide</a>.",
+      "tabs": [
+        {
+          "id": "DE",
+          "label": "Germany"
+        },
+        {
+          "id": "FR",
+          "label": "France"
+        },
+        {
+          "id": "ES",
+          "label": "Spain"
+        },
+        {
+          "id": "IT",
+          "label": "Italy"
+        },
+        {
+          "id": "NL",
+          "label": "NL"
+        },
+        {
+          "id": "IE",
+          "label": "Ireland"
+        }
+      ],
+      "items": [
+        {
+          "tag": "DE",
+          "mono": "DT",
+          "title": "Deutsche Telekom",
+          "kind": "Germany · Fixed & mobile",
+          "text": "Germany’s largest operator, selling DSL, fibre, MagentaTV and mobile under the Telekom brand.",
+          "specs": [
+            [
+              "Country",
+              "Germany"
+            ],
+            [
+              "Network",
+              "Own fixed &amp; mobile"
+            ],
+            [
+              "Brand",
+              "Telekom / Magenta"
+            ],
+            [
+              "Type",
+              "Incumbent"
+            ]
+          ],
+          "url": "https://www.telekom.de/",
+          "badge": "DE"
+        },
+        {
+          "tag": "DE",
+          "mono": "Vf",
+          "title": "Vodafone Germany",
+          "kind": "Germany · Cable & mobile",
+          "text": "Runs a large cable broadband network as well as a mobile network.",
+          "specs": [
+            [
+              "Country",
+              "Germany"
+            ],
+            [
+              "Network",
+              "Own cable &amp; mobile"
+            ],
+            [
+              "Tech",
+              "Cable, DSL, fibre"
+            ],
+            [
+              "Type",
+              "Operator"
+            ]
+          ],
+          "url": "https://www.vodafone.de/",
+          "badge": "DE"
+        },
+        {
+          "tag": "DE",
+          "mono": "O2",
+          "title": "O2 Telefónica",
+          "kind": "Germany · Mobile & DSL",
+          "text": "Telefónica’s German mobile network, also selling home internet.",
+          "specs": [
+            [
+              "Country",
+              "Germany"
+            ],
+            [
+              "Network",
+              "Own mobile"
+            ],
+            [
+              "Also sells",
+              "Home internet"
+            ],
+            [
+              "Owner",
+              "Telefónica"
+            ]
+          ],
+          "url": "https://www.o2online.de/",
+          "badge": "DE"
+        },
+        {
+          "tag": "DE",
+          "mono": "11",
+          "title": "1&1",
+          "kind": "Germany · Mobile & DSL",
+          "text": "Germany’s newest network operator, building its own 5G network alongside broadband sales.",
+          "specs": [
+            [
+              "Country",
+              "Germany"
+            ],
+            [
+              "Network",
+              "Own 5G + roaming partner"
+            ],
+            [
+              "Also sells",
+              "DSL &amp; fibre"
+            ],
+            [
+              "Type",
+              "Challenger"
+            ]
+          ],
+          "url": "https://www.1und1.de/",
+          "badge": "DE"
+        },
+        {
+          "tag": "FR",
+          "mono": "Or",
+          "title": "Orange",
+          "kind": "France · Fixed & mobile",
+          "text": "France’s largest operator, selling fibre with the Livebox router plus mobile plans.",
+          "specs": [
+            [
+              "Country",
+              "France (and more)"
+            ],
+            [
+              "Network",
+              "Own fibre &amp; mobile"
+            ],
+            [
+              "Router",
+              "Livebox"
+            ],
+            [
+              "Type",
+              "Incumbent"
+            ]
+          ],
+          "url": "https://www.orange.fr/",
+          "badge": "FR"
+        },
+        {
+          "tag": "FR",
+          "mono": "Fr",
+          "title": "Free",
+          "kind": "France · Fixed & mobile",
+          "text": "Iliad’s French brand, known for Freebox packages and low-cost mobile plans.",
+          "specs": [
+            [
+              "Country",
+              "France"
+            ],
+            [
+              "Network",
+              "Own fibre &amp; mobile"
+            ],
+            [
+              "Router",
+              "Freebox"
+            ],
+            [
+              "Owner",
+              "Iliad"
+            ]
+          ],
+          "url": "https://www.free.fr/",
+          "badge": "FR"
+        },
+        {
+          "tag": "FR",
+          "mono": "SF",
+          "title": "SFR",
+          "kind": "France · Fixed & mobile",
+          "text": "One of France’s four mobile operators, with fibre and cable broadband.",
+          "specs": [
+            [
+              "Country",
+              "France"
+            ],
+            [
+              "Network",
+              "Own fibre &amp; mobile"
+            ],
+            [
+              "Router",
+              "SFR Box"
+            ],
+            [
+              "Owner",
+              "Altice France"
+            ]
+          ],
+          "url": "https://www.sfr.fr/",
+          "badge": "FR"
+        },
+        {
+          "tag": "FR",
+          "mono": "BY",
+          "title": "Bouygues Telecom",
+          "kind": "France · Fixed & mobile",
+          "text": "A French operator selling Bbox fibre broadband and mobile plans.",
+          "specs": [
+            [
+              "Country",
+              "France"
+            ],
+            [
+              "Network",
+              "Own mobile, fibre"
+            ],
+            [
+              "Router",
+              "Bbox"
+            ],
+            [
+              "Owner",
+              "Bouygues"
+            ]
+          ],
+          "url": "https://www.bouyguestelecom.fr/",
+          "badge": "FR"
+        },
+        {
+          "tag": "ES",
+          "mono": "Mv",
+          "title": "Movistar",
+          "kind": "Spain · Fixed & mobile",
+          "text": "Telefónica’s Spanish brand, with one of Europe’s largest fibre networks.",
+          "specs": [
+            [
+              "Country",
+              "Spain"
+            ],
+            [
+              "Network",
+              "Own fibre &amp; mobile"
+            ],
+            [
+              "Also sells",
+              "Movistar Plus+ TV"
+            ],
+            [
+              "Owner",
+              "Telefónica"
+            ]
+          ],
+          "url": "https://www.movistar.es/",
+          "badge": "ES"
+        },
+        {
+          "tag": "ES",
+          "mono": "MO",
+          "title": "MasOrange",
+          "kind": "Spain · Fixed & mobile",
+          "text": "Formed in 2024 by merging Orange Spain and MásMóvil; sells under Orange, Yoigo and other brands.",
+          "specs": [
+            [
+              "Country",
+              "Spain"
+            ],
+            [
+              "Network",
+              "Own fibre &amp; mobile"
+            ],
+            [
+              "Brands",
+              "Orange, Yoigo, MásMóvil"
+            ],
+            [
+              "Type",
+              "Operator"
+            ]
+          ],
+          "url": "https://www.orange.es/",
+          "badge": "ES"
+        },
+        {
+          "tag": "ES",
+          "mono": "DG",
+          "title": "DIGI",
+          "kind": "Spain · Low cost",
+          "text": "A low-cost operator that has grown fast in Spain with its own fibre and mobile offers.",
+          "specs": [
+            [
+              "Country",
+              "Spain (and Romania)"
+            ],
+            [
+              "Network",
+              "Own fibre, growing mobile"
+            ],
+            [
+              "Focus",
+              "Low cost"
+            ],
+            [
+              "Type",
+              "Challenger"
+            ]
+          ],
+          "url": "https://www.digimobil.es/",
+          "badge": "ES"
+        },
+        {
+          "tag": "IT",
+          "mono": "TI",
+          "title": "TIM",
+          "kind": "Italy · Fixed & mobile",
+          "text": "Italy’s former national telecom operator, selling fibre and mobile.",
+          "specs": [
+            [
+              "Country",
+              "Italy"
+            ],
+            [
+              "Network",
+              "Own mobile"
+            ],
+            [
+              "Also sells",
+              "TIMVISION"
+            ],
+            [
+              "Type",
+              "Incumbent"
+            ]
+          ],
+          "url": "https://www.tim.it/",
+          "badge": "IT"
+        },
+        {
+          "tag": "IT",
+          "mono": "il",
+          "title": "Iliad",
+          "kind": "Italy · Mobile & fibre",
+          "text": "The French group’s Italian brand, known for simple mobile plans since 2018.",
+          "specs": [
+            [
+              "Country",
+              "Italy"
+            ],
+            [
+              "Network",
+              "Own mobile"
+            ],
+            [
+              "Also sells",
+              "Fibre"
+            ],
+            [
+              "Type",
+              "Challenger"
+            ]
+          ],
+          "url": "https://www.iliad.it/",
+          "badge": "IT"
+        },
+        {
+          "tag": "NL",
+          "mono": "KP",
+          "title": "KPN",
+          "kind": "Netherlands · Fixed & mobile",
+          "text": "The Dutch incumbent, with a large fibre roll-out and a mobile network.",
+          "specs": [
+            [
+              "Country",
+              "Netherlands"
+            ],
+            [
+              "Network",
+              "Own fibre &amp; mobile"
+            ],
+            [
+              "Also sells",
+              "TV"
+            ],
+            [
+              "Type",
+              "Incumbent"
+            ]
+          ],
+          "url": "https://www.kpn.com/",
+          "badge": "NL"
+        },
+        {
+          "tag": "NL",
+          "mono": "Od",
+          "title": "Odido",
+          "kind": "Netherlands · Mobile & home",
+          "text": "The Dutch operator formerly called T-Mobile Netherlands, renamed Odido in 2023.",
+          "specs": [
+            [
+              "Country",
+              "Netherlands"
+            ],
+            [
+              "Network",
+              "Own mobile"
+            ],
+            [
+              "Also sells",
+              "Home internet"
+            ],
+            [
+              "Type",
+              "Operator"
+            ]
+          ],
+          "url": "https://www.odido.nl/",
+          "badge": "NL"
+        },
+        {
+          "tag": "IE",
+          "mono": "ei",
+          "title": "eir",
+          "kind": "Ireland · Fixed & mobile",
+          "text": "Ireland’s largest telecoms company, owning much of the country’s fixed network.",
+          "specs": [
+            [
+              "Country",
+              "Ireland"
+            ],
+            [
+              "Network",
+              "Own fixed &amp; mobile"
+            ],
+            [
+              "Also sells",
+              "TV"
+            ],
+            [
+              "Type",
+              "Incumbent"
+            ]
+          ],
+          "url": "https://www.eir.ie/",
+          "badge": "IE"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "How to read the cards",
+      "html": "<ul><li><strong>Network</strong>: the infrastructure the provider uses. Brands on the same network can offer the same top speed or coverage.</li><li><strong>Owner</strong>: helps you spot sister brands (for example, BT, EE and Plusnet are all BT Group).</li><li><strong>Official site</strong>: links go straight to the provider. Always check today’s price and availability for your address there.</li></ul><p>We don’t rank providers or publish star ratings. Prices, speeds and coverage vary by address and change often. Ownership and network details were checked in October 2026.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Why isn’t my provider listed?",
+      "a": "There are hundreds of smaller broadband and mobile providers. We list the largest and most-searched ones first and add more over time."
+    },
+    {
+      "q": "Do providers pay to appear here?",
+      "a": "No. Some links may become affiliate links, which can earn us a commission, but that doesn’t decide who is listed or what we say."
+    }
+  ],
+  "keywords": [
+    "broadband providers",
+    "mobile providers",
+    "isp list",
+    "internet providers",
+    "telecom companies",
+    "phone companies"
+  ],
+  "cardText": "UK, US and European providers on SIM-style cards: networks, owners and services.",
+  "related": [
+    "networks",
+    "broadband",
+    "mobile"
+  ]
+}
