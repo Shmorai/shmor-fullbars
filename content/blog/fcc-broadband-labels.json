@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02",
+  "updated": "2026-11-18",
   "type": "post",
   "slug": "blog/fcc-broadband-labels",
   "date": "2026-10-02",
@@ -26,6 +26,22 @@
     {
       "h2": "How to use it",
       "html": "<p>Compare labels side by side for plans available at your address. Focus on the total monthly cost after any promotion ends, plus fees, and the typical speeds rather than the “up to” headline. Keep a copy of the label when you sign up.</p>"
+    },
+    {
+      "h2": "Where to find a broadband label",
+      "html": "<p>You should see the label at the point of sale: on the provider’s website next to the plan, in its app and in stores. Providers must also make the label for your plan available in your online account and give it to you on request. Each label carries a unique plan identifier, which helps if you need to check what you signed up for or raise a complaint.</p>"
+    },
+    {
+      "h2": "Typical speed vs advertised speed",
+      "html": "<p>The label shows <strong>typical</strong> download and upload speeds, which is a better guide than an “up to” headline. Typical latency matters for video calls and gaming: lower is better. Remember that speeds over Wi-Fi in your home can be lower than the speed delivered to your router. Our <a href=\"/broadband-speed/\">broadband speed guide</a> explains what speed you actually need.</p>"
+    },
+    {
+      "h2": "Comparing two plans: a quick checklist",
+      "html": "<ul><li>Is the monthly price an introductory rate? What does it rise to and when?</li><li>Are equipment rental, installation or activation fees extra?</li><li>Is there a contract, and what happens if you leave early?</li><li>Is there a data cap, and what does extra data cost?</li><li>What are the typical speeds and latency, not just the headline speed?</li></ul><p>Add up the cost over 12 or 24 months, including fees, to see the real difference.</p>"
+    },
+    {
+      "h2": "If the service does not match the label",
+      "html": "<p>Contact the provider first and quote the plan identifier from your label. If that does not resolve it, you can file a consumer complaint with the FCC through its online complaint centre. Keep copies of the label, your bills and any speed tests.</p>"
     }
   ],
   "sources": [
@@ -42,6 +58,21 @@
   ],
   "related": [
     "usa",
-    "broadband-speed"
+    "broadband-speed",
+    "broadband"
+  ],
+  "faqs": [
+    {
+      "q": "Do mobile plans have broadband labels too?",
+      "a": "Yes. The FCC rules cover both home (fixed) and mobile broadband plans."
+    },
+    {
+      "q": "Does the label show the price after a promotion?",
+      "a": "It should. The label must show whether the monthly price is introductory, how long that rate lasts and what the price will be afterwards."
+    },
+    {
+      "q": "Can I get the label for a plan I already have?",
+      "a": "Yes. Providers must make it available in your online account and on request."
+    }
   ]
 }

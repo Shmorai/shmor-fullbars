@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14",
+  "updated": "2026-11-18",
   "type": "post",
   "slug": "blog/digital-landline-switchover",
   "date": "2026-10-14",
@@ -30,12 +30,32 @@
     {
       "h2": "What you should do now",
       "html": "<ol><li>Wait for your provider to contact you. You don’t usually need to do anything until then.</li><li>Tell your provider about any telecare, alarms or devices connected to your line.</li><li>Ask about a battery back-up if you don’t have a reliable mobile signal at home.</li><li>Be wary of cold callers asking for payment to “keep” your landline.</li></ol>"
+    },
+    {
+      "h2": "If you only have a landline, not broadband",
+      "html": "<p>You do not need to take out an internet package to keep a home phone. Providers offer digital landline-only services that use the line into your home without giving you internet access. Ask your provider what it offers and whether the price changes.</p>"
+    },
+    {
+      "h2": "Power cuts and emergency calls",
+      "html": "<p>Digital landlines stop working in a power cut unless there is a back-up. Ofcom’s rules mean providers must offer a solution that lets you call 999 for at least one hour in a power cut, free of charge if you need it (for example if you have no mobile signal at home or depend on your landline). Ask your provider, and keep a charged mobile phone handy if you can.</p>"
+    },
+    {
+      "h2": "Avoiding scams about the switchover",
+      "html": "<p>Criminals use the switchover as an excuse to cold call. Your provider will not ask you to pay to “keep” your landline or demand bank details over the phone. If in doubt, hang up and call your provider on the number on your bill.</p>"
     }
   ],
   "faqs": [
     {
       "q": "Do I have to get broadband?",
       "a": "You need a digital connection, but providers offer landline-only digital packages for people who don’t want to use the internet."
+    },
+    {
+      "q": "Will my phone number change?",
+      "a": "No. You keep your number when your line moves to digital voice."
+    },
+    {
+      "q": "Do I need a new phone?",
+      "a": "Usually not. Most corded and cordless phones work when plugged into your router or an adaptor your provider supplies."
     }
   ],
   "sources": [
@@ -61,6 +81,7 @@
   ],
   "related": [
     "home-phone",
-    "broadband"
+    "broadband",
+    "switching"
   ]
 }

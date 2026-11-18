@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28",
+  "updated": "2026-11-18",
   "type": "post",
   "slug": "blog/esim-explained",
   "date": "2026-09-28",
@@ -30,6 +30,22 @@
     {
       "h2": "Switching to an eSIM provider",
       "html": "<p>Your number-keeping rights are the same. In the UK, text PAC to 65075 and give the code to your new provider. In the US, ask the new carrier to port your number.</p>"
+    },
+    {
+      "h2": "How to set up an eSIM on your phone",
+      "html": "<ol><li>Check your phone supports eSIM and is unlocked (or locked to the network you are joining).</li><li>Order an eSIM from the network, in its app, online or in store. Most UK and US networks now offer one on pay-monthly and SIM-only plans.</li><li>You will get a QR code or an in-app activation. On iPhone go to Settings → Mobile Data (Cellular) → Add eSIM; on Android go to Settings → Network &amp; internet → SIMs → Add.</li><li>Connect to Wi-Fi while it downloads, then label the line (for example “Personal” and “Travel”) if you keep two.</li></ol><p>Keep the QR code or activation email until the eSIM is working, and never share it: anyone with it may be able to install your line.</p>"
+    },
+    {
+      "h2": "Moving an eSIM to a new phone",
+      "html": "<p>This is the step that catches people out. Many phones now offer an eSIM transfer during setup (for example iPhone to iPhone, or between some Android phones). If yours does not, ask your network for a replacement eSIM; this is usually free but may need an identity check. Do it before you wipe or trade in the old phone.</p>"
+    },
+    {
+      "h2": "Travel eSIMs and roaming",
+      "html": "<p>A travel eSIM is a data-only plan you add alongside your normal line. It can be cheaper than your network’s roaming add-on for long trips or countries outside your plan’s roaming zone. Compare it with your current roaming terms first: some UK plans include EU roaming and some US plans include Canada and Mexico. See our <a href=\"/roaming/\">roaming guide</a> for what to check.</p>"
+    },
+    {
+      "h2": "Is an eSIM safer than a physical SIM?",
+      "html": "<p>An eSIM cannot be taken out of a stolen phone and put into another, which helps. But “SIM swap” fraud still happens: criminals try to persuade a network to move your number to their device. Use a strong account password or PIN with your network, and be wary of unexpected texts asking you to approve a new eSIM.</p>"
     }
   ],
   "sources": [
@@ -47,6 +63,21 @@
   ],
   "related": [
     "sim-only-deals",
-    "roaming"
+    "roaming",
+    "mobile"
+  ],
+  "faqs": [
+    {
+      "q": "Can I use an eSIM and a physical SIM at the same time?",
+      "a": "Yes, on most dual-SIM phones. You can, for example, keep your main number on the physical SIM and add a work or travel eSIM."
+    },
+    {
+      "q": "Do I keep my number if I switch to an eSIM?",
+      "a": "Yes. Moving to an eSIM with the same network keeps your number. Moving to a new network works the same way as with a physical SIM: in the UK, text PAC to 65075 and give the code to your new network."
+    },
+    {
+      "q": "Does an eSIM cost more?",
+      "a": "Usually not. Networks generally charge the same for a plan whether it uses a physical SIM or an eSIM, though check each provider."
+    }
   ]
 }

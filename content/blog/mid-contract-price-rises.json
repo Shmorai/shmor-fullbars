@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12",
+  "updated": "2026-11-18",
   "type": "post",
   "slug": "blog/mid-contract-price-rises",
   "date": "2026-10-12",
@@ -30,6 +30,22 @@
     {
       "h2": "Older contracts",
       "html": "<p>The rule applies to contracts taken out from January 2025. If you signed earlier, your contract may still include inflation-linked or percentage rises. Providers that signed the government’s Telecoms Consumer Charter agreed that April 2026 would be the last time they apply inflation-linked increases. When your contract ends, compare a new deal.</p><p>Note that the rule makes rises clear, but doesn’t cap them: providers still set their own prices.</p>"
+    },
+    {
+      "h2": "Worked example: comparing two 24-month deals",
+      "html": "<p>Imagine two broadband deals with the same starting monthly price. Deal A has a rise of a set number of pounds each April written into the contract; Deal B has a smaller rise. Over a 24-month contract that starts in, say, October, you would usually pay two April rises, so the total cost can differ noticeably even though the advertised price was identical. Always multiply each price by the number of months you will pay it and add any set-up fees.</p>"
+    },
+    {
+      "h2": "Where to find the price rise in your contract",
+      "html": "<p>Providers must give you a short <strong>contract summary</strong> before you sign. Look for the section on prices: it should state any annual rise in pounds and pence and when it applies. If a deal page shows only the starting price, ask for the contract summary before you commit.</p>"
+    },
+    {
+      "h2": "Social tariffs and price rises",
+      "html": "<p>If you receive Universal Credit or certain other benefits, a <a href=\"/cheap-broadband/\">social tariff</a> may be cheaper than a standard deal, and many have short or no minimum terms. Check each provider’s terms for how prices change.</p>"
+    },
+    {
+      "h2": "When your contract ends",
+      "html": "<p>Your provider must tell you, before your minimum term ends, that it is ending and what its best deals are. Out-of-contract prices are often higher, so that is the time to compare. Switching broadband is easier now thanks to <a href=\"/blog/one-touch-switch/\">One Touch Switch</a>.</p>"
     }
   ],
   "sources": [
@@ -51,6 +67,21 @@
   ],
   "related": [
     "broadband",
-    "switching"
+    "switching",
+    "cheap-broadband"
+  ],
+  "faqs": [
+    {
+      "q": "Are mid-contract price rises banned completely?",
+      "a": "No. Ofcom banned inflation-linked and percentage-based rise terms in new contracts from 17 January 2025. Providers can still include rises, but they must be set out in pounds and pence when you sign."
+    },
+    {
+      "q": "Does the rule apply to mobile contracts?",
+      "a": "Yes. It applies to mobile, broadband, landline and pay-TV contracts taken out from 17 January 2025."
+    },
+    {
+      "q": "Can I leave if my provider adds a rise that was not in my contract?",
+      "a": "Usually yes. If a provider changes the price or terms in a way that was not clearly set out and is to your detriment, you can generally leave without exit fees. You should get at least one month’s notice."
+    }
   ]
 }

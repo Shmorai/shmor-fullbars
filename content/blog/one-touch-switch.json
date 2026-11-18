@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09",
+  "updated": "2026-11-18",
   "type": "post",
   "slug": "blog/one-touch-switch",
   "date": "2026-10-09",
@@ -26,6 +26,22 @@
     {
       "h2": "Your protections",
       "html": "<ul><li>You shouldn’t pay notice period charges after your switch date.</li><li>You get clear information on any early exit fees before you commit.</li><li>Providers in Ofcom’s automatic compensation scheme pay out if a switch is delayed or an engineer misses an appointment.</li></ul>"
+    },
+    {
+      "h2": "What you need before you switch",
+      "html": "<ul><li>Your full name and address as they appear on your current account.</li><li>The name of your current provider and, if asked, your account number.</li><li>A note of any services bundled with your broadband (landline number, TV, email address) so you can ask what happens to them.</li><li>Your contract end date, to avoid early exit fees.</li></ul>"
+    },
+    {
+      "h2": "Keeping your landline number",
+      "html": "<p>Tell your new provider if you want to keep your home phone number; it can usually be moved as part of the switch. As the UK moves to <a href=\"/blog/digital-landline-switchover/\">digital landlines</a>, your number stays the same even though calls go over broadband.</p>"
+    },
+    {
+      "h2": "Switching your mobile is different",
+      "html": "<p>One Touch Switch covers home broadband and landlines. To move a mobile number, text <strong>PAC</strong> to 65075 (free) and give the code to your new network. If you want to leave without keeping your number, text <strong>STAC</strong> to 75075. Your number should move within one working day. See our <a href=\"/sim-only-deals/\">SIM-only guide</a>.</p>"
+    },
+    {
+      "h2": "Avoiding a gap in service",
+      "html": "<p>Agree a switch date when your old service ends and the new one starts on the same day. If the new provider needs an engineer (for example for full fibre), ask whether your old service keeps running until the installation is done. Return any rented router to your old provider if they ask, to avoid a charge.</p>"
     }
   ],
   "sources": [
@@ -42,6 +58,21 @@
   ],
   "related": [
     "switching",
-    "broadband"
+    "broadband",
+    "full-fibre-broadband"
+  ],
+  "faqs": [
+    {
+      "q": "Do I need to call my old provider to switch broadband?",
+      "a": "No. Since September 2024 your new provider arranges the switch with your old one, across Openreach, Virgin Media and full fibre networks."
+    },
+    {
+      "q": "Will I pay for both providers during the switch?",
+      "a": "You should not pay notice period charges for your old service after the switch date. You may still owe early exit fees if you leave before your minimum term ends; you should be told about these before you commit."
+    },
+    {
+      "q": "Does One Touch Switch work for mobile phones?",
+      "a": "No. Mobile numbers move with a PAC code: text PAC to 65075 and give the code to your new network."
+    }
   ]
 }
