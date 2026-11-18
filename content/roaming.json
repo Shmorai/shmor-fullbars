@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14",
+  "updated": "2026-11-18",
   "slug": "roaming",
   "nav": "Roaming",
   "title": "Mobile Roaming Charges in Europe & Abroad Explained",
@@ -33,6 +33,10 @@
     {
       "h2": "Avoid a surprise bill",
       "html": "<ul><li>Check roaming terms and fees before you leave.</li><li>Turn off data roaming if you don’t need it, and use wi-fi.</li><li>Watch for cruise ships and flights: onboard networks are not covered by roaming rules and can be very expensive.</li><li>Set a spending cap in your network’s app.</li></ul>"
+    },
+    {
+      "h2": "What UK government guidance says about roaming",
+      "html": "<p>GOV.UK states that surcharge-free roaming in EU and EEA countries is <strong>no longer guaranteed</strong> for UK customers, so charges depend on your provider and plan. Always check your network’s current roaming terms before you leave, even if you used free roaming last year.</p><p>Border areas matter too. GOV.UK says operators must take reasonable steps to protect <strong>Northern Ireland</strong> customers from charges for inadvertently roaming on a network across the border, and must keep providing information on avoiding it. If you live near the border, switch off automatic network selection and choose your network manually.</p>"
     }
   ],
   "faqs": [
@@ -43,6 +47,14 @@
     {
       "q": "Do cruise ships count as roaming?",
       "a": "At sea, phones often connect to a ship’s satellite network, which is not covered by normal roaming deals and can be costly. Use airplane mode and ship wi-fi if available."
+    },
+    {
+      "q": "Is free roaming in the EU guaranteed for UK customers?",
+      "a": "No. GOV.UK says surcharge-free roaming in EU and EEA countries is no longer guaranteed, so check your own provider’s terms."
+    },
+    {
+      "q": "What if my phone connects to a network across the border in Northern Ireland?",
+      "a": "GOV.UK says operators must take reasonable steps to protect Northern Ireland customers from charges for inadvertent roaming. Choose your network manually if your phone keeps switching."
     }
   ],
   "keywords": [
@@ -58,5 +70,11 @@
     "europe",
     "blog/esim-explained",
     "mobile"
+  ],
+  "sources": [
+    {
+      "title": "GOV.UK: Using your mobile in EU and EEA countries",
+      "url": "https://www.gov.uk/guidance/mobile-roaming-after-eu-exit"
+    }
   ]
 }

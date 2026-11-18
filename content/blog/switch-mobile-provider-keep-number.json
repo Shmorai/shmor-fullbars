@@ -1,0 +1,85 @@
+{
+  "updated": "2026-11-18",
+  "type": "post",
+  "slug": "blog/switch-mobile-provider-keep-number",
+  "date": "2026-11-18",
+  "eyebrow": "Switching guide",
+  "title": "Switch Mobile Network and Keep Your Number: PAC & STAC",
+  "description": "How to switch mobile provider in the UK and keep your number using a PAC code, or leave without it using a STAC, with the texts to send and mistakes to avoid.",
+  "h1": "How to switch mobile provider and keep your number (PAC and STAC explained)",
+  "intro": "Changing mobile network in the UK takes days at most, and you can keep your number. The key is one short code from your current provider. Here is what to ask for, what to text and what to check before you leave.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1592890288564-76628a30a657",
+    "alt": "Person holding an Android smartphone",
+    "credit": "Jonas Leupe",
+    "creditUrl": "https://unsplash.com/@jonasleupe"
+  },
+  "keywords": [
+    "how to switch mobile provider",
+    "keep my phone number when switching",
+    "pac code",
+    "stac code",
+    "text 65075 pac code",
+    "switch mobile network uk",
+    "transfer mobile number to new provider",
+    "sim only switch",
+    "how long does it take to switch mobile network",
+    "port phone number uk"
+  ],
+  "cardText": "The texts to send, what a PAC and STAC are, and what to check before you leave your network.",
+  "sections": [
+    {
+      "h2": "PAC or STAC: which code do you need?",
+      "html": "<p>Ofcom, the UK regulator, sets out two codes for leaving a mobile provider:</p><ul><li><strong>PAC (Porting Authorisation Code):</strong> use this when you want to <strong>keep your number</strong> with your new provider.</li><li><strong>STAC (Service Termination Authorisation Code):</strong> use this when you are <strong>not keeping your number</strong> and just want to end the service.</li></ul><p>Both are free. Your new provider needs the PAC to move your number across, so you normally give it to them when you sign up for the new plan."
+    },
+    {
+      "h2": "How to get your PAC code by text",
+      "html": "<p>Ofcom’s text-to-switch service is the quickest route. Text <strong>PAC</strong> to <strong>65075</strong> from the phone you are leaving. Your provider should reply within a minute with your code, which Ofcom says is valid for <strong>30 days</strong>. For a STAC, text <strong>STAC</strong> to <strong>75075</strong>.</p><p>You can also ask for the code in your provider’s app or online account, or by phone. The reply text also tells you any early-exit charge and the date your contract ends, so read it before you pass the PAC on."
+    },
+    {
+      "h2": "What happens once you give the PAC to your new provider",
+      "html": "<p>Your new provider arranges the move with the old one. Ofcom says the switch should be completed within one working day of the request. Your new SIM, or eSIM, then takes over your number. Until it does, keep the old SIM in your phone so you can still make calls. If you are moving to an eSIM, see our guide to <a href=\"/blog/esim-explained/\">how eSIMs work</a>, and check that your phone is unlocked."
+    },
+    {
+      "h2": "Check these before you switch",
+      "html": "<ul><li><strong>Your end date and exit charges.</strong> If you are still in contract, leaving early can mean paying the remaining months. Compare that with what you would save. If your bill went up mid-contract, you may have rights, see <a href=\"/blog/mid-contract-price-rises/\">mid-contract price rises</a>.</li><li><strong>Network coverage.</strong> Many cheaper brands use a big network’s signal. Our <a href=\"/networks/\">networks guide</a> shows which brand runs on which network, so you can test the coverage at home first.</li><li><strong>Handset payments.</strong> A phone you pay for monthly is a separate agreement. It does not disappear when you switch your SIM.</li><li><strong>Phone unlocked.</strong> A locked handset will not accept another network’s SIM.</li><li><strong>Anything tied to your number.</strong> Banking apps and two-factor codes use it, so update them if you drop your old number.</li></ul>"
+    },
+    {
+      "h2": "Switching broadband and mobile are different",
+      "html": "<p>Mobile switching uses a PAC, whereas broadband switching goes through your new provider and Openreach or another network without needing a code from you. See <a href=\"/blog/one-touch-switch/\">One Touch Switch</a> and our <a href=\"/switching/\">switching guide</a> for the home internet side, or browse <a href=\"/sim-only-deals/\">SIM-only plans</a> to see providers side by side."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I get a PAC code?",
+      "a": "Text PAC to 65075 from the number you want to move. Your provider should reply within a minute. You can also ask through the app, online account or by phone."
+    },
+    {
+      "q": "How long is a PAC code valid?",
+      "a": "Ofcom says a PAC is valid for 30 days. If it expires, request a new one."
+    },
+    {
+      "q": "How long does it take to switch mobile network?",
+      "a": "Ofcom says the switch should complete within one working day after your new provider receives your PAC."
+    },
+    {
+      "q": "Do I need a PAC if I am not keeping my number?",
+      "a": "No. Ask for a STAC instead, by texting STAC to 75075, or ask your provider to cancel."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Ofcom: Switching mobile provider",
+      "url": "https://www.ofcom.org.uk/phones-and-broadband/switching-provider/switching-mobile"
+    },
+    {
+      "title": "Ofcom: Switching mobile phone provider",
+      "url": "https://ofcom.org.uk/phones-and-broadband/switching-provider/switching-mobile-phone-provider"
+    }
+  ],
+  "related": [
+    "mobile",
+    "switching",
+    "sim-only-deals"
+  ]
+}
