@@ -1,0 +1,99 @@
+{
+  "updated": "2026-11-20",
+  "type": "post",
+  "slug": "blog/slow-broadband-right-to-leave",
+  "date": "2026-11-20",
+  "eyebrow": "Your rights",
+  "title": "Slow Broadband? Your Right to Leave Without a Fee",
+  "description": "Slow broadband in the UK: how Ofcom’s speed codes work, what a minimum guaranteed speed is, the 30-day fix window and how to leave penalty-free if it fails.",
+  "h1": "Slow broadband: how to use Ofcom’s speed code to fix it or leave penalty-free",
+  "intro": "If your broadband keeps running slower than you were promised, you may not be stuck in the contract. Ofcom’s broadband speeds codes of practice give customers of signed-up providers a route to a fix, and if that fails, a way out with no early termination charge. Here is how it works and what to do first.",
+  "cardText": "Ofcom’s speed code: minimum guaranteed speed, the 30-day fix window and how to leave without penalty.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1516044734145-07ca8eef8731",
+    "alt": "Home broadband router with its status lights on",
+    "credit": "Misha Feshchak",
+    "creditUrl": "https://unsplash.com/@extaf_ms"
+  },
+  "keywords": [
+    "slow broadband rights uk",
+    "ofcom broadband speed code",
+    "minimum guaranteed speed broadband",
+    "leave broadband contract slow speed",
+    "broadband speed below guaranteed",
+    "how to complain slow broadband",
+    "broadband speed test uk",
+    "exit broadband contract without penalty",
+    "ofcom personalised speed estimate"
+  ],
+  "sections": [
+    {
+      "h2": "What the Ofcom broadband speeds code says",
+      "html": "<p>Ofcom publishes voluntary <strong>codes of practice on broadband speeds</strong> for residential and business customers. Providers that sign up agree to give you accurate speed information before you buy, including a <strong>minimum guaranteed speed</strong>, and to follow a set process if your speed falls below it. Because the codes are voluntary, the first thing to check is whether your provider has signed up: look on its website or ask customer service.</p>"
+    },
+    {
+      "h2": "Minimum guaranteed speed: the number that matters",
+      "html": "<p>Before you sign, a signed-up provider should give you an estimated speed range and a minimum guaranteed speed for your line. Ofcom also offers personalised speed estimates and a free checker that shows which types of broadband, and the fastest speeds, are available at your address. Note the minimum guaranteed speed in writing when you order. Our <a href=\"/broadband-speed/\">broadband speed guide</a> explains what speeds different activities need, and <a href=\"/full-fibre-broadband/\">full fibre</a> is worth checking if it has reached your street.</p>"
+    },
+    {
+      "h2": "Step by step: what to do if your speed is too low",
+      "html": "<ol><li><strong>Test properly.</strong> Use a wired connection to the router where possible, close other devices and run several tests at different times of day. Keep a note of the results.</li><li><strong>Report it to your provider</strong> and ask them to log it as a speed problem under its speed code, quoting your minimum guaranteed speed.</li><li><strong>Give them 30 days.</strong> Under the code, if the problem has not been fixed within 30 calendar days of being reported, the provider must offer you the right to leave. It can offer the exit sooner if it has done all it reasonably can and speeds are still low.</li><li><strong>Decide:</strong> accept the fix, or take the offer to leave.</li></ol>"
+    },
+    {
+      "h2": "What “penalty-free” means",
+      "html": "<p>Under Ofcom’s code, leaving penalty-free means no early termination charges, and the provider should refund pro rata any fees you paid upfront, such as advance line rental. Two limits to know: the right applies to the broadband service, so if it is bundled with other services such as mobile, the exit usually covers only the broadband part; and it applies where the problem lies within the provider’s own network, not, for example, a fault with your own wiring or equipment. Check exactly what your bundle includes before cancelling: see our guide to <a href=\"/tv-and-broadband/\">TV and broadband bundles</a>.</p>"
+    },
+    {
+      "h2": "Fix the easy causes first",
+      "html": "<p>Not every slow connection is the provider’s fault, and a provider can fairly ask you to rule out the basics. Before logging a complaint, restart the router, move it to a central, open spot away from thick walls and other electrical equipment, try a wired Ethernet connection for your test, and check whether the slowdown affects one device or all of them. If only one device is slow, the problem is probably the device or its Wi-Fi, not the line. Write down what you tried so you can show your provider the results.</p>"
+    },
+    {
+      "h2": "Keep a record of everything",
+      "html": "<p>Note the date and time of each speed test, the result, how you tested and every conversation with your provider, including the name of the adviser and any reference number. If the 30-day period runs out, this record is what lets you point to exactly when the problem was reported. If your provider does not respond, you can escalate to its complaints process and then to an Ofcom-approved alternative dispute resolution scheme: see <a href=\"/switching/\">our switching guide</a> for where to start.</p>"
+    },
+    {
+      "h2": "Before you cancel: line up the replacement",
+      "html": "<p>Do not cancel before you have a new service arranged. Check what is available at your address, then use <a href=\"/switching/\">our switching guide</a>: for most broadband moves, the new provider arranges the switch for you, as explained in our <a href=\"/blog/one-touch-switch/\">One Touch Switch</a> post. Also check your new contract for mid-contract price rises: see <a href=\"/blog/mid-contract-price-rises/\">your rights</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is Ofcom’s broadband speed code compulsory?",
+      "a": "No. Ofcom describes the codes as voluntary, so the right to leave applies where your provider has signed up. Check with your provider."
+    },
+    {
+      "q": "How long does my provider have to fix a slow speed?",
+      "a": "Under the code, 30 calendar days from when the problem is reported. If it is not fixed by then, the provider must offer you the chance to leave without penalty."
+    },
+    {
+      "q": "Will I get money back if I leave early?",
+      "a": "The code says no early termination charges apply, and providers should refund pro rata any fees you paid upfront, such as advance line rental."
+    },
+    {
+      "q": "Does the right to leave cover my mobile or TV in a bundle?",
+      "a": "Usually the exit applies only to the broadband service in a bundle, so check how the rest of the package would be priced if you leave."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Ofcom: Statement on updating and clarifying customers’ right to exit contracts for broadband services",
+      "url": "https://www.ofcom.org.uk/phones-and-broadband/service-quality/updating-and-clarifying-customers-right-to-exit-contracts-for-broadband-services"
+    },
+    {
+      "title": "Ofcom: Broadband speeds codes of practice",
+      "url": "https://www.ofcom.org.uk/phones-and-broadband/coverage-and-speeds/broadband-speeds-codes-practice"
+    },
+    {
+      "title": "Ofcom: Personalised speed estimates",
+      "url": "https://www.ofcom.org.uk/phones-and-broadband/coverage-and-speeds/personalised-speed-estimates"
+    },
+    {
+      "title": "Ofcom: Switching broadband provider",
+      "url": "https://www.ofcom.org.uk/phones-and-broadband/switching-provider/switching-broadband-provider"
+    }
+  ],
+  "related": [
+    "broadband-speed",
+    "switching"
+  ]
+}

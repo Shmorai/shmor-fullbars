@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14",
+  "updated": "2026-11-20",
   "slug": "cheap-broadband",
   "nav": "Social tariffs",
   "title": "Cheap Broadband: Social Tariffs & Low-Cost Plans",
@@ -36,6 +36,10 @@
       "html": "<p>Social tariffs are discounted broadband or mobile plans for households on low incomes. In the UK, many providers offer them, and Ofcom keeps an up-to-date list of who offers what. Find it on the <a href=\"https://www.ofcom.org.uk/phones-and-broadband/saving-money/social-tariffs\" rel=\"noopener\" target=\"_blank\">Ofcom social tariffs page</a>.</p>"
     },
     {
+      "h2": "Check what your line can do before you switch",
+      "html": "<p>Ofcom says that if your current provider does not offer a social tariff, you can switch to one that does, and it points to its free checker to see which types of broadband, and the fastest speeds, you can get at your address. Before you move, check the speed the social tariff actually offers: some providers’ social tariffs are slower than their standard packages. Our <a href=\"/broadband-speed/\">broadband speed guide</a> explains what different speeds are enough for, and if the speed you are given turns out to be below what was promised, see <a href=\"/blog/slow-broadband-right-to-leave/\">your right to leave under Ofcom’s speed code</a>. (Source: <a href=\"https://www.ofcom.org.uk/phones-and-broadband/switching-provider/switching-broadband-provider\" rel=\"nofollow noopener\">Ofcom: Switching broadband provider</a>.)</p>"
+    },
+    {
       "h2": "Other ways to cut your bill",
       "html": "<ul><li><strong>Haggle at the end of your contract</strong>: your provider must tell you its best deals when your term ends.</li><li><strong>Drop the landline</strong> if you don’t use it.</li><li><strong>Go SIM only</strong> once your phone is paid off. See <a href=\"/sim-only-deals/\">SIM only</a>.</li><li><strong>Pick the speed you need</strong>, not the fastest. Use our <a href=\"/broadband-speed/\">speed guide</a>.</li></ul>"
     },
@@ -52,6 +56,14 @@
     {
       "q": "Can I get a social tariff if I’m in contract?",
       "a": "Often yes. Ask your provider. Some will move you to their social tariff without an exit fee."
+    },
+    {
+      "q": "Can I switch to a social tariff from a different provider?",
+      "a": "Yes. Ofcom says that if your provider does not offer a social tariff you can switch to one that does. Check the speed on offer at your address first."
+    },
+    {
+      "q": "Do social tariffs have mid-contract price rises?",
+      "a": "Ofcom describes social tariffs as cheaper deals with no mid-contract price rises, for people on Universal Credit, Pension Credit or certain other benefits. Check the provider’s own terms for eligibility."
     }
   ],
   "keywords": [
