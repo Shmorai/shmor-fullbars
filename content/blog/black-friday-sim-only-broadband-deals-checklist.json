@@ -1,0 +1,92 @@
+{
+  "updated": "2026-11-27",
+  "type": "post",
+  "slug": "blog/black-friday-sim-only-broadband-deals-checklist",
+  "date": "2026-11-27",
+  "eyebrow": "Deal checklist",
+  "title": "Black Friday SIM and Broadband Deals: What to Check",
+  "description": "Black Friday and Cyber Monday SIM-only and broadband deals: a UK checklist on contract length, price rises, speeds, switching and your cancellation rights.",
+  "h1": "Black Friday SIM-only and broadband deals: what to check before you sign",
+  "intro": "Black Friday is 27 November 2026 and Cyber Monday is 30 November, and phone and broadband providers join in with headline offers. A bargain is only a bargain if the contract suits you. This checklist covers what to read in the small print, using Ofcom’s rules, so a one-day deal does not become a two-year problem.",
+  "cardText": "Contract length, price rises, speeds and switching rights to check before you take a Black Friday deal.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1562774555-079298a31cbe",
+    "alt": "Close-up of a mobile phone SIM card",
+    "credit": "Brett Jordan",
+    "creditUrl": "https://unsplash.com/@brett_jordan"
+  },
+  "keywords": [
+    "black friday sim only deals",
+    "black friday broadband deals",
+    "cyber monday sim deals",
+    "black friday broadband uk",
+    "what to check before signing broadband contract",
+    "sim only contract length",
+    "sim only vs broadband contract",
+    "ofcom contract rules",
+    "switch broadband black friday",
+    "cancel broadband contract 14 days"
+  ],
+  "sections": [
+    {
+      "h2": "Know what you are actually buying",
+      "html": "<p>Start with the basics, because headline offers hide them. For a <a href=\"/sim-only-deals/\">SIM-only deal</a>, note the <strong>contract length</strong> (30 days rolling or 12 to 24 months), the data allowance, whether 5G is included, and which network it runs on. Many brands use another operator’s network: our <a href=\"/networks/\">guide to which network each provider uses</a> helps you check coverage in your postcode.</p><p>For <a href=\"/broadband/\">broadband</a>, check the technology (full fibre, fibre to the cabinet, cable or 4G/5G home broadband), the speed you can actually get at your address, the contract length and any set-up fee or router charge.</p>"
+    },
+    {
+      "h2": "Check the price rise terms",
+      "html": "<p>The monthly price on a Black Friday ad is rarely the whole story. Look for how the price can change during the contract. Ofcom, the UK regulator, requires providers to state price rises in pounds and pence, not as a percentage tied to inflation, so you can see the real figure when you sign. Our guide to <a href=\"/blog/mid-contract-price-rises/\">mid-contract price rises and your rights</a> explains what you can do if the price goes up. If the provider quotes a price that only applies for the first months, find out what you pay afterwards.</p>"
+    },
+    {
+      "h2": "Compare speeds and reliability, not just price",
+      "html": "<p>Providers must give an estimated minimum speed before you sign up for broadband, and if the service is persistently slower than promised you may be allowed to leave without a penalty. See <a href=\"/blog/slow-broadband-right-to-leave/\">your right to leave over slow broadband</a>. Use Ofcom’s information on speeds and your postcode to see what is available, then compare it against the offer rather than the headline “up to” figure.</p>"
+    },
+    {
+      "h2": "Plan the switch",
+      "html": "<p>If you are moving provider, check the process before the offer ends. For broadband, <a href=\"/blog/one-touch-switch/\">One Touch Switch</a> lets your new provider handle the move between providers on the same network technology. For mobile, ask your current provider for a PAC to keep your number: see <a href=\"/blog/switch-mobile-provider-keep-number/\">how PAC and STAC codes work</a>. Make sure you are out of contract first, or have costed any early termination charges, so the saving is real.</p>"
+    },
+    {
+      "h2": "Your cancellation rights if you change your mind",
+      "html": "<p>If you buy by phone or online, UK consumer law normally gives you <strong>14 days to cancel</strong> a services contract without giving a reason, starting the day after you enter the contract, with some exceptions if you ask the service to start early (GOV.UK and Citizens Advice, as of November 2026). Check the provider’s cancellation terms and keep your confirmation email. This right does not remove charges for service you already used.</p><p>Finally, Ofcom rules mean providers must tell you when your contract is about to end and what their best deals are, so diarise the end date and re-check the market then: a Black Friday price is not forever.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "When are Black Friday and Cyber Monday 2026?",
+      "a": "Black Friday is Friday 27 November 2026 and Cyber Monday is Monday 30 November 2026."
+    },
+    {
+      "q": "Are Black Friday SIM-only deals really cheaper?",
+      "a": "Sometimes, but we do not list prices because they change daily. Compare the full contract cost, including any price rise, against the same provider’s normal price and rivals, and check the contract length."
+    },
+    {
+      "q": "Can I cancel a broadband or SIM contract I bought online?",
+      "a": "Usually you have 14 days to cancel a services contract bought at a distance, though you may pay for service you used. Check your provider’s terms and the GOV.UK and Citizens Advice guidance."
+    },
+    {
+      "q": "Do I need to be out of contract to switch?",
+      "a": "If you leave early you may owe early termination charges. Check your end date and any charges before you accept a new deal."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Ofcom: Helping consumers get better deals",
+      "url": "https://www.ofcom.org.uk/phones-and-broadband/service-quality/helping-consumers-get-better-deals"
+    },
+    {
+      "title": "GOV.UK: Online and distance selling, cancellations",
+      "url": "https://www.gov.uk/online-and-distance-selling-for-businesses/cancellations"
+    },
+    {
+      "title": "Citizens Advice: Cooling-off period for services bought at a distance",
+      "url": "https://www.citizensadvice.org.uk/consumer/different-ways-of-buying/buying-by-internet-mail-order-or-phone/cancelling-a-distance-sale-order/cooling-off-period-when-you-buy-services-distance-sale/"
+    },
+    {
+      "title": "Ofcom: Switching mobile provider",
+      "url": "https://www.ofcom.org.uk/phones-and-broadband/switching-provider/switching-mobile"
+    }
+  ],
+  "related": [
+    "sim-only-deals",
+    "switching"
+  ]
+}
